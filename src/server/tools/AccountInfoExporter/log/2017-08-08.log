@@ -1,0 +1,2 @@
+[ERROR][2017-08-08 20:30:35][AdAccountManager.php,writeExceptionLog,76][Exception Info : Failed to connect to graph.facebook.com port 443: Operation timed out ; 7 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2017-08-08 20:30:35][account_info_run.php,getAllAccountsByBMId,48][Failed to get accounts by bm id 584936385020414]

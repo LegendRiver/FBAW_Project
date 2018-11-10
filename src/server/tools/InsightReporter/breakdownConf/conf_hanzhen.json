@@ -1,0 +1,26 @@
+{
+  "channelId": 108175,
+  "startDate": "2018-03-01",
+  "endDate": "2018-03-31",
+  "isByOs": false,
+
+  "productConfig": [
+    {
+      "productName": "Opera Mini",
+      "nodeIds":[
+        "act_940674489447710",
+        "act_881549872026839",
+        "act_958136881034804"
+      ],
+      "nodeType": "Account"
+    },
+    {
+      "productName": "Opera News",
+      "nodeIds":[
+        "act_941081606073665",
+        "act_941081609406998"
+      ],
+      "nodeType": "Account"
+    }
+  ]
+}

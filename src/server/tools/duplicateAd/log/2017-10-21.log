@@ -1,0 +1,7 @@
+[INFO][2017-10-21 22:09:02][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842641523440570]
+[INFO][2017-10-21 22:09:37][DuplicateHandler.php,uploadOperation,166][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PballSy.jpg] => 956c8f5b56dae29692d4a55528b1ef5d
+)
+]
+[INFO][2017-10-21 22:10:14][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641534670570 by material: 956c8f5b56dae29692d4a55528b1ef5d]

@@ -1,0 +1,13 @@
+
+.performance-container
+{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.account-performance-div
+{
+    margin-bottom: 25px;
+}

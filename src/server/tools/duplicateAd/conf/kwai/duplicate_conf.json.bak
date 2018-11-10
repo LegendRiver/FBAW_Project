@@ -1,0 +1,88 @@
+{
+  "configInfos":[
+    {
+      "description": "F_LL13-25_android",
+      "fromAdsetId": "23842593035470762",
+      "fromAdId": "23842593035460762",
+      "materialPath": "/Users/mac/eli/clients/kwai/creative/ID_DT/20170704",
+      "isShareMaterial": false
+    },
+    {
+      "description": "F_LL13-25_ios",
+      "fromAdsetId": "23842593102130762",
+      "fromAdId": "23842593102120762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_LL13-25_ios",
+      "fromAdsetId": "23842593695640762",
+      "fromAdId": "23842593695650762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_LL13-25_android",
+      "fromAdsetId": "23842593033490762",
+      "fromAdId": "23842593033480762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "F_LL2544_android",
+      "fromAdsetId": "23842594321680762",
+      "fromAdId": "23842594321670762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_LL2544_android",
+      "fromAdsetId": "23842594325440762",
+      "fromAdId": "23842594325450762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "F_LL2544_ios",
+      "fromAdsetId": "23842594325780762",
+      "fromAdId": "23842594325790762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_LL2544_ios",
+      "fromAdsetId": "23842594326500762",
+      "fromAdId": "23842594326510762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "F_ALL_android",
+      "fromAdsetId": "23842594427940762",
+      "fromAdId": "23842594428050762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "F_All_ios",
+      "fromAdsetId": "23842593888230762",
+      "fromAdId": "23842593888370762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_ALL_ios",
+      "fromAdsetId": "23842593702160762",
+      "fromAdId": "23842593702400762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_All_android",
+      "fromAdsetId": "23842594445000762",
+      "fromAdId": "23842594445130762",
+      "materialPath": "",
+      "isShareMaterial": true
+    }
+  ]
+}

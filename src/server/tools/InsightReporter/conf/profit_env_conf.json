@@ -1,0 +1,13 @@
+{
+  "pythonDir": "/home/ubuntu/anaconda2/envs/eli_analysis/bin/python",
+  "dataStorePath": "/var/www/html/eli/server/profitData",
+  "spiderScript": "appsfly_spider/af_spider_main.py",
+  "mergerScript": "insight_analysis/script/profit_report_main.py",
+
+  "mailToAddress": [
+    "business@eliads.com"
+  ],
+  "mailTitle": "[亿栗科技]%s盈亏统计",
+  "mailContent": "您好：<br /><br />  请查收附件。<br /><br />谢谢！<br /><br />"
+
+}

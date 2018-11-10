@@ -1,0 +1,16 @@
+{
+  "channelId": 108175,
+  "startDate": "2017-07-29",
+  "endDate": "2017-07-31",
+  "isByOs": true,
+
+  "productConfig": [
+    {
+      "productName": "topbuzz",
+      "nodeIds":[
+        "act_1407990322632372"
+      ],
+      "nodeType": "Account"
+    }
+  ]
+}

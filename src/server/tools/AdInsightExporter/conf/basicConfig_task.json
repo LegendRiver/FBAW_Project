@@ -1,0 +1,81 @@
+{
+  "COMMON_CONFIG": {
+    "isExportAllAccount": true
+  },
+  "AD_CONFIG":{
+    "exportCsvPath": "/var/www/html/eli/server/insightExporter/AdInsight",
+    "insightInfoConfigName": "insightInfo.json",
+    "csvFileNamePrefix": "ad_insight_",
+    "parentId": [
+      "act_1202579213151769",
+      "act_1227059297370427",
+      "act_631702523677133",
+      "act_1227059294037094",
+      "act_781022292079598",
+      "act_783764875138673",
+      "act_791502277698266",
+      "act_808991965949297",
+      "act_821366218045205",
+      "act_820315634816930",
+      "act_816899198491907",
+      "act_783764878472006",
+      "act_783764881805339",
+      "act_793769357471558",
+      "act_1227059300703760"
+    ],
+    "parentType": "exportAccount",
+    "sinceDate": "",
+    "utilDate": ""
+  },
+  "ADSET_CONFIG":{
+    "exportCsvPath": "/var/www/html/eli/server/insightExporter/AdSetInsight",
+    "insightInfoConfigName": "insightInfo.json",
+    "csvFileNamePrefix": "adset_insight_",
+    "parentId": [
+      "act_1202579213151769",
+      "act_1227059297370427",
+      "act_631702523677133",
+      "act_1227059294037094",
+      "act_781022292079598",
+      "act_783764875138673",
+      "act_791502277698266",
+      "act_808991965949297",
+      "act_821366218045205",
+      "act_820315634816930",
+      "act_816899198491907",
+      "act_783764878472006",
+      "act_783764881805339",
+      "act_793769357471558",
+      "act_1227059300703760"
+    ],
+    "parentType": "exportAccount",
+    "sinceDate": "",
+    "utilDate": ""
+  },
+  "CAMPAIGN_CONFIG":{
+    "exportCsvPath": "/var/www/html/eli/server/insightExporter/CampaignInsight",
+    "insightInfoConfigName": "insightInfo.json",
+    "csvFileNamePrefix": "campaign_insight_",
+    "parentId": [
+      "act_1202579213151769",
+      "act_1227059297370427",
+      "act_631702523677133",
+      "act_1227059294037094",
+      "act_781022292079598",
+      "act_783764875138673",
+      "act_791502277698266",
+      "act_808991965949297",
+      "act_821366218045205",
+      "act_820315634816930",
+      "act_816899198491907",
+      "act_783764878472006",
+      "act_783764881805339",
+      "act_793769357471558",
+      "act_1227059300703760"
+    ],
+    "parentType": "exportAccount",
+    "sinceDate": "",
+    "utilDate": ""
+  }
+
+}

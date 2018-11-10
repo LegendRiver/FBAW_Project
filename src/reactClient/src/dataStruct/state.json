@@ -1,0 +1,55 @@
+{
+	"selectedProduct": 21,
+	"products": {
+		"datas": {
+			"21": {
+				"id": 21,
+				"name": "Opera mini",
+				"imagePath": "",
+				"advertiser": "mobi magic",
+				"accountList": [31, 32, 33]
+			}
+		},
+		"allIds": [21],
+		"queryTime": 11111
+	},
+
+	"accounts": {
+		"title": ["ID", "Name", "Agency", "Cap", "Total spend"],
+		"datas": {
+			"31": ["act001", "MObi-magic01", 16000, 2500],
+			"32": ["act002", "MObi-magic02", 16000, 2500],
+			"33": ["act003", "MObi-magic03", 16000, 2500]
+		},
+		"allIds": [31, 32, 33],
+		"queryTime": 2222
+	},
+
+	"accountBalance": {
+		"title": ["cap", "spend", "balance", "percent", "agent"],
+		"datas": {
+			"31": [5000, 400, 4600, 0.6, "bluefocus"],
+			"32": [8000, 1000, 4600, 0.6, "bluefocus"],
+			"33": [15000, 9000, 4600, 0.6, "bluefocus"]
+		},
+		"queryTime": 3333
+	},
+
+	"accountCountryPerform":{
+		"title": ["country", "install", "spend", "cpi"],
+		"datas": {
+			"31": [
+				["ID", 3000, 30, 0.01],
+				["US", 4000, 400, 0.1]
+			],
+			"32": [
+				["IN", 3000, 30, 0.01],
+				["GB", 4000, 400, 0.1]
+			],
+			"33": [
+				["PH", 3000, 30, 0.01],
+				["TH", 4000, 400, 0.1]
+			]
+		}
+	}
+}

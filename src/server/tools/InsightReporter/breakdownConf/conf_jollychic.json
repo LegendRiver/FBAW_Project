@@ -1,0 +1,18 @@
+{
+  "channelId": 108175,
+  "startDate": "2017-11-01",
+  "endDate": "2017-11-14",
+  "isByOs": false,
+
+  "productConfig": [
+    {
+      "productName": "jollychic",
+      "nodeIds":[
+        "act_907609216087571",
+        "act_907609212754238",
+        "act_908618209320005"
+      ],
+      "nodeType": "Account"
+    }
+  ]
+}

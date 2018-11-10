@@ -1,0 +1,19 @@
+{
+  "mailSubject": "[亿栗科技]余额告警",
+  "mailToAddress": [
+    "business@eliads.com",
+    "gina@eliads.com",
+    "hanzhen@eliads.com"
+  ],
+  "alarmPercent": 0.15,
+  "alarmThreshold": 999,
+  "excludeAccountId":[
+    "act_808991965949297",
+    "act_781022292079598",
+    "act_868089750039518",
+    "act_1227059297370427",
+    "act_1402266086538129",
+    "act_868089753372851",
+    "act_853914021457091"
+  ]
+}

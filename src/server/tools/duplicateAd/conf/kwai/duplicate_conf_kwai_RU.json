@@ -1,0 +1,18 @@
+{
+  "configInfos":[
+    {
+      "description": "M_ALL_ios",
+      "fromAdsetId": "23842593694570762",
+      "fromAdId": "23842593694560762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_LL_ios",
+      "fromAdsetId": "23842593695640762",
+      "fromAdId": "23842593695650762",
+      "materialPath": "",
+      "isShareMaterial": true
+    }
+  ]
+}

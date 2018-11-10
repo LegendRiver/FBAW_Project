@@ -1,0 +1,23 @@
+[INFO][2018-03-23 10:45:16][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842649377600758]
+[INFO][2018-03-23 10:46:07][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842649377600758]
+[INFO][2018-03-23 10:47:55][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842648390780758]
+[INFO][2018-03-23 10:48:59][DuplicateHandler.php,uploadOperation,175][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/ceshiflash.png] => 0c5939be166d95b229c23edd41af6f27
+)
+]
+[INFO][2018-03-23 10:49:50][CopyFBHelper.php,createAdByCreative,395][#copy# Succeed to create creative: 23842718148990758 by material: 0c5939be166d95b229c23edd41af6f27]
+[ERROR][2018-03-23 10:49:51][AdManager.php,writeExceptionLog,73][Exception Info : Invalid parameter ; 100 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 144 ; 1815180 ; Insufficient Install History ; Your account does not have enough install history to start using billing event for mobile app install ads. Please visit https://developers.facebook.com/docs/reference/ads-api/cost-per-action-ads/ to learn more.]
+[WARNING][2018-03-23 10:49:51][CopyFBHelper.php,createAdByField,418][The return value of ad create is invalid : ]
+[WARNING][2018-03-23 10:50:04][DuplicateHandler.php,copyAdByMaterial,120][Failed to copy ad in adsetName: FR_MF_20180323_1049_1365_MB_OI_CI_P_ceshiflash]
+[INFO][2018-03-23 10:55:30][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842653818030758]
+[ERROR][2018-03-23 10:55:40][AdManager.php,writeExceptionLog,162][Exception Info : Connection timed out after 10003 milliseconds ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-03-23 10:55:40][DuplicateHandler.php,getTemplateAdId,58][#duplicate#Failed to get ad by adset: 23842653818030758]
+[ERROR][2018-03-23 10:55:40][duplicate_run.php,duplicateAd,12][Failed to get ad Id.]
+[INFO][2018-03-23 10:56:41][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842653818030758]
+[INFO][2018-03-23 10:56:49][DuplicateHandler.php,uploadOperation,175][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/ceshiflash.png] => 0c5939be166d95b229c23edd41af6f27
+)
+]
+[INFO][2018-03-23 10:57:08][CopyFBHelper.php,createAdByCreative,395][#copy# Succeed to create creative: 23842718159620758 by material: 0c5939be166d95b229c23edd41af6f27]

@@ -1,0 +1,13 @@
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/bin/Debug/AutoWebBrowser.exe.config
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/bin/Debug/AutoWebBrowser.exe.mdb
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/bin/Debug/AutoWebBrowser.exe
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/obj/x86/Debug/AutoWebBrowser.exe
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/obj/x86/Debug/AutoWebBrowser.exe.mdb
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/bin/Debug/Newtonsoft.Json.dll
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/bin/Debug/WebDriver.dll
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/bin/Debug/WebDriver.Support.dll
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/bin/Debug/Selenium.WebDriverBackedSelenium.dll
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/bin/Debug/ThoughtWorks.Selenium.Core.dll
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/bin/Debug/Winista.HtmlParser.dll
+/Users/zengtao/work/AutoWebBrowser/AutoWebBrowser/bin/Debug/MySql.Data.dll

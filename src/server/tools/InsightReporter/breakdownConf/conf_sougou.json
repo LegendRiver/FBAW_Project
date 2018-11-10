@@ -1,0 +1,18 @@
+{
+  "channelId": 108175,
+  "startDate": "2017-12-01",
+  "endDate": "2017-12-31",
+  "isByOs": false,
+
+  "productConfig": [
+    {
+      "productName": "typany",
+      "nodeIds":[
+        "act_791502277698266",
+        "act_941077599407399",
+        "act_933577406824085"
+      ],
+      "nodeType": "Account"
+    }
+  ]
+}

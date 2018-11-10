@@ -1,0 +1,33 @@
+{
+  "excelFilePre": "keyboard_100_",
+
+  "estimateParam": {
+    "accountId": "act_821366218045205",
+    "appUrl": "https://play.google.com/store/apps/details?id=com.latininput.keyboard",
+    "dailyBudget" : 10000,
+    "bidAmount" : 0
+  },
+
+  "common": {
+    "com_country" : [
+      "RU"
+    ],
+    "com_gender":[
+      [1,2]
+    ]
+  },
+
+  "location" : {
+  },
+
+  "basic" : {
+    "localesList": [
+    ]
+  },
+
+  "flexible" : {
+    "searchClassList" : [
+      "user_device"
+    ]
+  }
+}

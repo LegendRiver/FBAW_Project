@@ -1,0 +1,155 @@
+[ERROR][2017-12-08 17:11:45][AdInsightManager.php,writeExceptionLog,191][Exception Info : Failed to connect to graph.facebook.com port 443: Operation timed out ; 7 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2017-12-08 17:11:45][ReporterInsightHelper.php,getAllFiledInsight,152][Failed to get flexible insight by id: 23842573359820240; node type: exportCampaign]
+[ERROR][2017-12-08 17:11:45][ReporterInsightHelper.php,getOneCampaignData,111][Exception to query campaign insight: 23842573359820240]
+[INFO][2017-12-08 17:13:20][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:20][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:21][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:22][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:29][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:30][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:30][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:30][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:31][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:32][InsightValueReader.php,getAllListValues,215][[list]There is no key: actions
+]
+[INFO][2017-12-08 17:13:32][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:32][InsightValueReader.php,getAllListValues,215][[list]There is no key: actions
+]
+[INFO][2017-12-08 17:13:32][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:34][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:35][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:36][InsightValueReader.php,getAllListValues,215][[list]There is no key: actions
+]
+[INFO][2017-12-08 17:13:36][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:37][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:38][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:39][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:13:40][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:15:30][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:15:31][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:15:35][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:15:55][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:15:59][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:16:09][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:27][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:28][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:30][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:31][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:39][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:41][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:44][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:45][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:46][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:46][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:48][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:49][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:49][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:50][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:50][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:51][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:52][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:52][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:54][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:56][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:58][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:22:59][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:04][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:04][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:06][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:06][InsightValueReader.php,getAllListValues,215][[list]There is no key: actions
+]
+[INFO][2017-12-08 17:23:06][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:07][InsightValueReader.php,getAllListValues,215][[list]There is no key: actions
+]
+[INFO][2017-12-08 17:23:07][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:08][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:10][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:10][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:12][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:13][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:14][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:16][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:16][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:19][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:21][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:22][InsightValueReader.php,getAllListValues,215][[list]There is no key: actions
+]
+[INFO][2017-12-08 17:23:22][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:23][InsightValueReader.php,getAllListValues,215][[list]There is no key: actions
+]
+[INFO][2017-12-08 17:23:23][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:23:24][InsightValueReader.php,getAllListValues,215][[list]There is no key: actions
+]
+[INFO][2017-12-08 17:23:24][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:27:00][InsightValueReader.php,getAllListValues,215][[list]There is no key: actions
+]
+[INFO][2017-12-08 17:27:00][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-08 17:27:01][InsightValueReader.php,getAllListValues,215][[list]There is no key: actions
+]
+[INFO][2017-12-08 17:27:01][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]

@@ -1,0 +1,57 @@
+{
+  "searchClassList":[
+    "interests",
+    "politics",
+    "industries",
+    "ethnic_affinity",
+    "generation",
+    "life_events",
+    "behaviors",
+    "household_composition",
+    "family_statuses",
+
+    "relationship_status",
+    "education_status",
+    "user_device"
+  ],
+
+  "countryCodeList":[
+    "ID",
+    "US",
+    "RU"
+  ],
+
+  "accountIds": [
+    "act_1227059300703760",
+    "act_1227059297370427",
+    "act_631702523677133",
+    "act_1227059294037094",
+    "act_781022288746265",
+    "act_781022292079598",
+    "act_1202579213151769"
+  ],
+
+  "accountName": [
+    "opera mini",
+    "opera browser",
+    "UC",
+    "360 security",
+    "hotday001",
+    "hotday002",
+    "kwai"
+  ],
+
+  "appUrls": [
+    "https://play.google.com/store/apps/details?id=com.opera.mini.native",
+    "https://play.google.com/store/apps/details?id=com.qihoo.batterysaverplus",
+    "https://play.google.com/store/apps/details?id=com.opera.browser",
+    "https://play.google.com/store/apps/details?id=com.uc.iflow&referrer=utm_content%26utm_source%3Dmeiling@joyadaucnewsadw",
+    "https://play.google.com/store/apps/details?id=com.inveno.noticias",
+    "https://play.google.com/store/apps/details?id=com.noticiasboom.news",
+    "https://play.google.com/store/apps/details?id=com.noticiasboomchile.news ",
+    "https://play.google.com/store/apps/details?id=com.noticiasboomcolombia.news",
+    "https://play.google.com/store/apps/details?id=com.aoshitang.zjzr.krggnew",
+    "https://play.google.com/store/apps/details?id=com.smile.gifmaker"
+  ]
+
+}

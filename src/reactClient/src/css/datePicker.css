@@ -1,0 +1,8 @@
+.date-picker-div
+{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}

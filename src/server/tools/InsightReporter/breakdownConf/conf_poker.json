@@ -1,0 +1,16 @@
+{
+  "channelId": 108175,
+  "startDate": "2018-02-01",
+  "endDate": "2018-02-25",
+  "isByOs": false,
+
+  "productConfig": [
+    {
+      "productName": "Super Poker",
+      "nodeIds":[
+        "act_968239276691231"
+      ],
+      "nodeType": "Account"
+    }
+  ]
+}

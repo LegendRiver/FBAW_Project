@@ -1,0 +1,2 @@
+[ERROR][2017-05-13 15:21:25][AbstractParamHandler.php,writeStrategyLog,91][＃STRATEGY＃ instance: AdsetCreateParam ;The field value is empty : bidAmount]
+[ERROR][2017-05-13 15:24:22][AbstractParamHandler.php,writeStrategyLog,91][＃STRATEGY＃ instance: AdsetCreateParam ;The field value is empty : appStoreUrl]

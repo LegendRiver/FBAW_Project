@@ -1,0 +1,12 @@
+{
+  "outputPath": "/var/www/html/eli/server/awConversion",
+  "configList": [
+    {
+      "accountId":[
+        "2286534207"
+      ],
+      "startDate": "",
+      "endDate": ""
+    }
+  ]
+}

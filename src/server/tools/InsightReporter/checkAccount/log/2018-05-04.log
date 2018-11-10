@@ -1,0 +1,2 @@
+[ERROR][2018-05-04 17:04:34][AdAccountManager.php,writeExceptionLog,76][Exception Info : Operation timed out after 10004 milliseconds with 0 out of 0 bytes received ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-05-04 17:04:34][checkAccount_run.php,getAllAccountsByBMId,41][Failed to get accounts by bm id 584936385020414]

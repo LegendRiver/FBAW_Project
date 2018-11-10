@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Files using XMLHttpRequest - Minimal</title>
+
+    <style type="text/css">
+        .circle_001
+        {
+            border-radius: 50%;
+            background-color: #1c87ca;
+        }
+        .circle_002
+        {
+            border-radius: 50%;
+            background-color: #F3F3F3;
+        }
+    </style>
+</head>
+<body>
+<div id="circle_001" class="circle_001" style="width: 30px;height: 30px; margin-left: auto;margin-right: auto">
+    <div id="circle_002" class="circle_002" style="position: relative;width: 20px;height: 20px;top: 5px; bottom: 5px;margin-left: auto;margin-right: auto">
+
+    </div>
+</div>
+<form id="form1" enctype="multipart/form-data" method="post" action="upload.php">
+    <div class="row">
+        <label for="fileToUpload">Select a File to Upload</label>
+        <input type="file" name="fileToUpload" id="fileToUpload" onchange="fileSelected();"/>
+    </div>
+    <div id="fileName"></div>
+    <div id="fileSize"></div>
+    <div id="fileType"></div>
+    <div class="row">
+        <input type="button" onclick="uploadFile()" value="Upload" />
+    </div>
+    <div id="progressNumber"></div>
+</form>
+
+</body>
+</html>

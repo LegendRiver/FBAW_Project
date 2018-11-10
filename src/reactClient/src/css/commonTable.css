@@ -1,0 +1,27 @@
+
+.common-table-class
+{
+	border-collapse: collapse;
+	border: 1px solid #ddd;
+	width: 95%;
+	box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.2);
+}
+
+.table-th
+{
+	background-color: #2C343D;
+    color: white;
+}
+
+.table-td,.table-th
+{
+	border: 1px solid #ccc;
+    padding: 6px;
+	font-weight: lighter;
+	font-size:14px;
+}
+
+tr:nth-child(even)
+{
+	background-color: #e2e2e2
+}

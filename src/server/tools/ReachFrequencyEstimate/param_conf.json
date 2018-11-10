@@ -1,0 +1,34 @@
+{
+  "budget": 5000000,
+  "destination_ids": [
+    "334135273386666"
+  ],
+  "frequency_cap": 2,
+  "interval_frequency_cap_reset_period" : 168,
+  "objective": "APP_INSTALLS",
+  "prediction_mode": 1,
+  "start_time": 1495247250,
+  "stop_time": 1495938450,
+  "story_event_type": 0,
+  "target_spec": {
+    "age_min": 18,
+    "age_max": 34,
+    "geo_locations": {
+      "countries": ["US"],
+      "location_types": ["home"]
+    },
+    "publisher_platforms": [
+      "facebook","instagram"
+    ],
+    "facebook_positions": [
+      "feed"
+    ],
+    "instagram_positions": [
+      "stream"
+    ],
+    "device_platforms": [
+      "desktop",
+      "mobile"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "configInfos":[
+    {
+      "description": "4565YNF9",
+      "fromAdsetId": "23842594194990192",
+      "fromAdId": "",
+      "materialPath": "/Users/mac/eli/clients/kwai/creative/ID_DT/FB/20170716",
+      "isShareMaterial": false
+    },
+    {
+      "description": "3544YNF9",
+      "fromAdsetId": "23842594194900192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "2534YNF9",
+      "fromAdsetId": "23842594194720192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "1824YNF9",
+      "fromAdsetId": "23842594194640192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "1317YNF9",
+      "fromAdsetId": "23842594193570192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "F_ALL",
+      "fromAdsetId": "23842594191450192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_ALL",
+      "fromAdsetId": "23842594190500192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "4565YNM9",
+      "fromAdsetId": "23842594189050192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "3544YNM9",
+      "fromAdsetId": "23842594188960192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "2534YNM9",
+      "fromAdsetId": "23842594188910192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "1824YNM9",
+      "fromAdsetId": "23842594188810192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "1317YNM9",
+      "fromAdsetId": "23842594181580192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    }
+  ]
+}

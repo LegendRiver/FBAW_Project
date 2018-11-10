@@ -1,0 +1,41 @@
+{
+  "channelId": 108175,
+  "outputPath": "/var/www/html/eli/server/advertiserReport/Hotday/",
+  "startDate": "2017-03-29",
+  "endDate": "",
+
+  "productConfig": [
+    {
+      "productName": "Hotday",
+      "campaignConfig": [
+        {
+          "campaignIds": [
+            "23842554779560095",
+            "23842554776070095"
+          ],
+          "GEO": "CO"
+        },
+        {
+          "campaignIds": [
+            "23842555165830095",
+            "23842558889830095",
+            "23842558979030095",
+            "23842563846350095",
+            "23842558502180095"
+          ],
+          "GEO": "MX"
+        },
+        {
+          "campaignIds": [
+          ],
+          "GEO": "CL"
+        },
+        {
+          "campaignIds": [
+          ],
+          "GEO": "AR"
+        }
+      ]
+    }
+  ]
+}

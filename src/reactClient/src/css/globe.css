@@ -1,0 +1,25 @@
+
+:root{
+	font-family: sans-serif;
+	font-weight: 600;
+	font-size:16px;
+}
+
+body{
+	background: #bdc3c7;
+	margin:0;
+}
+
+.root-container
+{
+	min-height: 100vh;
+	max-width: 1000px;
+	width: 100%;
+	position: relative;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	/*background: green;*/
+}

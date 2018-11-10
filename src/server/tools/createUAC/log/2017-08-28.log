@@ -1,0 +1,4 @@
+[ERROR][2017-08-28 20:17:10][AWCampaignManager.php,writeAdwordsExceptionLog,112][＃ADWORDS＃ Exception Info : [EntityNotFound.INVALID_ID @ operations[0].operand.settings[0].imageMediaIds[0]; trigger:'3039091379'] ; 0 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/google/vendor/googleads/googleads-php-lib/src/Google/AdsApi/Common/Util/Reflection.php ; 39]
+[ERROR][2017-08-28 20:22:56][AWCampaignManager.php,writeAdwordsExceptionLog,149][＃ADWORDS＃ Exception Info : SOAP-ERROR: Parsing WSDL: Couldn't load from 'https://adwords.google.com/api/adwords/cm/v201705/CampaignCriterionService?wsdl' : Premature end of data in tag definitions line 4
+ ; 0 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/google/vendor/googleads/googleads-php-lib/src/Google/AdsApi/Common/AdsSoapClient.php ; 65]
+[ERROR][2017-08-28 20:23:08][AWManagerFacade.php,writeAdwordsLog,28][＃ADWORDS＃ Failed to add location to campaign: 917178468]

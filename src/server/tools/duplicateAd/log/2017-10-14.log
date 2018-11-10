@@ -1,0 +1,15 @@
+[INFO][2017-10-14 15:06:35][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842637888930570]
+[INFO][2017-10-14 15:07:52][DuplicateHandler.php,uploadOperation,166][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PbusThiefSy.jpg] => 39d3beba86525b2f2be827ccdbf926cc
+)
+]
+[INFO][2017-10-14 15:12:41][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842638258840570 by material: 39d3beba86525b2f2be827ccdbf926cc]
+[INFO][2017-10-14 15:17:41][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842637888930570]
+[ERROR][2017-10-14 15:17:51][AdManager.php,writeExceptionLog,162][Exception Info : Operation timed out after 10003 milliseconds with 0 out of 0 bytes received ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2017-10-14 15:17:51][DuplicateHandler.php,getTemplateAdId,57][#duplicate#Failed to get ad by adset: 23842637888930570]
+[ERROR][2017-10-14 15:17:51][duplicate_run.php,duplicateAd,12][Failed to get ad Id.]
+[INFO][2017-10-14 15:24:26][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842637888930570]
+[ERROR][2017-10-14 15:24:36][AdManager.php,writeExceptionLog,162][Exception Info : Connection timed out after 10000 milliseconds ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2017-10-14 15:24:36][DuplicateHandler.php,getTemplateAdId,57][#duplicate#Failed to get ad by adset: 23842637888930570]
+[ERROR][2017-10-14 15:24:36][duplicate_run.php,duplicateAd,12][Failed to get ad Id.]

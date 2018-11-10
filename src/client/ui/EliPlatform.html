@@ -1,0 +1,38 @@
+<!-- Back Compat -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+        <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="MsThemeCompatible" content="yes">
+        <meta http-equiv="ImageToolBar" content="no">
+        <title>Eli ADS</title>
+
+        <link rel="shortcut icon"  type="image/x-icon" href="favicon.ico" />
+        <!--可以在收藏夹中显示出图标-->
+        <link rel="Bookmark"  type="image/x-icon"  href="favicon.ico"/>
+        <!--可以在地址栏中显示出图标-->
+        <link rel="icon"  type="image/x-icon" href="favicon.ico" />
+
+        <style  type="text/css">
+            @import url(gstatic/44/css/util/util.css);
+            @import url(gstatic/44/css/core/tooltip.css);
+            @import url(EliUIPlatform/html/css/bimain.css);
+        </style>
+
+        <!--
+        <script type="text/javascript" src="/client/ui/js/lib/Encrypt/Aes/aes.js"></script>
+        <script type="text/javascript" src="/client/ui/js/lib/Encrypt/Aes/aes-ctr.js"></script>
+        -->
+        <script type="text/javascript" src="EliUIPlatform/html/js/application.js"></script>
+    </head>
+    <body>
+
+    <script type="text/javascript">
+        application.start("EliUIPlatform/html", "EliSystem.xml");
+    </script>
+
+    </body>
+</html>

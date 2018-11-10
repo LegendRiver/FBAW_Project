@@ -1,0 +1,88 @@
+{
+  "configInfos":[
+    {
+      "description": "M_ALL_android_en",
+      "fromAdsetId": "23842602761170698",
+      "fromAdId": "23842602761440698",
+      "materialPath": "/Users/mac/eli/clients/yeecall/creative/20170708",
+      "isShareMaterial": false
+    },
+    {
+      "description": "M_A1_android_En",
+      "fromAdsetId": "23842603635830698",
+      "fromAdId": "23842603635840698",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_A2_android_En",
+      "fromAdsetId": "23842603635820698",
+      "fromAdId": "23842603635810698",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_A3_android_En",
+      "fromAdsetId": "23842603635780698",
+      "fromAdId": "23842603635800698",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_ALL_android_Ar",
+      "fromAdsetId": "23842602769390698",
+      "fromAdId": "23842602769510698",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_A1_android_Ar",
+      "fromAdsetId": "23842603613050698",
+      "fromAdId": "23842603613040698",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_A2_android_Ar",
+      "fromAdsetId": "23842603635690698",
+      "fromAdId": "23842603635700698",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_A3_android_Ar",
+      "fromAdsetId": "23842603635740698",
+      "fromAdId": "23842603635730698",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "F_ALL_android_en",
+      "fromAdsetId": "23842602763460698",
+      "fromAdId": "23842602763570698",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "F_ALL_android_Ar",
+      "fromAdsetId": "23842602773020698",
+      "fromAdId": "23842602773170698",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "F_LL_android_En",
+      "fromAdsetId": "23842603455540698",
+      "fromAdId": "23842603455550698",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "F_LL_android_Ar",
+      "fromAdsetId": "23842603456130698",
+      "fromAdId": "23842603456120698",
+      "materialPath": "",
+      "isShareMaterial": true
+    }
+  ]
+}

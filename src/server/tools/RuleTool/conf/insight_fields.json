@@ -1,0 +1,54 @@
+{
+  "account_id": {
+    "type": "#VALUE#"
+  },
+  "campaign_id": {
+    "type": "#VALUE#"
+  },
+  "campaign_name": {
+    "type": "#VALUE#"
+  },
+  "adset_id": {
+    "type": "#VALUE#"
+  },
+  "adset_name": {
+    "type": "#VALUE#"
+  },
+  "ad_id": {
+    "type": "#VALUE#"
+  },
+  "ad_name": {
+    "type": "#VALUE#"
+  },
+  "spend": {
+    "type": "#VALUE#"
+  },
+  "actions": {
+    "type": "#NUMARRAY#",
+    "alias": {
+      "mobile_app_install": "install"
+    },
+    "displayKeys": [
+      "mobile_app_install"
+    ],
+    "valueKey": "value",
+    "keyKey": "action_type"
+  },
+  "cost_per_action_type": {
+    "type": "#NUMARRAY#",
+    "alias": {
+      "mobile_app_install": "cpi"
+    },
+    "displayKeys": [
+      "mobile_app_install"
+    ],
+    "valueKey": "value",
+    "keyKey": "action_type"
+  },
+  "impressions": {
+    "type": "#VALUE#"
+  },
+  "reach": {
+    "type": "#VALUE#"
+  }
+}

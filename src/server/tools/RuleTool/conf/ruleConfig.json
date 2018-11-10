@@ -1,0 +1,532 @@
+{
+  "mailSubject": "[亿栗科技]帐号告警通知",
+  "mailToAddress": [
+    "business@eliads.com",
+    "gina@eliads.com"
+  ],
+  "ruleInfos": [
+    {
+      "ruleKey": "kwai_KR",
+      "description": "韩国快手",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842638158280616",
+        "23842702505170616",
+        "23842709994330616",
+        "23842714472630616",
+        "23842714387420616",
+        "23842712985560616",
+        "23842712983680616",
+        "23842723894150616",
+        "23842723848790616",
+        "23842735532680616",
+        "23842708759710616"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [2000, 2],
+          "errorThreshold": [3000, 6]
+        }
+      ]
+    },
+    {
+      "ruleKey": "kwai_01_02",
+      "description":"快手",
+      "parentNodeType": "Account",
+      "parentNodeIds": [
+        "act_783764875138673",
+        "act_783764881805339"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [3000, 2.5],
+          "errorThreshold": [5000, 8]
+        }
+      ]
+    },
+    {
+      "ruleKey": "kwai_03_Ld1_ID",
+      "description":"快手03印尼",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842620688410731",
+        "23842620798650731",
+        "23842589465590762",
+        "23842591179420762",
+        "23842593090130762",
+        "23842593693010762",
+        "23842602978470762",
+        "23842602973270762"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [5000, 2.5],
+          "errorThreshold": [6000, 3.5]
+        },
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [80, 1.5]
+        }
+      ]
+    },
+    {
+      "ruleKey": "kwai_03_RU",
+      "description":"快手03俄罗斯",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842631637980616",
+        "23842719941570616",
+        "23842725338900616",
+        "23842726475260616",
+        "23842726728950616",
+        "23842714897520616",
+        "23842595052090762",
+        "23842595042160762",
+        "23842595023110762",
+        "23842583502800762"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [3000, 3],
+          "errorThreshold": [4000, 5]
+        },
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [30, 1.1]
+        }
+      ]
+    },
+    {
+      "ruleKey": "kwai_03_BR",
+      "description":"快手03巴西",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842728373390616",
+        "23842621829760731",
+        "23842621826500731",
+        "23842621817140731",
+        "23842598528880762",
+        "23842585474840762"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [1000, 0.6],
+          "errorThreshold": [2000, 0.8]
+        },
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [30, 0.7]
+        }
+      ]
+    },
+    {
+      "ruleKey": "FlashLight",
+      "description":"FlashLight",
+      "parentNodeType": "Account",
+      "parentNodeIds": [
+        "act_793769357471558"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [1200, 2.8],
+          "errorThreshold": [2500, 4.9]
+        }
+      ]
+    },
+    {
+      "ruleKey": "HiKeyboard_AR",
+      "description":"HiKeyboard_AR",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842598382070042",
+        "23842604457980042",
+        "23842598301320042"
+      ],
+      "handleNodeType": "Adset",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [10, 0.15]
+        }
+      ]
+    },
+    {
+      "ruleKey": "HiKeyboard_AU",
+      "description":"HiKeyboard_AU",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842585679430042",
+        "23842598351720042",
+        "23842598357440042"
+      ],
+      "handleNodeType": "Adset",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [8, 2.4]
+        }
+      ]
+    },
+    {
+      "ruleKey": "HiKeyboard_GB",
+      "description":"HiKeyboard_GB",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842598366000042",
+        "23842619483170042",
+        "23842598330550042"
+      ],
+      "handleNodeType": "Adset",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [10, 1.2]
+        }
+      ]
+    },
+    {
+      "ruleKey": "HiKeyboard_NZ",
+      "description":"HiKeyboard_NZ",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842598367990042",
+        "23842598326160042"
+      ],
+      "handleNodeType": "Adset",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [6, 1.2]
+        }
+      ]
+    },
+    {
+      "ruleKey": "HiKeyboard_PH",
+      "description":"HiKeyboard_PH",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842598383500042",
+        "23842598311940042"
+      ],
+      "handleNodeType": "Adset",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [12, 0.15]
+        }
+      ]
+    },
+    {
+      "ruleKey": "HiKeyboard_SA",
+      "description":"HiKeyboard_SA",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842598376930042",
+        "23842598317170042"
+      ],
+      "handleNodeType": "Adset",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [10, 0.12]
+        }
+      ]
+    },
+    {
+      "ruleKey": "HiKeyboard_US",
+      "description":"HiKeyboard_US",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842579808490042",
+        "23842581141530042",
+        "23842598361310042",
+        "23842598347520042",
+        "23842576768640042"
+      ],
+      "handleNodeType": "Adset",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [5, 2]
+        }
+      ]
+    },
+    {
+      "ruleKey": "HiKeyboard_ZA",
+      "description":"HiKeyboard_ZA",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842598371590042",
+        "23842598321000042"
+      ],
+      "handleNodeType": "Adset",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [10, 1]
+        }
+      ]
+    },
+    {
+      "ruleKey": "Yogrt",
+      "description":"Yogrt",
+      "parentNodeType": "Account",
+      "parentNodeIds": [
+        "act_816899198491907",
+        "act_816899195158574"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [3500, 1.6],
+          "errorThreshold": [5000, 2.8]
+        }
+      ]
+    },
+    {
+      "ruleKey": "UC News",
+      "description":"UC News",
+      "parentNodeType": "Account",
+      "parentNodeIds": [
+        "act_857230797792080"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "errorThreshold": [8000, 1.1]
+        }
+      ]
+    },
+    {
+      "ruleKey": "360_Flash_Cleaner_US",
+      "description":"360_Flash_Cleaner_US",
+      "parentNodeType": "Account",
+      "parentNodeIds": [
+        "act_1393280364103368",
+        "act_1393280367436701"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [10, 2]
+        }
+      ]
+    },
+    {
+      "ruleKey": "topbuzzVideo_JP",
+      "description":"topbuzzVideo_JP",
+      "parentNodeType": "Account",
+      "parentNodeIds": [
+        "act_1407990322632372"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "warningThreshold": [10, 5],
+          "errorThreshold": [0, 16]
+        },
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [2000, 7],
+          "errorThreshold": [3500, 15]
+        }
+      ]
+    },
+    {
+      "ruleKey": "topbuzz_BR",
+      "description":"topbuzz BR",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842663896780695",
+        "23842660196310695",
+        "23842660194810695",
+        "23842659705790695"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "warningThreshold": [10, 5],
+          "errorThreshold": [10, 8]
+        },
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [2000, 7],
+          "errorThreshold": [3500, 15]
+        }
+      ]
+    },
+    {
+      "ruleKey": "topbuzz_US",
+      "description":"topbuzz US",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842663962730695",
+        "23842663962450695",
+        "23842663956970695"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "warningThreshold": [10, 5],
+          "errorThreshold": [10, 8]
+        },
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [2000, 7],
+          "errorThreshold": [3500, 15]
+        }
+      ]
+    },
+    {
+      "ruleKey": "Jiangshan",
+      "description":"Jiangshan",
+      "parentNodeType": "Account",
+      "parentNodeIds": [
+        "act_958784954303330"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "warningThreshold": [5, 8],
+          "errorThreshold": [5, 10]
+        },
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [0, 8],
+          "errorThreshold": [0, 12]
+        }
+      ]
+    }
+  ]
+}

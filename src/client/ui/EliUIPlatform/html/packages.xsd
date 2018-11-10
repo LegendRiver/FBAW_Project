@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Packager configuration schema. -->
+<xs:schema xmlns="http://www.bindows.net/packager" targetNamespace="http://www.bindows.net/packager" attributeFormDefault="unqualified"
+           elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="packages">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" name="source">
+                    <xs:annotation>
+                        <xs:documentation>Defines a source code directory that can be refenced by ID.</xs:documentation>
+                    </xs:annotation>
+                    <xs:complexType>
+                        <xs:attribute name="id" type="xs:ID" use="required">
+                            <xs:annotation>
+                                <xs:documentation>Unique identifier for this source path.</xs:documentation>
+                            </xs:annotation>
+                        </xs:attribute>
+                        <xs:attribute name="dir" type="xs:string" use="required">
+                            <xs:annotation>
+                                <xs:documentation>Path to the source code relative to the working directory.</xs:documentation>
+                            </xs:annotation>
+                        </xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element minOccurs="1" maxOccurs="unbounded" name="package">
+                    <xs:annotation>
+                        <xs:documentation>
+                            Specifies a package (an output file containing JavaScript code
+                            from several source files).
+                        </xs:documentation>
+                    </xs:annotation>
+                    <xs:complexType>
+                        <xs:sequence>
+                            <!--<xs:element minOccurs="1" maxOccurs="unbounded" ref="file"/>-->
+                            <xs:element name="file" minOccurs="0" maxOccurs="unbounded">
+                                <xs:annotation>
+                                    <xs:documentation>Specifies a file that should be included in the package.</xs:documentation>
+                                </xs:annotation>
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="for" minOccurs="0" maxOccurs="unbounded">
+                                            <xs:annotation>
+                                                <xs:documentation>Specifies an additional source to replace this file in certain browsers.</xs:documentation>
+                                            </xs:annotation>
+                                            <xs:complexType>
+                                                <xs:attribute name="browsers" type="browserlist">
+                                                    <xs:annotation>
+                                                        <xs:documentation>Lists the browser ids for which this file is included.</xs:documentation>
+                                                    </xs:annotation>
+                                                </xs:attribute>
+                                                <xs:attributeGroup ref="path"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="parse" type="xs:boolean">
+                                        <xs:annotation>
+                                            <xs:documentation>Parses this file and splits into stubs.</xs:documentation>
+                                        </xs:annotation>
+                                    </xs:attribute>
+                                    <xs:attributeGroup ref="path"/>
+                                    <xs:attribute name="for" type="browserlist">
+                                        <xs:annotation>
+                                            <xs:documentation>Specifies the browsers this file is included for. For all other browsers it will be excluded.</xs:documentation>
+                                        </xs:annotation>
+                                    </xs:attribute>
+                                    <xs:attribute name="notfor" type="browserlist">
+                                        <xs:annotation>
+                                            <xs:documentation>Specifies the browsers this file is <em>not</em> included for. For all other browsers it will be included.</xs:documentation>
+                                        </xs:annotation>
+                                    </xs:attribute>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="group" type="xs:string" use="optional">
+                            <xs:annotation>
+                                <xs:documentation>
+                                    Names the package so that it may be referenced in an ADF
+                                    using either &lt;Application defaultPackages&gt; or
+                                    &lt;Package name&gt;.
+                                    If name is not set the package can still be referenced in
+                                    the ADF using the file path.
+                                </xs:documentation>
+                            </xs:annotation>
+                        </xs:attribute>
+                        <xs:attributeGroup ref="path"/>
+                        <xs:attribute name="for" type="browserlist" use="optional"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+
+            <xs:attribute name="source" type="xs:string" use="required">
+                <xs:annotation>
+                    <xs:documentation>Path to Bindows source code relative to the working directory.</xs:documentation>
+                </xs:annotation>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:attributeGroup name="path">
+        <xs:attribute name="path" type="xs:string" use="required">
+            <xs:annotation>
+                <xs:documentation>
+                    Path to a file relative to the source directory.
+                </xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <!-- The source and sourceref attributes should be mutually exclusive -->
+        <xs:attribute name="source" type="xs:string" use="optional">
+            <xs:annotation>
+                <xs:documentation>
+                    Changes the source directory using a path relative to the working directory.
+                    Don't use source and sourceref together as the result is undefined.
+                </xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="sourceref" type="xs:IDREF" use="optional">
+            <xs:annotation>
+                <xs:documentation>
+                    Changes the source directory by referencing a source element.
+                    Don't use source and sourceref together as the result is undefined.
+                </xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:simpleType name="browserlist">
+        <xs:annotation>
+            <xs:documentation>List of browsers separated with whitespace. Only BiBrowserCheck values are allowed.</xs:documentation>
+        </xs:annotation>
+        <xs:list itemType="browser"/>
+    </xs:simpleType>
+
+    <!-- TODO: Whenever support for new browsers are added, add the BiBrowserCheck value here. -->
+    <xs:simpleType name="browser">
+        <xs:annotation>
+            <xs:documentation>Only BiBrowserCheck values are allowed.</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="ie"><xs:annotation><xs:documentation>Microsoft Internet Explorer</xs:documentation></xs:annotation></xs:enumeration>
+            <xs:enumeration value="moz"><xs:annotation><xs:documentation>Mozilla Firefox</xs:documentation></xs:annotation></xs:enumeration>
+            <xs:enumeration value="webkit"><xs:annotation><xs:documentation>Apple Safari or WebKit nightly build</xs:documentation></xs:annotation></xs:enumeration>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

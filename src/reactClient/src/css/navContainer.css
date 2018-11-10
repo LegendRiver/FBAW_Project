@@ -1,0 +1,9 @@
+
+.navList-container{
+	background: #2C343D;
+	padding-top: 12px;
+	display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 20%;
+}

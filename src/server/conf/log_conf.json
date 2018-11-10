@@ -1,0 +1,14 @@
+{
+  "logConfig": [
+    {
+      "logModule": "default",
+      "logPath": "",
+      "logLevel": 6
+    },
+    {
+      "logModule": "orionService",
+      "logPath": "/var/www/html/eli/orionLog",
+      "logLevel": 4
+    }
+  ]
+}

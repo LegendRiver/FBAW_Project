@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<Application autoNameMapping="true">
+    <Theme name="Default"/>
+    <Theme name="Eli"/>
+    <Resources>
+        <Package name="Animation"/>
+
+        <Script src="js/CONST_VAR.js" charset="utf-8"/>
+        <Script src="js/eli.min.js" charset="utf-8"/>
+
+        <Script>
+            <![CDATA[
+        function EliSystem()
+        {
+            var eliApplication = new CEliApplication();
+            eliApplication.initObject();
+        }
+
+        EliSystem.main = function () { new EliSystem(); };
+
+        ]]>
+        </Script>
+    </Resources>
+</Application>

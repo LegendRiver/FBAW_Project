@@ -1,0 +1,33 @@
+{
+    "adAccountId": "584939305020122", 
+    "adOperation": "NEW", 
+    "bidDiscounts": [
+        0.85, 
+        0.8, 
+        0.7, 
+        0.6, 
+        0.5, 
+        0.4, 
+        0
+    ], 
+    "campaignSpendCap": 30000, 
+    "campaignType": "AppInstall", 
+    "configId": null, 
+    "countries": [
+        "Vietnam", 
+        "Indonesia", 
+        "Malaysia", 
+        "Thailand", 
+        "India"
+    ], 
+    "optimizationGoals": [
+        "AppInstall", 
+        "LinkClick"
+    ], 
+    "publisher": "facebook", 
+    "py/object": "Promotion.PromotionInfo", 
+    "suggestedBid": 50, 
+    "timeEnd": "2016-11-10 00:00", 
+    "timeStart": "2016-10-10 00:00", 
+    "url": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8"
+}

@@ -1,0 +1,46 @@
+{
+  "adAccountId": "783764875138673",
+  "adsets": [
+    {
+      "adsetId": "6081448315511",
+      "name": "Ll10IDM1d28_Oc_Cim",
+      "bidAmount": 150,
+      "billEvent": "Impression",
+      "budgetAmount": 4000,
+      "budgetType": "Daily",
+      "optimizationGoal": [
+        "AppInstall"
+      ],
+      "appStoreUrl": "https://play.google.com/store/apps/details?id=com.wonderbuy.android",
+      "scheduleType": "AllTime",
+      "targeting": {
+        "ageMax": [65],
+        "ageMin": [13],
+        "countries": [
+          "United States"
+        ],
+        "gender": ["All"],
+        "interest": "",
+        "locales": [
+        ],
+        "devicePlatforms": [
+        ],
+        "positions": [
+        ],
+        "publisherPlatforms": [
+        ],
+        "userOSs": [
+        ],
+        "userDevices":[
+        ],
+        "excludeUserDevices":[
+        ],
+        "customAudienceIds":[
+        ]
+      },
+      "timeEnd": "2018-11-10 00:00",
+      "timeStart": "2018-10-10 00:00"
+    }
+  ],
+  "campaignType": "AppInstall"
+}

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<Application autoNameMapping="true">
+    <Theme name="Default"/>
+    <Theme name="Eli"/>
+    <Resources>
+        <Package name="Animation"/>
+
+        <Script src="js/CONST_VAR.js" charset="utf-8"/>
+
+        <!--BEGIN DEBUG -->
+        <script src="js/lib/jshash-2.2/spark-md5.js" charset="utf-8"/>
+        <Script src="js/public/xml2json.js" charset="utf-8"/>
+        <Script src="js/public/sprintf.js" charset="utf-8"/>
+        <Script src="js/public/public.js" charset="utf-8"/>
+        <Script src="js/public/CAjax.js" charset="utf-8"/>
+        <Script src="js/public/CPoint.js" charset="utf-8"/>
+        <Script src="js/public/CSize.js" charset="utf-8"/>
+        <Script src="js/public/CLocalStorage.js" charset="utf-8"/>
+        <Script src="js/public/CTimeInterval.js" charset="utf-8"/>
+        <Script src="js/public/CSize.js" charset="utf-8"/>
+
+        <!-- encrypt -->
+
+        <Script src="js/lib/Encrypt/Aes/aes.js" charset="utf-8"/>
+        <Script src="js/lib/Encrypt/Aes/aes-ctr.js" charset="utf-8"/>
+        <Script src="js/lib/Encrypt/CEncrypt.js" charset="utf-8"/>
+
+        <!-- file -->
+        <Script src="js/lib/Components/FileUploadControls/CFileChunk.js" charset="utf-8"/>
+        <Script src="js/lib/Components/FileUploadControls/CFileUpload.js" charset="utf-8"/>
+
+        <Script src="js/lib/Components/ImageListControl/CImageListItem.js" charset="utf-8"/>
+        <Script src="js/lib/Components/ImageListControl/CImageListControl.js" charset="utf-8"/>
+        <Script src="js/lib/Components/MessageBox/MESSAGE_BOX_TYPE.js" charset="utf-8"/>
+        <Script src="js/lib/Components/MessageBox/CMessageBox.js" charset="utf-8"/>
+
+        <Script src="js/AdSeeDataSpiderApplication/CUserLoginWidow.js" charset="utf-8"/>
+
+        <Script src="js/AdSeeDataSpiderApplication/CAppAd.js" charset="utf-8"/>
+        <Script src="js/AdSeeDataSpiderApplication/CAppAdPage.js" charset="utf-8"/>
+        <Script src="js/AdSeeDataSpiderApplication/CAppSummary.js" charset="utf-8"/>
+        <Script src="js/AdSeeDataSpiderApplication/CAppAdComponent.js" charset="utf-8"/>
+        <Script src="js/AdSeeDataSpiderApplication/CAppAdSummaryComponent.js" charset="utf-8"/>
+        <Script src="js/AdSeeDataSpiderApplication/CAdSeeDataSpiderApplication.js" charset="utf-8"/>
+        <Script>
+            <![CDATA[
+        function AdSeeDataSpiderSystem()
+        {
+            var adSeeDataSpider = new CAdSeeDataSpiderApplication();
+            adSeeDataSpider.initObject(SERVICE_URL);
+        }
+
+        AdSeeDataSpiderSystem.main = function () { new AdSeeDataSpiderSystem(); };
+
+        ]]>
+        </Script>
+    </Resources>
+</Application>

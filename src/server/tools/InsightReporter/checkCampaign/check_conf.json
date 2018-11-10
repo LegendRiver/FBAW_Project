@@ -1,0 +1,29 @@
+{
+  "checkInfos":[
+    {
+      "productName": "kwai",
+      "accountList": [
+        "act_1202579213151769",
+        "act_1402266089871462",
+        "act_783764881805339",
+        "act_783764875138673",
+        "act_956454514536374",
+        "act_956454517869707",
+        "act_783764878472006"
+      ],
+      "reportConfig": "basicConfig_kwai.json",
+      "offset": 0
+    },
+    {
+      "productName": "jollychic",
+      "accountList": [
+        "act_907609216087571",
+        "act_907609212754238",
+        "act_908618209320005"
+      ],
+      "reportConfig": "basicConfig_jollychic.json",
+      "offset": 0
+    }
+
+  ]
+}

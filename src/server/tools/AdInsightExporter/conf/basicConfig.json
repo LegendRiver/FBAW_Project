@@ -1,0 +1,9 @@
+{
+  "exportCsvPath": "",
+  "insightInfoConfigName": "insightInfo.json",
+  "csvFileNamePrefix": "ad_insight_",
+  "parentId": "23842640536560616",
+  "parentType": "exportCampaign",
+  "sinceDate": "2017-02-01",
+  "utilDate": "2017-02-11"
+}

@@ -1,0 +1,2 @@
+[ERROR][2017-09-01 20:21:23][TargetingSearchUtil.php,writeExceptionLog,36][Exception Info : An unknown error occurred ; 1 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 140 ; 1885764 ; Targeting option not available ; Cannot use targeting expansion option for Reach and Frequency]
+[ERROR][2017-09-01 20:21:23][reach_estimater_run.php,getReachFrequencyEstimate,5][Failed to estimate reach and frequency.]

@@ -1,0 +1,6 @@
+[ERROR][2018-04-08 17:01:44][AdAccountManager.php,writeExceptionLog,76][Exception Info : SSL: certificate verification failed (result: 5) ; 51 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-04-08 17:01:44][account_info_run.php,getAllAccountsByBMId,48][Failed to get accounts by bm id 584936385020414]
+[ERROR][2018-04-08 17:03:16][AdAccountManager.php,writeExceptionLog,76][Exception Info : SSL: certificate verification failed (result: 5) ; 51 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-04-08 17:03:16][account_info_run.php,getAllAccountsByBMId,48][Failed to get accounts by bm id 584936385020414]
+[ERROR][2018-04-08 17:06:00][AdAccountManager.php,writeExceptionLog,76][Exception Info : Resolving timed out after 10571 milliseconds ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-04-08 17:06:00][account_info_run.php,getAllAccountsByBMId,48][Failed to get accounts by bm id 584936385020414]

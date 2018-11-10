@@ -1,0 +1,17 @@
+[ERROR][2017-12-02 13:05:03][serviceTest.php,callService,9][#service# The function queryCountryPerformance of class AccountInfoManageris not exporting.]
+[INFO][2017-12-02 13:08:17][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-02 13:08:17][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-02 13:08:17][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-02 13:08:17][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-02 13:22:47][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-02 13:22:47][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-02 13:22:47][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]
+[INFO][2017-12-02 13:22:47][InsightValueReader.php,getListInfoTypeValue,40][[sublist]There is no key : mobile_app_install
+]

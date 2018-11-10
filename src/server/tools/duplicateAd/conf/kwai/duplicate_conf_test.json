@@ -1,0 +1,32 @@
+{
+  "configInfos":[
+    {
+      "description": "F_LL2544_android",
+      "fromAdsetId": "23842594321680762",
+      "fromAdId": "23842594321670762",
+      "materialPath": "/Users/mac/eli/clients/kwai/creative/ID_DT/201704_2544",
+      "isShareMaterial": false
+    },
+    {
+      "description": "M_LL2544_android",
+      "fromAdsetId": "23842594325440762",
+      "fromAdId": "23842594325450762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "F_LL2544_ios",
+      "fromAdsetId": "23842594325780762",
+      "fromAdId": "23842594325790762",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "M_LL2544_ios",
+      "fromAdsetId": "23842594326500762",
+      "fromAdId": "23842594326510762",
+      "materialPath": "",
+      "isShareMaterial": true
+    }
+  ]
+}

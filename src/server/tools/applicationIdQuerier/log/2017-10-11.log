@@ -1,0 +1,2 @@
+[ERROR][2017-10-11 14:27:59][TargetingSearchUtil.php,writeExceptionLog,301][Exception Info : Unsupported get request. ; 100 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 140 ;  ;  ; ]
+[INFO][2017-10-11 14:27:59][Querier_run.php,searchApplicationEntity,20][Did not search the applicationID by https://play.google.com/store/apps/details?id=com.latininput.keyboard]

@@ -1,0 +1,243 @@
+{
+  "backup":[
+    {
+      "ruleKey": "Yeecall_SA",
+      "description":"Yeecall_SA",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842588507670341",
+        "23842588359160341",
+        "23842602465710341",
+        "23842612573650341",
+        "23842629812330341",
+        "23842601704600698",
+        "23842601704080698",
+        "23842601436330698",
+        "23842601427010698",
+        "23842603635790698",
+        "23842603613020698",
+        "23842603456140698",
+        "23842603453350698",
+        "23842588342520341"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "warningThreshold": [8, 1],
+          "errorThreshold": [12, 1.2]
+        }
+      ]
+    },
+    {
+      "ruleKey": "Yeecall_PH",
+      "description":"Yeecall_PH",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842601900310341",
+        "23842601519620341"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "warningThreshold": [6, 0.35],
+          "errorThreshold": [10, 0.4]
+        }
+      ]
+    },
+    {
+      "ruleKey": "topbuzz",
+      "description":"topbuzz",
+      "parentNodeType": "Account",
+      "parentNodeIds": [
+        "act_1407990322632372"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "warningThreshold": [10, 6],
+          "errorThreshold": [10, 10]
+        },
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [5000, 7],
+          "errorThreshold": [6000, 10]
+        }
+      ]
+    },
+    {
+      "ruleKey": "kwai_KR",
+      "description": "韩国快手",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842638158280616",
+        "23842702505170616",
+        "23842709994330616",
+        "23842714472630616",
+        "23842714387420616",
+        "23842712985560616",
+        "23842712983680616",
+        "23842723894150616",
+        "23842723848790616",
+        "23842735532680616",
+        "23842708759710616"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [2000, 2],
+          "errorThreshold": [3000, 6]
+        }
+      ]
+    },
+    {
+      "ruleKey": "kwai_01_02",
+      "description":"快手",
+      "parentNodeType": "Account",
+      "parentNodeIds": [
+        "act_783764875138673",
+        "act_783764881805339"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [3000, 2.5],
+          "errorThreshold": [5000, 8]
+        }
+      ]
+    },
+    {
+      "ruleKey": "kwai_03_Ld1_ID",
+      "description":"快手03印尼",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842620688410731",
+        "23842620798650731",
+        "23842589465590762",
+        "23842591179420762",
+        "23842593090130762",
+        "23842593693010762",
+        "23842602978470762",
+        "23842602973270762"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [5000, 2.5],
+          "errorThreshold": [6000, 3.5]
+        },
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [80, 1.5]
+        }
+      ]
+    },
+    {
+      "ruleKey": "kwai_03_RU",
+      "description":"快手03俄罗斯",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842631637980616",
+        "23842719941570616",
+        "23842725338900616",
+        "23842726475260616",
+        "23842726728950616",
+        "23842714897520616",
+        "23842595052090762",
+        "23842595042160762",
+        "23842595023110762",
+        "23842583502800762"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [3000, 3],
+          "errorThreshold": [4000, 5]
+        },
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [30, 0.83]
+        }
+      ]
+    },
+    {
+      "ruleKey": "kwai_03_BR",
+      "description":"快手03巴西",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842728373390616",
+        "23842621829760731",
+        "23842621826500731",
+        "23842621817140731",
+        "23842598528880762",
+        "23842585474840762"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [1000, 0.6],
+          "errorThreshold": [2000, 0.8]
+        },
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [30, 0.7]
+        }
+      ]
+    }
+  ]
+}

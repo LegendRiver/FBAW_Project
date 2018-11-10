@@ -1,0 +1,6 @@
+[INFO][2017-10-13 21:35:22][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842637888930570]
+[INFO][2017-10-13 21:35:30][DuplicateHandler.php,uploadOperation,166][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PbusThiefSy.jpg] => 39d3beba86525b2f2be827ccdbf926cc
+)
+]

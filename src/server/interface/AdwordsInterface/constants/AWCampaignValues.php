@@ -1,0 +1,18 @@
+<?php
+
+class AWCampaignValues
+{
+    const CAMPAIGN_TYPE_UAC = 'UAC';
+    const CAMPAIGN_TYPE_SEARCH = 'SEARCH';
+
+    const CAMPAIGN_STATUS_ENABLE = 'ENABLED';
+    const CAMPAIGN_STATUS_PAUSED = 'PAUSED';
+    const CAMPAIGN_STATUS_REMOVED = 'REMOVED';
+
+    const GEO_INCLUDE_TYPE_NOT_CARE = 0;
+    const GEO_INCLUDE_TYPE_INTEREST = 1;
+    const GEO_INCLUDE_TYPE_PRESENCE = 2;
+
+    const GEO_EXCLUDE_TYPE_NOT_CARE = 0;
+    const GEO_EXCLUDE_TYPE_PRESENCE = 1;
+}

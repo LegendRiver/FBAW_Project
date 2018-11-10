@@ -1,0 +1,4 @@
+[ERROR][2017-07-10 16:41:13][AdAccountManager.php,writeExceptionLog,76][Exception Info : Connection timed out after 10003 milliseconds ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2017-07-10 16:41:13][account_info_run.php,getAllAccountsByBMId,48][Failed to get accounts by bm id 584936385020414]
+[ERROR][2017-07-10 16:42:25][AdAccountManager.php,writeExceptionLog,76][Exception Info : Operation timed out after 10001 milliseconds with 0 out of 0 bytes received ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2017-07-10 16:42:25][account_info_run.php,getAllAccountsByBMId,48][Failed to get accounts by bm id 584936385020414]

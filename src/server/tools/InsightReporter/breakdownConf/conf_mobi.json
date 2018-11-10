@@ -1,0 +1,51 @@
+{
+  "channelId": 108175,
+  "startDate": "2018-04-01",
+  "endDate": "2018-04-30",
+  "isByOs": false,
+
+  "productConfig": [
+    {
+      "productName": "Opera Mini",
+      "nodeIds":[
+        "act_870823559766137",
+        "act_940674489447710",
+        "act_881549872026839",
+        "act_958136881034804",
+        "act_870823563099470"
+      ],
+      "nodeType": "Account"
+    },
+    {
+      "productName": "Opera Browser",
+      "nodeIds":[
+        "act_1227059297370427"
+      ],
+      "nodeType": "Account"
+    },
+    {
+      "productName": "Opera News",
+      "nodeIds":[
+        "act_941081606073665",
+        "act_941081609406998"
+      ],
+      "nodeType": "Account"
+    },
+    {
+      "productName": "Star Maker",
+      "nodeIds":[
+        "act_1227059294037094",
+        "act_1030683263780165"
+      ],
+      "nodeType": "Account"
+    },
+    {
+      "productName": "Sargam",
+      "nodeIds":[
+        "act_853914021457091",
+        "act_853914018123758"
+      ],
+      "nodeType": "Account"
+    }
+  ]
+}

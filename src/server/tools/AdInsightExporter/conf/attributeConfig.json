@@ -1,0 +1,37 @@
+{
+  "COMMON_CONFIG": {
+    "isExportAllAccount": false
+  },
+  "AD_CONFIG":{
+    "exportCsvPath": "",
+    "insightInfoConfigName": "attributeInsightInfo.json",
+    "csvFileNamePrefix": "ad_attribute_insight_",
+    "parentId": [
+    ],
+    "parentType": "exportAccount",
+    "sinceDate": "",
+    "utilDate": ""
+  },
+  "ADSET_CONFIG":{
+    "exportCsvPath": "",
+    "insightInfoConfigName": "attributeInsightInfo.json",
+    "csvFileNamePrefix": "adset_attribute_insight_uc_",
+    "parentId": [
+      "act_1227059300703760"
+    ],
+    "parentType": "exportAccount",
+    "sinceDate": "2017-03-30",
+    "utilDate": "2017-03-30"
+  },
+  "CAMPAIGN_CONFIG":{
+    "exportCsvPath": "",
+    "insightInfoConfigName": "attributeInsightInfo.json",
+    "csvFileNamePrefix": "campaign_attribute_insight_",
+    "parentId": [
+    ],
+    "parentType": "exportAccount",
+    "sinceDate": "",
+    "utilDate": ""
+  }
+
+}

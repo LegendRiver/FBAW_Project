@@ -1,0 +1,4906 @@
+{
+    "adAccountId": "584939305020122", 
+    "adOperation": "NEW", 
+    "adsets": [
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Indo;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Indo;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Mala;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Mala;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;26-40;Eng;Viet;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;26-40;Eng;Viet;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;26-40;Eng;Indo;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;26-40;Eng;Indo;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;26-40;Eng;Mala;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;26-40;Eng;Mala;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;41-65;Eng;Viet;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;41-65;Eng;Viet;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;41-65;Eng;Indo;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;41-65;Eng;Indo;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;41-65;Eng;Mala;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;41-65;Eng;Mala;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;13-25;Eng;Viet;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;13-25;Eng;Viet;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;13-25;Eng;Indo;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;13-25;Eng;Indo;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;13-25;Eng;Mala;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;13-25;Eng;Mala;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;26-40;Eng;Viet;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;26-40;Eng;Viet;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;26-40;Eng;Indo;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;26-40;Eng;Indo;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;26-40;Eng;Mala;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;26-40;Eng;Mala;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;41-65;Eng;Viet;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;41-65;Eng;Viet;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;41-65;Eng;Indo;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;41-65;Eng;Indo;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;41-65;Eng;Mala;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "M;41-65;Eng;Mala;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Male", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;13-25;Eng;Viet;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;13-25;Eng;Viet;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;13-25;Eng;Indo;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;13-25;Eng;Indo;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;13-25;Eng;Mala;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;13-25;Eng;Mala;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;26-40;Eng;Viet;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;26-40;Eng;Viet;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;26-40;Eng;Indo;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;26-40;Eng;Indo;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;26-40;Eng;Mala;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;26-40;Eng;Mala;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 40, 
+                "ageMin": 26, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;41-65;Eng;Viet;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;41-65;Eng;Viet;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;41-65;Eng;Indo;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;41-65;Eng;Indo;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Indonesia"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;41-65;Eng;Mala;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "F;41-65;Eng;Mala;audien;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 65, 
+                "ageMin": 41, 
+                "countries": [
+                    "Malaysia", 
+                    "Thailand", 
+                    "India"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "Female", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "audience_network", 
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 8660022991747613320, 
+                    "name": "Solitaire;Image;8660022991747613320"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 3750417788648485431, 
+                    "name": "Solitaire;Image;3750417788648485431"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4817957015462206784, 
+                    "name": "Solitaire;Slideshow;4817957015462206784"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 3020933661679332182, 
+                    "name": "Solitaire;Image;3020933661679332182"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 193245054662854641, 
+                    "name": "Solitaire;Image;193245054662854641"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 1555767543557468968, 
+                    "name": "Solitaire;Carousel;1555767543557468968"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 681918613027728665, 
+                    "name": "Solitaire;Slideshow;681918613027728665"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 6050463664444086735, 
+                    "name": "Solitaire;Image;6050463664444086735"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4048419448608583250, 
+                    "name": "Solitaire;Image;4048419448608583250"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 1585351954132677661, 
+                    "name": "Solitaire;Carousel;1585351954132677661"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 1153191927043360958, 
+                    "name": "Solitaire;Slideshow;1153191927043360958"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 5086473849042507804, 
+                    "name": "Solitaire;Image;5086473849042507804"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 8368266252537612576, 
+                    "name": "Solitaire;Image;8368266252537612576"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 6996868647203707213, 
+                    "name": "Solitaire;Carousel;6996868647203707213"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 8009090356033042539, 
+                    "name": "Solitaire;Slideshow;8009090356033042539"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 2236025147791751302, 
+                    "name": "Solitaire;Image;2236025147791751302"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 8372925498601509725, 
+                    "name": "Solitaire;Image;8372925498601509725"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 1878266778649718127, 
+                    "name": "Solitaire;Carousel;1878266778649718127"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4988352520313086680, 
+                    "name": "Solitaire;Slideshow;4988352520313086680"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 6485028007402298075, 
+                    "name": "Solitaire;Image;6485028007402298075"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 3338520351683666364, 
+                    "name": "Solitaire;Image;3338520351683666364"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 6836477708665850312, 
+                    "name": "Solitaire;Carousel;6836477708665850312"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 706189173336615171, 
+                    "name": "Solitaire;Slideshow;706189173336615171"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 7559412421214711188, 
+                    "name": "Solitaire;Image;7559412421214711188"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 290499536877808111, 
+                    "name": "Solitaire;Image;290499536877808111"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4047275092880663273, 
+                    "name": "Solitaire;Carousel;4047275092880663273"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 8298037733329824302, 
+                    "name": "Solitaire;Slideshow;8298037733329824302"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 6105615666615212399, 
+                    "name": "Solitaire;Image;6105615666615212399"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 1797711179985924505, 
+                    "name": "Solitaire;Image;1797711179985924505"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 7855239662916777891, 
+                    "name": "Solitaire;Carousel;7855239662916777891"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 554388269580267892, 
+                    "name": "Solitaire;Slideshow;554388269580267892"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 1207327798742196651, 
+                    "name": "Solitaire;Image;1207327798742196651"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 9191791799277382258, 
+                    "name": "Solitaire;Image;9191791799277382258"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 275519008058189810, 
+                    "name": "Solitaire;Carousel;275519008058189810"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 2542231444207846096, 
+                    "name": "Solitaire;Slideshow;2542231444207846096"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 1229412535773908151, 
+                    "name": "Solitaire;Image;1229412535773908151"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 1997735897008456787, 
+                    "name": "Solitaire;Image;1997735897008456787"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 2200859594573441797, 
+                    "name": "Solitaire;Carousel;2200859594573441797"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4477537777622142219, 
+                    "name": "Solitaire;Slideshow;4477537777622142219"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 2490252061384879664, 
+                    "name": "Solitaire;Image;2490252061384879664"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4646974730493990686, 
+                    "name": "Solitaire;Image;4646974730493990686"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4283552569102407890, 
+                    "name": "Solitaire;Carousel;4283552569102407890"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 1427626375614398968, 
+                    "name": "Solitaire;Slideshow;1427626375614398968"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 2468643505970142827, 
+                    "name": "Solitaire;Image;2468643505970142827"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 8434684738486764423, 
+                    "name": "Solitaire;Image;8434684738486764423"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4125021857926325280, 
+                    "name": "Solitaire;Carousel;4125021857926325280"
+                }, 
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 7104312888201332062, 
+                    "name": "Solitaire;Slideshow;7104312888201332062"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 10000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 42.5, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;Impre;B42.5", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 40.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;Impre;B40.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;Impre;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 30.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;Impre;B30.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 25.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;Impre;B25.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 20.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;Impre;B20.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;Impre;B0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 42.5, 
+            "billEvent": "AppInstall", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;AppIn;B42.5", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 40.0, 
+            "billEvent": "AppInstall", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;AppIn;B40.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "AppInstall", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;AppIn;B35.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 30.0, 
+            "billEvent": "AppInstall", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;AppIn;B30.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 25.0, 
+            "billEvent": "AppInstall", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;AppIn;B25.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 20.0, 
+            "billEvent": "AppInstall", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;AppIn;B20.0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 0, 
+            "billEvent": "AppInstall", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;AppIn;AppIn;B0", 
+            "optimizationGoal": "AppInstall", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 42.5, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;Impre;B42.5", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 40.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;Impre;B40.0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;Impre;B35.0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 30.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;Impre;B30.0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 25.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;Impre;B25.0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 20.0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;Impre;B20.0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 0, 
+            "billEvent": "Impression", 
+            "budgetAmount": 500, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;Impre;B0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 42.5, 
+            "billEvent": "LinkClick", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;LinkC;B42.5", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 40.0, 
+            "billEvent": "LinkClick", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;LinkC;B40.0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 35.0, 
+            "billEvent": "LinkClick", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;LinkC;B35.0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 30.0, 
+            "billEvent": "LinkClick", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;LinkC;B30.0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 25.0, 
+            "billEvent": "LinkClick", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;LinkC;B25.0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 20.0, 
+            "billEvent": "LinkClick", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;LinkC;B20.0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }, 
+        {
+            "adOperation": "NEW", 
+            "ads": [
+                {
+                    "adsetId": "", 
+                    "creativeId": "", 
+                    "creativePseudoId": 4342352141998490743, 
+                    "name": "Solitaire;Carousel;4342352141998490743"
+                }
+            ], 
+            "adsetId": "", 
+            "appStoreUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "bidAmount": 0, 
+            "billEvent": "LinkClick", 
+            "budgetAmount": 4000, 
+            "budgetType": "Daily", 
+            "campaignId": "", 
+            "name": "A;13-25;Eng;Viet;facebo;LinkC;LinkC;B0", 
+            "optimizationGoal": "LinkClick", 
+            "scheduleType": "AllTime", 
+            "targeting": {
+                "ageMax": 25, 
+                "ageMin": 13, 
+                "countries": [
+                    "Vietnam"
+                ], 
+                "devicePlatforms": [
+                    "mobile"
+                ], 
+                "gender": "All", 
+                "interest": "", 
+                "locales": [
+                    "English (All)"
+                ], 
+                "positions": [
+                    "feed"
+                ], 
+                "publisherPlatforms": [
+                    "facebook"
+                ], 
+                "userOSs": [
+                    "iOS"
+                ]
+            }, 
+            "timeEnd": "2016-11-10 00:00", 
+            "timeStart": "2016-10-10 00:00"
+        }
+    ], 
+    "campaignId": "", 
+    "campaignSpendCap": 30000, 
+    "campaignType": "AppInstall", 
+    "creatives": [
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;8660022991747613320", 
+            "pageId": "316660178725422", 
+            "pseudoId": 8660022991747613320, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;3750417788648485431", 
+            "pageId": "316660178725422", 
+            "pseudoId": 3750417788648485431, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Carousel;4342352141998490743", 
+            "pageId": "316660178725422", 
+            "pseudoId": 4342352141998490743, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Slideshow;4817957015462206784", 
+            "pageId": "316660178725422", 
+            "pseudoId": 4817957015462206784, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;3020933661679332182", 
+            "pageId": "316660178725422", 
+            "pseudoId": 3020933661679332182, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;193245054662854641", 
+            "pageId": "316660178725422", 
+            "pseudoId": 193245054662854641, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Carousel;1555767543557468968", 
+            "pageId": "316660178725422", 
+            "pseudoId": 1555767543557468968, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Slideshow;681918613027728665", 
+            "pageId": "316660178725422", 
+            "pseudoId": 681918613027728665, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;6050463664444086735", 
+            "pageId": "316660178725422", 
+            "pseudoId": 6050463664444086735, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;4048419448608583250", 
+            "pageId": "316660178725422", 
+            "pseudoId": 4048419448608583250, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Carousel;1585351954132677661", 
+            "pageId": "316660178725422", 
+            "pseudoId": 1585351954132677661, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Slideshow;1153191927043360958", 
+            "pageId": "316660178725422", 
+            "pseudoId": 1153191927043360958, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;5086473849042507804", 
+            "pageId": "316660178725422", 
+            "pseudoId": 5086473849042507804, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;8368266252537612576", 
+            "pageId": "316660178725422", 
+            "pseudoId": 8368266252537612576, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Carousel;6996868647203707213", 
+            "pageId": "316660178725422", 
+            "pseudoId": 6996868647203707213, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Slideshow;8009090356033042539", 
+            "pageId": "316660178725422", 
+            "pseudoId": 8009090356033042539, 
+            "title": "Solitaire \u221e"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;2236025147791751302", 
+            "pageId": "316660178725422", 
+            "pseudoId": 2236025147791751302, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;8372925498601509725", 
+            "pageId": "316660178725422", 
+            "pseudoId": 8372925498601509725, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Carousel;1878266778649718127", 
+            "pageId": "316660178725422", 
+            "pseudoId": 1878266778649718127, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Slideshow;4988352520313086680", 
+            "pageId": "316660178725422", 
+            "pseudoId": 4988352520313086680, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;6485028007402298075", 
+            "pageId": "316660178725422", 
+            "pseudoId": 6485028007402298075, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;3338520351683666364", 
+            "pageId": "316660178725422", 
+            "pseudoId": 3338520351683666364, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Carousel;6836477708665850312", 
+            "pageId": "316660178725422", 
+            "pseudoId": 6836477708665850312, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Slideshow;706189173336615171", 
+            "pageId": "316660178725422", 
+            "pseudoId": 706189173336615171, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;7559412421214711188", 
+            "pageId": "316660178725422", 
+            "pseudoId": 7559412421214711188, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;290499536877808111", 
+            "pageId": "316660178725422", 
+            "pseudoId": 290499536877808111, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Carousel;4047275092880663273", 
+            "pageId": "316660178725422", 
+            "pseudoId": 4047275092880663273, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Slideshow;8298037733329824302", 
+            "pageId": "316660178725422", 
+            "pseudoId": 8298037733329824302, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;6105615666615212399", 
+            "pageId": "316660178725422", 
+            "pseudoId": 6105615666615212399, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;1797711179985924505", 
+            "pageId": "316660178725422", 
+            "pseudoId": 1797711179985924505, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Carousel;7855239662916777891", 
+            "pageId": "316660178725422", 
+            "pseudoId": 7855239662916777891, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Slideshow;554388269580267892", 
+            "pageId": "316660178725422", 
+            "pseudoId": 554388269580267892, 
+            "title": "Solitaire \u221e - Great Game"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;1207327798742196651", 
+            "pageId": "316660178725422", 
+            "pseudoId": 1207327798742196651, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;9191791799277382258", 
+            "pageId": "316660178725422", 
+            "pseudoId": 9191791799277382258, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Carousel;275519008058189810", 
+            "pageId": "316660178725422", 
+            "pseudoId": 275519008058189810, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Slideshow;2542231444207846096", 
+            "pageId": "316660178725422", 
+            "pseudoId": 2542231444207846096, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;1229412535773908151", 
+            "pageId": "316660178725422", 
+            "pseudoId": 1229412535773908151, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Image;1997735897008456787", 
+            "pageId": "316660178725422", 
+            "pseudoId": 1997735897008456787, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Carousel;2200859594573441797", 
+            "pageId": "316660178725422", 
+            "pseudoId": 2200859594573441797, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on IOS!...", 
+            "name": "Solitaire;Slideshow;4477537777622142219", 
+            "pageId": "316660178725422", 
+            "pseudoId": 4477537777622142219, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;2490252061384879664", 
+            "pageId": "316660178725422", 
+            "pseudoId": 2490252061384879664, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;4646974730493990686", 
+            "pageId": "316660178725422", 
+            "pseudoId": 4646974730493990686, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Carousel;4283552569102407890", 
+            "pageId": "316660178725422", 
+            "pseudoId": 4283552569102407890, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "INSTALL_MOBILE_APP", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Slideshow;1427626375614398968", 
+            "pageId": "316660178725422", 
+            "pseudoId": 1427626375614398968, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;2468643505970142827", 
+            "pageId": "316660178725422", 
+            "pseudoId": 2468643505970142827, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Image", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg", 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Image;8434684738486764423", 
+            "pageId": "316660178725422", 
+            "pseudoId": 8434684738486764423, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Carousel", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Carousel;4125021857926325280", 
+            "pageId": "316660178725422", 
+            "pseudoId": 4125021857926325280, 
+            "title": "Solitaire \u221e - FREE"
+        }, 
+        {
+            "adFormat": "Slideshow", 
+            "callToActionType": "DOWNLOAD", 
+            "description": "", 
+            "imagePaths": [
+                "http://a1.mzstatic.com/us/r30/Purple62/v4/da/e9/1d/dae91dd9-8056-2fa6-2146-e5654c27f2ff/screen696x696.jpeg", 
+                "http://a3.mzstatic.com/us/r30/Purple62/v4/22/d1/7e/22d17e34-7eb6-a42f-167b-07a739c5d892/screen406x722.jpeg"
+            ], 
+            "linkUrl": "https://itunes.apple.com/us/app/solitaire/id1100578622?mt=8", 
+            "message": "Play the #1 FREE SOLITAIRE (or Klondike Solitaire / Patience) card game on... *Super fun*", 
+            "name": "Solitaire;Slideshow;7104312888201332062", 
+            "pageId": "316660178725422", 
+            "pseudoId": 7104312888201332062, 
+            "title": "Solitaire \u221e - FREE"
+        }
+    ], 
+    "name": "Solitaire \u221e;facebook;AppInstall"
+}

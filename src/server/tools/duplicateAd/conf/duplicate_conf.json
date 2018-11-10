@@ -1,0 +1,47 @@
+{
+  "csvTextPath" : "/home/work/eli/src/server/tools/duplicateAd/material/SinglePicture.xlsx",
+  "configInfos":[
+    {
+      "description": "1317_BR",
+      "fromAdsetId": "23842767070890758",
+      "fromAdId": "",
+      "materialPath": "/home/work/eli/src/server/tools/duplicateAd/material/1317",
+      "isShareMaterial": false
+    },
+    {
+      "description": "1824_BR",
+      "fromAdsetId": "23842767068140758",
+      "fromAdId": "",
+      "materialPath": "/home/work/eli/src/server/tools/duplicateAd/material/1824",
+      "isShareMaterial": false
+    },
+    {
+      "description": "2534_BR",
+      "fromAdsetId": "23842767069710758",
+      "fromAdId": "",
+      "materialPath": "/home/work/eli/src/server/tools/duplicateAd/material/2534",
+      "isShareMaterial": false
+    },
+    {
+      "description": "3544_BR",
+      "fromAdsetId": "23842767064860758",
+      "fromAdId": "",
+      "materialPath": "/home/work/eli/src/server/tools/duplicateAd/material/3544",
+      "isShareMaterial": false
+    },
+    {
+      "description": "M_BR",
+      "fromAdsetId": "23842767071830758",
+      "fromAdId": "",
+      "materialPath": "/home/work/eli/src/server/tools/duplicateAd/material/MF",
+      "isShareMaterial": false
+    },
+    {
+      "description": "F_BR",
+      "fromAdsetId": "23842767067220758",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    }
+  ]
+}

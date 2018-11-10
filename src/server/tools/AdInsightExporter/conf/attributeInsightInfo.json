@@ -1,0 +1,110 @@
+{
+  "campaign_id": {
+    "type": "#VALUE#"
+  },
+  "campaign_name": {
+    "type": "#VALUE#"
+  },
+  "adset_id": {
+    "type": "#VALUE#"
+  },
+  "adset_name": {
+    "type": "#VALUE#"
+  },
+  "ad_id": {
+    "type": "#VALUE#"
+  },
+  "ad_name": {
+    "type": "#VALUE#"
+  },
+  "date_start": {
+    "type": "#VALUE#",
+    "alias": "insight_date"
+  },
+  "request_time": {
+    "type": "#MANUAL#"
+  },
+  "actions": {
+    "type": "#NUMARRAY#",
+    "alias": {
+      "mobile_app_install": "default"
+    },
+    "displayKeys": [
+      "mobile_app_install"
+    ],
+    "valueKey": "value",
+    "keyKey": "action_type"
+  },
+  "actions_001": {
+    "realKey": "actions",
+    "type": "#NUMARRAY#",
+    "alias": {
+      "mobile_app_install": "1d_view"
+    },
+    "displayKeys": [
+      "mobile_app_install"
+    ],
+    "valueKey": "1d_view",
+    "keyKey": "action_type"
+  },
+  "actions_002": {
+    "realKey": "actions",
+    "type": "#NUMARRAY#",
+    "alias": {
+      "mobile_app_install": "7d_view"
+    },
+    "displayKeys": [
+      "mobile_app_install"
+    ],
+    "valueKey": "7d_view",
+    "keyKey": "action_type"
+  },
+  "actions_003": {
+    "realKey": "actions",
+    "type": "#NUMARRAY#",
+    "alias": {
+      "mobile_app_install": "28d_view"
+    },
+    "displayKeys": [
+      "mobile_app_install"
+    ],
+    "valueKey": "28d_view",
+    "keyKey": "action_type"
+  },
+  "actions_004": {
+    "realKey": "actions",
+    "type": "#NUMARRAY#",
+    "alias": {
+      "mobile_app_install": "1d_click"
+    },
+    "displayKeys": [
+      "mobile_app_install"
+    ],
+    "valueKey": "1d_click",
+    "keyKey": "action_type"
+  },
+  "actions_005": {
+    "realKey": "actions",
+    "type": "#NUMARRAY#",
+    "alias": {
+      "mobile_app_install": "7d_click"
+    },
+    "displayKeys": [
+      "mobile_app_install"
+    ],
+    "valueKey": "7d_click",
+    "keyKey": "action_type"
+  },
+  "actions_006": {
+    "realKey": "actions",
+    "type": "#NUMARRAY#",
+    "alias": {
+      "mobile_app_install": "28d_click"
+    },
+    "displayKeys": [
+      "mobile_app_install"
+    ],
+    "valueKey": "28d_click",
+    "keyKey": "action_type"
+  }
+}

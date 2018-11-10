@@ -1,0 +1,141 @@
+﻿<?xml version="1.0"?>
+<Application autoNameMapping="true">
+    <Theme name="Default"/>
+    <Theme name="Eli"/>
+    <Resources>
+        <Package name="Animation"/>
+
+        <Script src="gstatic/loader.js" charset="utf-8"/>
+        <Script src="js/CONST_VAR.js" charset="utf-8"/>
+
+        <!--BEGIN DEBUG -->
+        <script src="js/lib/jshash-2.2/spark-md5.js" charset="utf-8"/>
+        <Script src="js/public/xml2json.js" charset="utf-8"/>
+        <Script src="js/public/sprintf.js" charset="utf-8"/>
+        <Script src="js/public/public.js" charset="utf-8"/>
+        <Script src="js/public/CAjax.js" charset="utf-8"/>
+        <Script src="js/public/CLocalStorage.js" charset="utf-8"/>
+        <Script src="js/public/CTimeInterval.js" charset="utf-8"/>
+        <Script src="js/public/CSize.js" charset="utf-8"/>
+
+        <!-- encrypt -->
+
+
+        <Script src="js/lib/Encrypt/Aes/aes.js" charset="utf-8"/>
+        <Script src="js/lib/Encrypt/Aes/aes-ctr.js" charset="utf-8"/>
+        <Script src="js/lib/Encrypt/CEncrypt.js" charset="utf-8"/>
+
+        <!-- file -->
+        <Script src="js/lib/Components/FileUploadControls/CFileChunk.js" />
+        <Script src="js/lib/Components/FileUploadControls/CFileUpload.js"/>
+
+        <Script src="js/EliApplicationPlatform/CEliImageSlider.js" charset="utf-8"/>
+        <Script src="js/EliApplicationPlatform/CIndexConst.js" charset="utf-8"/>
+        <Script src="js/EliApplicationPlatform/CCopyRightComponent.js" charset="utf-8"/>
+        <Script src="js/EliApplicationPlatform/CPageNavigationComponent.js" charset="utf-8"/>
+        <Script src="js/EliApplicationPlatform/CProductServicePanel.js" charset="utf-8"/>
+        <Script src="js/EliApplicationPlatform/CEliApplication.js" charset="utf-8"/>
+        <Script src="js/adPlatform/CEliSystemEntrance.js" charset="utf-8"/>
+
+        <!--LOGIN && REGISTER -->
+        <Script src="js/adPlatform/user/CLoginComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/user/CRegisterComponent.js" charset="utf-8"/>
+
+        <Script src="js/adPlatform/user/CEliAccount.js" charset="utf-8"/>
+        <Script src="js/adPlatform/user/CVerification.js" charset="utf-8"/>
+        <Script src="js/adPlatform/CErrorCode.js" charset="utf-8"/>
+
+        <!--AdPlatform tool -->
+        <Script src="js/adPlatform/DataFields/ToolsButtonFields.js" charset="utf-8"/>
+        <Script src="js/lib/Components/checkBox/CRaidoGroup.js" charset="utf-8"/>
+        <Script src="js/adPlatform/campaign/CCampaignPublisher.js" charset="utf-8"/>
+
+        <script src="js/adPlatform/graph/CChartPieComponent.js" charset="utf-8"/>
+        <script src="js/adPlatform/graph/CChartLineComponent.js" charset="utf-8"/>
+
+        <!-- Account Data -->
+
+        <Script src="js/adPlatform/stat/report/CReportNoDataComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/dashBoard/CDashboardPublisherData.js" charset="utf-8"/>
+        <Script src="js/adPlatform/dashBoard/CAccountData.js" charset="utf-8"/>
+        <Script src="js/adPlatform/DataFields/CampaignFields.js" charset="utf-8"/>
+        <Script src="js/adPlatform/DataFields/InsightFields.js" charset="utf-8"/>
+        <Script src="js/adPlatform/DataFields/PublisherFields.js" charset="utf-8"/>
+        <Script src="js/adPlatform/DataFields/AccountFields.js" charset="utf-8"/>
+
+        <!--AdPlatform Main -->
+        <Script src="js/adPlatform/CAdPlatformPanel.js" charset="utf-8"/>
+        <Script src="js/adPlatform/user/CCompleteUserInfo.js" charset="utf-8"/>
+        <Script src="js/adPlatform/CADToolBarPanel.js" charset="utf-8"/>
+
+        <!--Dashboard -->
+        <script src="js/adPlatform/dashBoard/CAccountPublisherGraph.js" charset="utf-8"/>
+        <script src="js/adPlatform/dashBoard/CDashboardAccountGraph.js" charset="utf-8"/>
+        <Script src="js/adPlatform/dashBoard/CDashboardChartComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/dashBoard/CDashboardComponent.js" charset="utf-8" />
+
+        <!--create Campaign -->
+        <Script src="js/adPlatform/campaign/component/CSingleInputComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/campaign/component/CCampaignTypeComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/campaign/CCampaignComponent.js" charset="utf-8" />
+        <Script src="js/adPlatform/campaign/CCampaignMainComponent.js" charset="utf-8"/>
+        <script src="js/adPlatform/campaign/CBasicInfoComponent.js" charset="utf-8" />
+        <Script src="js/adPlatform/campaign/CAdvanceComponent.js" charset="utf-8" />
+        <Script src="js/adPlatform/campaign/CCampaignInfo.js" charset="utf-8"/>
+
+        <!--Campaign Report -->
+        <script src="js/adPlatform/date/CDateComponent.js" charset="utf-8"/>
+        <script src="js/adPlatform/date/CDateSearchComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/report/CPublisherData.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/report/CCampaignData.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/report/CCampaignDataProcess.js" charset="utf-8"/>
+        <script src="js/adPlatform/stat/report/CReportTablePageControl.js" charset="utf-8"/>
+        <script src="js/adPlatform/stat/report/CReportNavigationComponent.js" charset="utf-8"/>
+        <script src="js/adPlatform/stat/report/CReportTableItemComponent.js" charset="utf-8"/>
+        <script src="js/adPlatform/stat/report/CReportTableComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/report/CPublisherMainPanel.js" charset="utf-8"/>
+        <script src="js/adPlatform/stat/report/CReportPageControl.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/report/CReportItemComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/report/CReportCampaignFields.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/report/CReportTableInfo.js" charset="utf-8" />
+        <Script src="js/adPlatform/stat/report/CReportMainComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/report/CReportComponent.js" charset="utf-8" />
+        <script src="js/adPlatform/stat/report/CReportPublisherChartsComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/statements/CStatementComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/payment/CPaymentComponent.js" charset="utf-8"/>
+
+        <!-- Statements -->
+        <Script src="js/CTestData.js" charset="utf-8"/>
+        <Script src="js/adPlatform/pageControl/CPageController.js" charset="utf-8"/>
+        <Script src="js/adPlatform/DataFields/StatementsFields.js" charset="utf-8"/>
+        <Script src="js/language/ConstStatementsContent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/statements/CStatementSinglePanel.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/statements/CStatementsMainPanel.js" charset="utf-8"/>
+        <Script src="js/adPlatform/stat/statements/CHeadTabPanel.js" charset="utf-8"/>
+
+        <!--Verification Code SMS -->
+        <Script src="js/language/ConstSettingContent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/SMSVerification/CSMSCodeInterface.js" charset="utf-8"/>
+        <Script src="js/adPlatform/SMSVerification/CSMSVerificationCode.js" charset="utf-8"/>
+
+        <Script src="js/adPlatform/setting/CSettingComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/setting/CSettingMainPanel.js" charset="utf-8"/>
+        <script src="js/adPlatform/setting/CAccountInfo.js" charset="utf-8"/>
+        <script src="js/adPlatform/setting/CAccountFields.js" charset="utf-8"/>
+        <script src="js/adPlatform/help/CHelpComponent.js" charset="utf-8"/>
+        <Script src="js/adPlatform/user/CUserInfoComponent.js" charset="utf-8"/>
+
+        <Script>
+            <![CDATA[
+        function EliSystem()
+        {
+            var eliApplication = new CEliApplication();
+            eliApplication.initObject();
+        }
+
+        EliSystem.main = function () { new EliSystem(); };
+
+        ]]>
+        </Script>
+    </Resources>
+</Application>

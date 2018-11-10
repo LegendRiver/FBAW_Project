@@ -1,0 +1,77 @@
+{
+  "csvTextPath": "",
+  "configInfos":[
+    {
+      "description": "5%-1",
+      "fromAdsetId": "23842738906860084",
+      "fromAdId": "",
+      "toCampaignId": "",
+      "materialPath": "",
+      "isShareMaterial": false
+    },
+    {
+      "description": "5%-2",
+      "fromAdsetId": "23842738894370084",
+      "fromAdId": "",
+      "toCampaignId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "5%-3",
+      "fromAdsetId": "23842738888830084",
+      "fromAdId": "",
+      "toCampaignId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "5%-4",
+      "fromAdsetId": "23842738861460084",
+      "fromAdId": "",
+      "toCampaignId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "5%-5",
+      "fromAdsetId": "23842739962020084",
+      "fromAdId": "",
+      "toCampaignId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "5%-6",
+      "fromAdsetId": "23842738881150084",
+      "fromAdId": "",
+      "toCampaignId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "5%-7",
+      "fromAdsetId": "23842739782850084",
+      "fromAdId": "",
+      "toCampaignId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "5%-8",
+      "fromAdsetId": "23842738095820084",
+      "fromAdId": "",
+      "toCampaignId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "5%-9",
+      "fromAdsetId": "23842737478930084",
+      "fromAdId": "",
+      "toCampaignId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    }
+  ]
+}

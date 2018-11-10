@@ -1,0 +1,11 @@
+[ERROR][2017-05-17 15:52:31][AdVideoManager.php,writeExceptionLog,60][Exception Info : Connection timed out after 10003 milliseconds ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2017-05-17 15:52:31][uploader_run.php,createAdVideo,33][Failed to Create video.AdVideoParam Object
+(
+    [accountId:AdVideoParam:private] => act_1202579213151769
+    [videoType:AdVideoParam:private] => 1
+    [imageUrls:AdVideoParam:private] => 
+    [durationMs:AdVideoParam:private] => 1000
+    [transitionMs:AdVideoParam:private] => 200
+    [source:AdVideoParam:private] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/MaterialUploader/material/352888350.mp4
+)
+]

@@ -1,0 +1,471 @@
+Name,Description,Platform,AudienceSize
+iPad,"iPads (all)",iOS,124000000
+iPhone,"iPhones (all)",iOS,444000000
+iPod,"iPods (all)",iOS,9400000
+ipad,"Apple iPad",iOS,28000000
+"ipad 2","Apple iPad 2",iOS,18000000
+"ipad 3rd gen","Apple iPad 3rd gen",iOS,10000000
+"ipad 4th gen","Apple iPad 4th gen",iOS,13000000
+"ipad air","Apple iPad Air",iOS,18000000
+"ipad air 2","Apple iPad Air 2",iOS,15000000
+"ipad mini","Apple iPad mini",iOS,19000000
+"ipad mini 2","Apple iPad mini 2",iOS,20
+"ipad mini 3","Apple iPad mini 3",iOS,2500000
+"ipad mini 4","Apple iPad mini 4",iOS,3000000
+"ipad pro","Apple iPad Pro",iOS,3800000
+iphone,"Apple iPhone",iOS,99000000
+"iphone 3gs","Apple iPhone 3GS",iOS,560000
+"iphone 4","Apple iPhone 4",iOS,20000000
+"iphone 4s","Apple iPhone 4s",iOS,31000000
+"iphone 5","Apple iPhone 5",iOS,42000000
+"iphone 5c","Apple iPhone 5c",iOS,20000000
+"iphone 5s","Apple iPhone 5s",iOS,84000000
+"iphone 6","Apple iPhone 6",iOS,108000000
+"iphone 6 plus","Apple iPhone 6 Plus",iOS,31000000
+"iphone 6s","Apple iPhone 6s",iOS,75000000
+"iphone 6s plus","Apple iPhone 6s Plus",iOS,29000000
+"iphone 7","Apple iPhone 7",iOS,27000000
+"iphone 7 plus","Apple iPhone 7 Plus",iOS,14000000
+"iphone se","Apple iPhone SE",iOS,14000000
+"ipod touch 1st generation","Apple iPod Touch 1st Generation",iOS,20
+"ipod touch 2nd generation","Apple iPod Touch 2nd Generation",iOS,8900
+"ipod touch 3rd generation","Apple iPod Touch 3rd Generation",iOS,37000
+"ipod touch 4th generation","Apple iPod Touch 4th Generation",iOS,930000
+"ipod touch 5th generation","Apple iPod Touch 5th Generation",iOS,5100000
+530,"Philips 530",Windows,15000
+"lumia 520","Nokia Lumia 520",Windows,250000
+"lumia 535","Microsoft Lumia 535",Windows,280000
+"lumia 630","Nokia Lumia 630",Windows,26000
+"lumia 635","Nokia Lumia 635",Windows,30000
+"lumia 640 lte","Nokia Lumia 640 LTE",Windows,24000
+microsoft,"Microsoft Devices",Windows,570000
+nokia,"Nokia Devices",Windows,54000000
+philips,"Philips Devices",Windows,1300000
+Android_Smartphone,"Android Smartphones (all)",Android,1603000000
+Android_Tablet,"Android Tablets (all)",Android,173000000
+a1000,"Lenovo A1000",Android,4400000
+a2010,"Lenovo A2010",Android,4300000
+a369i,"Lenovo A369i",Android,2100000
+a37,"Oppo A37",Android,5200000
+a536,"Lenovo A536",Android,2400000
+a6000,"Lenovo A6000",Android,6200000
+a7000,"Lenovo A7000",Android,3000000
+alcatel,"Alcatel Devices",Android,51000000
+amazon,"Amazon Devices",Android,6000000
+"aquos crystal","Sharp Aquos Crystal",Android,380000
+"aquos crystal x","Sharp Aquos Crystal X",Android,70000
+"aquos ever","Sharp Aquos Ever",Android,270000
+"aquos phone serie shl22","Sharp Aquos Phone Serie SHL22",Android,54000
+"aquos phone serie shl23","Sharp Aquos Phone Serie SHL23",Android,200000
+"aquos phone xx mini","Sharp Aquos Phone Xx mini",Android,160000
+"aquos phone zeta sh-02e","Sharp Aquos Phone Zeta SH-02E",Android,99000
+"aquos xx","Sharp Aquos Xx",Android,240000
+"ascend g610","Huawei Ascend G610",Android,1500000
+"ascend g7","Huawei Ascend G7",Android,1700000
+"ascend g730","Huawei Ascend G730",Android,1600000
+"ascend p7","Huawei Ascend P7",Android,1400000
+"ascend y221","Huawei Ascend Y221",Android,2200000
+"ascend y330","Huawei Ascend Y330",Android,4000000
+"ascend y336","Huawei Ascend Y336",Android,3300000
+"ascend y360","Huawei Ascend Y360",Android,3000000
+"ascend y520","Huawei Ascend Y520",Android,3500000
+"ascend y530","Huawei Ascend Y530",Android,2400000
+"ascend y550","Huawei Ascend Y550",Android,1100000
+"ascend y560","Huawei Ascend Y560",Android,2500000
+"ascend y600","Huawei Ascend Y600",Android,1400000
+"ascend y625","Huawei Ascend Y625",Android,3400000
+"ascend y635","Huawei Ascend Y635",Android,2800000
+asus,"Asus Devices",Android,46000000
+"blade l2","Zte Blade L2",Android,1100000
+"camon c8","Tecno Camon C8",Android,1300000
+"desire 510","Htc Desire 510",Android,1300000
+"desire 626","Htc Desire 626",Android,1300000
+"desire 626s","Htc Desire 626S",Android,2800000
+"desire 816","Htc Desire 816",Android,1400000
+"desire 820","Htc Desire 820",Android,1600000
+docomo,"Docomo Devices",Android,5700000
+"droid maxx","Motorola Droid Maxx",Android,1800000
+"droid mini","Motorola Droid Mini",Android,470000
+"droid razr","Motorola Droid Razr",Android,450000
+"droid razr 4g","Motorola Droid Razr 4G",Android,230000
+"droid razr hd","Motorola Droid Razr HD",Android,320000
+"droid razr m","Motorola Droid Razr M",Android,660
+"droid turbo","Motorola Droid Turbo",Android,1600000
+"droid turbo 2","Motorola Droid Turbo 2",Android,1500000
+f1,"Oppo F1",Android,3900000
+f1s,"Oppo F1s",Android,5800000
+fire,"Amazon Fire",Android,1900000
+"g play mini","Huawei G Play Mini",Android,1400000
+"g pro lite","Lg G Pro Lite",Android,2400000
+"g stylo","Lg G Stylo",Android,3300000
+g2,"Lg G2",Android,3900000
+"g2 mini","Lg G2 Mini",Android,1500000
+g3,"Lg G3",Android,8900000
+"g3 a","Lg G3 A",Android,81000
+"g3 beat","Lg G3 Beat",Android,220000
+"g3 mini","Lg G3 Mini",Android,13000
+"g3 prime","Lg G3 Prime",Android,240000
+"g3 s","Lg G3 S",Android,1100000
+"g3 stylus","Lg G3 Stylus",Android,3000000
+"g3 vigor","Lg G3 Vigor",Android,210000
+g4,"Lg G4",Android,5700000
+"g4 beat","Lg G4 Beat",Android,950000
+"g4 stylus","Lg G4 Stylus",Android,2300000
+g4c,"Lg G4c",Android,1200000
+g5,"Lg G5",Android,2300000
+g8,"Huawei G8",Android,1400000
+"galaxy a3","Samsung Galaxy A3",Android,9300000
+"galaxy a3 (2016)","Samsung Galaxy A3 (2016)",Android,6800000
+"galaxy a5","Samsung Galaxy A5",Android,13000000
+"galaxy a5 (2016)","Samsung Galaxy A5 (2016)",Android,8500000
+"galaxy a7","Samsung Galaxy A7",Android,3100000
+"galaxy a7 (2016)","Samsung Galaxy A7 (2016)",Android,3300000
+"galaxy a8","Samsung Galaxy A8",Android,2500000
+"galaxy ace","Samsung Galaxy Ace",Android,5200000
+"galaxy ace 2","Samsung Galaxy Ace 2",Android,1900000
+"galaxy ace 3","Samsung Galaxy Ace 3",Android,3700000
+"galaxy ace 4","Samsung Galaxy Ace 4",Android,1800000
+"galaxy ace 4 duos","Samsung Galaxy Ace 4 Duos",Android,1300000
+"galaxy ace 4 lite duos","Samsung Galaxy Ace 4 Lite Duos",Android,920000
+"galaxy ace 4 neo","Samsung Galaxy Ace 4 Neo",Android,2600000
+"galaxy ace duos","Samsung Galaxy Ace Duos",Android,460000
+"galaxy ace nxt","Samsung Galaxy Ace NXT",Android,1200000
+"galaxy ace plus","Samsung Galaxy Ace Plus",Android,630000
+"galaxy ace style","Samsung Galaxy Ace Style",Android,4300000
+"galaxy alpha","Samsung Galaxy Alpha",Android,2300000
+"galaxy avant","Samsung Galaxy Avant",Android,1300000
+"galaxy centura","Samsung Galaxy Centura",Android,110000
+"galaxy chat","Samsung Galaxy Chat",Android,1200000
+"galaxy core","Samsung Galaxy Core",Android,8500000
+"galaxy core 2","Samsung Galaxy Core 2",Android,11000000
+"galaxy core 2 duos","Samsung Galaxy Core 2 Duos",Android,7300000
+"galaxy core plus","Samsung Galaxy Core Plus",Android,3900000
+"galaxy core prime","Samsung Galaxy Core Prime",Android,17000000
+"galaxy core prime duos","Samsung Galaxy Core Prime Duos",Android,6200000
+"galaxy e5","Samsung Galaxy E5",Android,3800000
+"galaxy e7","Samsung Galaxy E7",Android,3000000
+"galaxy exhibit","Samsung Galaxy Exhibit",Android,500000
+"galaxy fame","Samsung Galaxy Fame",Android,3800000
+"galaxy fame lite","Samsung Galaxy Fame Lite",Android,1300000
+"galaxy fame lite duos","Samsung Galaxy Fame Lite Duos",Android,210000
+"galaxy grand","Samsung Galaxy Grand",Android,9300000
+"galaxy grand 2","Samsung Galaxy Grand 2",Android,11000000
+"galaxy grand 2 duos","Samsung Galaxy Grand 2 Duos",Android,650000
+"galaxy grand max","Samsung Galaxy Grand Max",Android,1500000
+"galaxy grand neo","Samsung Galaxy Grand Neo",Android,25000000
+"galaxy grand prime","Samsung Galaxy Grand Prime",Android,65000000
+"galaxy grand quattro","Samsung Galaxy Grand Quattro",Android,3800000
+"galaxy j1","Samsung Galaxy J1",Android,33000000
+"galaxy j1 (2016)","Samsung Galaxy J1 (2016)",Android,13000000
+"galaxy j1 ace","Samsung Galaxy J1 Ace",Android,18000000
+"galaxy j1 mini","Samsung Galaxy J1 Mini",Android,8600000
+"galaxy j2","Samsung Galaxy J2",Android,39000000
+"galaxy j2 (2016)","Samsung Galaxy J2 (2016)",Android,4200000
+"galaxy j3","Samsung Galaxy J3",Android,17000000
+"galaxy j3 (2016)","Samsung Galaxy J3 (2016)",Android,3200000
+"galaxy j5","Samsung Galaxy J5",Android,46000000
+"galaxy j5 (2016)","Samsung Galaxy J5 (2016)",Android,7900000
+"galaxy j7","Samsung Galaxy J7",Android,39000000
+"galaxy j7 (2016)","Samsung Galaxy J7 (2016)",Android,9400000
+"galaxy light","Samsung Galaxy Light",Android,610000
+"galaxy mega 2","Samsung Galaxy Mega 2",Android,600000
+"galaxy mega 5.8","Samsung Galaxy Mega 5.8",Android,1700000
+"galaxy mega 6.3","Samsung Galaxy Mega 6.3",Android,1700000
+"galaxy mini","Samsung Galaxy Mini",Android,1300000
+"galaxy mini 2","Samsung Galaxy Mini 2",Android,490000
+"galaxy note","Samsung Galaxy Note",Android,2900000
+"galaxy note 10.1","Samsung Galaxy Note 10.1",Android,2700000
+"galaxy note 10.1 2014","Samsung Galaxy Note 10.1 2014",Android,1200000
+"galaxy note 3","Samsung Galaxy Note 3",Android,21000000
+"galaxy note 3 neo","Samsung Galaxy Note 3 Neo",Android,2900000
+"galaxy note 3 neo duos","Samsung Galaxy Note 3 Neo Duos",Android,280000
+"galaxy note 4","Samsung Galaxy Note 4",Android,16000000
+"galaxy note 4 duos","Samsung Galaxy Note 4 Duos",Android,120000
+"galaxy note 5","Samsung Galaxy Note 5",Android,14000000
+"galaxy note 7","Samsung Galaxy Note 7",Android,440000
+"galaxy note 8.0","Samsung Galaxy Note 8.0",Android,1700000
+"galaxy note edge","Samsung Galaxy Note Edge",Android,1700000
+"galaxy note ii","Samsung Galaxy Note II",Android,12000000
+"galaxy on5","Samsung Galaxy On5",Android,4900000
+"galaxy on7","Samsung Galaxy On7",Android,5800000
+"galaxy pocket","Samsung Galaxy Pocket",Android,1300000
+"galaxy pocket 2","Samsung Galaxy Pocket 2",Android,570000
+"galaxy pocket 2 duos","Samsung Galaxy Pocket 2 Duos",Android,1600000
+"galaxy pocket duos","Samsung Galaxy Pocket Duos",Android,360000
+"galaxy pocket neo","Samsung Galaxy Pocket Neo",Android,4800000
+"galaxy pocket neo duos","Samsung Galaxy Pocket Neo Duos",Android,290000
+"galaxy pocket plus","Samsung Galaxy Pocket Plus",Android,3100000
+"galaxy s","Samsung Galaxy S",Android,520000
+"galaxy s advance","Samsung Galaxy S Advance",Android,1400000
+"galaxy s duos","Samsung Galaxy S Duos",Android,5700000
+"galaxy s duos 2","Samsung Galaxy S Duos 2",Android,11000000
+"galaxy s duos 3","Samsung Galaxy S Duos 3",Android,4400000
+"galaxy s ii","Samsung Galaxy S II",Android,5800000
+"galaxy s ii plus","Samsung Galaxy S II Plus",Android,2100000
+"galaxy s ii skyrocket","Samsung Galaxy S II Skyrocket",Android,110000
+"galaxy s ii tv","Samsung Galaxy S II TV",Android,730000
+"galaxy s iii","Samsung Galaxy S III",Android,28000000
+"galaxy s iii alpha","Samsung Galaxy S III Alpha",Android,120000
+"galaxy s iii mini","Samsung Galaxy S III Mini",Android,19000000
+"galaxy s iii neo","Samsung Galaxy S III Neo",Android,11000000
+"galaxy s iii neo plus","Samsung Galaxy S III Neo Plus",Android,1000000
+"galaxy s iii neo+","Samsung Galaxy S III Neo+",Android,34000
+"galaxy s iii slim","Samsung Galaxy S III Slim",Android,650000
+"galaxy s4","Samsung Galaxy S4",Android,35000000
+"galaxy s4 active","Samsung Galaxy S4 Active",Android,1000000
+"galaxy s4 mini","Samsung Galaxy S4 Mini",Android,14000000
+"galaxy s4 value edition","Samsung Galaxy S4 Value Edition",Android,2000000
+"galaxy s4 zoom","Samsung Galaxy S4 Zoom",Android,370000
+"galaxy s5","Samsung Galaxy S5",Android,41000000
+"galaxy s5 active","Samsung Galaxy S5 Active",Android,1200000
+"galaxy s5 duos","Samsung Galaxy S5 Duos",Android,230000
+"galaxy s5 mini","Samsung Galaxy S5 Mini",Android,6600000
+"galaxy s5 neo","Samsung Galaxy S5 Neo",Android,4300000
+"galaxy s5 prime","Samsung Galaxy S5 Prime",Android,630000
+"galaxy s5 sport","Samsung Galaxy S5 Sport",Android,180000
+"galaxy s6","Samsung Galaxy S6",Android,29000000
+"galaxy s6 active","Samsung Galaxy S6 Active",Android,1200000
+"galaxy s6 edge","Samsung Galaxy S6 Edge",Android,17000000
+"galaxy s6 edge plus","Samsung Galaxy S6 Edge Plus",Android,5700000
+"galaxy s7","Samsung Galaxy S7",Android,20000000
+"galaxy s7 edge","Samsung Galaxy S7 Edge",Android,22000000
+"galaxy star","Samsung Galaxy Star",Android,4400000
+"galaxy star 2","Samsung Galaxy Star 2",Android,1100000
+"galaxy star advance","Samsung Galaxy Star Advance",Android,3800000
+"galaxy star pro","Samsung Galaxy Star Pro",Android,7800000
+"galaxy star trios","Samsung Galaxy Star Trios",Android,160000
+"galaxy tab 10.1","Google Galaxy Tab 10.1",Android,580000
+"galaxy tab 2 10.1","Samsung Galaxy Tab 2 10.1",Android,4200000
+"galaxy tab 2 7.0","Samsung Galaxy Tab 2 7.0",Android,4900000
+"galaxy tab 3 10.1","Samsung Galaxy Tab 3 10.1",Android,4200000
+"galaxy tab 3 7.0","Samsung Galaxy Tab 3 7.0",Android,7200000
+"galaxy tab 3 8.0","Samsung Galaxy Tab 3 8.0",Android,2800000
+"galaxy tab 3 lite","Samsung Galaxy Tab 3 Lite",Android,8700000
+"galaxy tab 3 v","Samsung Galaxy Tab 3 V",Android,6200000
+"galaxy tab 4 10.1","Samsung Galaxy Tab 4 10.1",Android,5700000
+"galaxy tab 4 7.0","Samsung Galaxy Tab 4 7.0",Android,9300000
+"galaxy tab 4 8.0","Samsung Galaxy Tab 4 8.0",Android,2200000
+"galaxy tab a","Samsung Galaxy Tab A",Android,120000
+"galaxy tab a 8.0","Samsung Galaxy Tab A 8.0",Android,2600000
+"galaxy tab a 9.7","Samsung Galaxy Tab A 9.7",Android,5000000
+"galaxy tab e 9.6","Samsung Galaxy Tab E 9.6",Android,4000000
+"galaxy tab pro 10.1","Samsung Galaxy Tab Pro 10.1",Android,470000
+"galaxy tab s 10.5","Samsung Galaxy Tab S 10.5",Android,1900000
+"galaxy trend","Samsung Galaxy Trend",Android,2600000
+"galaxy trend lite","Samsung Galaxy Trend Lite",Android,2900000
+"galaxy trend lite 2","Samsung Galaxy Trend Lite 2",Android,20
+"galaxy trend plus","Samsung Galaxy Trend Plus",Android,5200000
+"galaxy v","Samsung Galaxy V",Android,8400000
+"galaxy v plus","Samsung Galaxy V Plus",Android,5300000
+"galaxy w","Samsung Galaxy W",Android,480000
+"galaxy win","Samsung Galaxy Win",Android,520000
+"galaxy win 2 duos tv","Samsung Galaxy Win 2 Duos TV",Android,1600000
+"galaxy win duos","Samsung Galaxy Win Duos",Android,4800000
+"galaxy y","Samsung Galaxy Y",Android,7700000
+"galaxy y duos","Samsung Galaxy Y Duos",Android,2300000
+"galaxy y plus","Samsung Galaxy Y Plus",Android,930000
+"galaxy y pro","Samsung Galaxy Y Pro",Android,120000
+"galaxy y tv","Samsung Galaxy Y TV",Android,180000
+"galaxy young","Samsung Galaxy Young",Android,4100000
+"galaxy young 2","Samsung Galaxy Young 2",Android,5100000
+"galaxy young 2 duos","Samsung Galaxy Young 2 Duos",Android,400000
+"galaxy young plus tv","Samsung Galaxy Young Plus TV",Android,980000
+google,"Google Devices",Android,13000000
+gr3,"Huawei GR3",Android,1200000
+gr5,"Huawei GR5",Android,1300000
+"honor 4c","Huawei Honor 4C",Android,2400000
+"hot note","Infinix Hot Note",Android,1700000
+htc,"Htc Devices",Android,44000000
+huawei,"Huawei Devices",Android,113000000
+infinix,"Infinix Devices",Android,7000000
+"iris 700","Lava Iris 700",Android,880000
+joy,"Oppo Joy",Android,4400000
+"joy 3","Oppo Joy 3",Android,3200000
+k10,"Lg K10",Android,8000000
+"k3 note","Lenovo K3 Note",Android,2900000
+k7,"Lg K7",Android,3600000
+k8,"Lg K8",Android,2700000
+"kindle fire","Amazon Kindle Fire",Android,510000
+"kindle fire hd 7 (2012)","Amazon Kindle Fire HD 7 (2012)",Android,760000
+"kindle fire hd 7 (2013)","Amazon Kindle Fire HD 7 (2013)",Android,390000
+"kindle fire hd 8.9","Amazon Kindle Fire HD 8.9",Android,220000
+"kindle fire hdx 7","Amazon Kindle Fire HDX 7",Android,530000
+"kindle fire hdx 8.9","Amazon Kindle Fire HDX 8.9",Android,120000
+"l fino","Lg L Fino",Android,1400000
+"l prime dual","Lg L Prime Dual",Android,1900000
+l70,"Lg L70",Android,3600000
+lava,"Lava Devices",Android,20000000
+lenovo,"Lenovo Devices",Android,72000000
+leon,"Lg Leon",Android,5800000
+lg,"Lg Devices",Android,137000000
+magna,"Lg Magna",Android,2400000
+"mediapad t1 7.0","Huawei MediaPad T1 7.0",Android,2900000
+micromax,"Micromax Devices",Android,30000000
+"moto e","Motorola Moto E",Android,5700000
+"moto e (2nd gen)","Motorola Moto E (2nd gen)",Android,7400000
+"moto g","Motorola Moto G",Android,14000000
+"moto g (2nd gen)","Motorola Moto G (2nd Gen)",Android,1500000
+"moto g (4th gen)","Motorola Moto G (4th Gen)",Android,6100000
+"moto g 2nd gen","Motorola Moto G 2nd Gen",Android,20
+"moto g 2nd generation","Motorola Moto G 2nd generation",Android,790000
+"moto g 4g","Motorola Moto G 4G",Android,480000
+"moto g dtv","Motorola Moto G DTV",Android,5100000
+"moto g forte","Motorola Moto G Forte",Android,190000
+"moto g play","Motorola Moto G Play",Android,2200000
+"moto g2","Motorola Moto G2",Android,7600000
+"moto g3","Motorola Moto G3",Android,13000000
+"moto x","Motorola Moto X",Android,1900000
+"moto x (2nd gen)","Motorola Moto X (2nd Gen)",Android,1600000
+"moto x play","Motorola Moto X Play",Android,2500000
+"moto x pure","Motorola Moto X Pure",Android,20
+motorola,"Motorola Devices",Android,82000000
+"neo 3","Oppo Neo 3",Android,2200000
+"neo 5","Oppo Neo 5",Android,7300000
+"neo 7","Oppo Neo 7",Android,10000000
+"nexus 10","Google Nexus 10",Android,270000
+"nexus 5","Google Nexus 5",Android,2800000
+"nexus 5x","Lg Nexus 5X",Android,1300000
+"nexus 6","Google Nexus 6",Android,670000
+"nexus 6p","Google Nexus 6P",Android,1300000
+"nexus 7","Google Nexus 7",Android,2400000
+"nexus 9","Google Nexus 9",Android,150000
+"note 3 neo duos","Samsung Note 3 Neo Duos",Android,41000
+nyx,"Nyx Devices",Android,1000000
+"one (e8)","Htc One (E8)",Android,290000
+"one (m7)","Htc One (M7)",Android,3800000
+"one (m8)","Htc One (M8)",Android,4800000
+"one e9+","Htc One E9+",Android,390000
+"one m9","Htc One M9",Android,1500000
+"one m9+","Htc One M9+",Android,280000
+"one max","Htc One Max",Android,250000
+"one mini","Htc One Mini",Android,800000
+"one mini 2","Htc One Mini 2",Android,63000
+"one sv","Htc One SV",Android,130000
+"one touch pixi 3","Alcatel One Touch Pixi 3",Android,6700000
+"one touch pop 3 (5)","Alcatel One Touch Pop 3 (5)",Android,2400000
+"one touch pop c1","Alcatel One Touch Pop C1",Android,4000000
+"one touch pop c3","Alcatel One Touch Pop C3",Android,2200000
+"one touch pop c5","Alcatel One Touch Pop C5",Android,2300000
+"one touch pop c7","Alcatel One Touch Pop C7",Android,3400000
+"one x","Htc One X",Android,580000
+"one x+","Htc One X+",Android,110000
+"one xl","Htc One XL",Android,65000
+oneplus,"Oneplus Devices",Android,3500000
+"oneplus one","Oneplus OnePlus One",Android,1200000
+oppo,"Oppo Devices",Android,49000000
+"optimus f60","Lg Optimus F60",Android,430000
+"optimus l1 ii","Lg Optimus L1 II",Android,2300000
+"optimus l3","Lg Optimus L3",Android,1600000
+"optimus l3 ii","Lg Optimus L3 II",Android,2200000
+"optimus l4 ii","Lg Optimus L4 II",Android,1600000
+"optimus l5","Lg Optimus L5",Android,2800000
+"optimus l5 dual","Lg Optimus L5 Dual",Android,30
+"optimus l5 ii","Lg Optimus L5 II",Android,2000000
+"optimus l5 ii dual","Lg Optimus L5 II Dual",Android,220000
+"optimus l7","Lg Optimus L7",Android,1000000
+"optimus l7 ii","Lg Optimus L7 II",Android,1300000
+"optimus l7 ii dual","Lg Optimus L7 II Dual",Android,620000
+"optimus l70","Lg Optimus L70",Android,480000
+"optimus l9","Lg Optimus L9",Android,950000
+"optimus l9 ii","Lg Optimus L9 II",Android,180000
+"optimus l90","Lg Optimus L90",Android,780000
+p8,"Huawei P8",Android,2000000
+"p8 lite","Huawei P8 Lite",Android,14000000
+p9,"Huawei P9",Android,1900000
+"p9 lite","Huawei P9 Lite",Android,4800000
+"pocket neo","Samsung Pocket Neo",Android,320000
+razr,"Motorola RAZR",Android,150000
+"razr d1","Motorola Razr D1",Android,1300000
+"razr d3","Motorola Razr D3",Android,350000
+"razr hd","Motorola RAZR HD",Android,110000
+"razr i","Motorola RAZR i",Android,300000
+"redmi 2","Xiaomi Redmi 2",Android,5400000
+"redmi 3s","Xiaomi Redmi 3S",Android,5100000
+"redmi note 3","Xiaomi Redmi Note 3",Android,8400000
+"redmi note 4g","Xiaomi Redmi Note 4G",Android,1300000
+rocstar,"Lenovo RocStar",Android,2500000
+samsung,"Samsung Devices",Android,896000000
+"series iii l70","Lg Series III L70",Android,10000
+sharp,"Sharp Devices",Android,3500000
+sony,"Sony Devices",Android,80000000
+sony_ericsson,"Sony_ericsson Devices",Android,20
+spirit,"Lg Spirit",Android,3300000
+"tab 2 a7-30","Lenovo Tab 2 A7-30",Android,2400000
+tecno,"Tecno Devices",Android,16000000
+"transformer pad","Asus Transformer Pad",Android,630000
+"tribute 5","Lg Tribute 5",Android,4700000
+"unite 2","Micromax Unite 2",Android,2200000
+"unite 3","Micromax Unite 3",Android,800000
+v10,"Lg V10",Android,1800000
+"vibe k4 note","Lenovo Vibe K4 Note",Android,2200000
+"vibe k5","Lenovo Vibe K5",Android,3300000
+"vibe p1m","Lenovo Vibe P1m",Android,2100000
+vivo,"Vivo Devices",Android,16000000
+volt,"Lg Volt",Android,450000
+xiaomi,"Xiaomi Devices",Android,33000000
+"xperia arc s","Sony_ericsson Xperia Arc S",Android,400000
+"xperia c","Sony Xperia C",Android,2000000
+"xperia c4","Sony Xperia C4",Android,500000
+"xperia c4 dual","Sony Xperia C4 Dual",Android,670000
+"xperia c5 ultra","Sony Xperia C5 Ultra",Android,640000
+"xperia c5 ultra dual","Sony Xperia C5 Ultra Dual",Android,660000
+"xperia e","Sony Xperia E",Android,1300000
+"xperia e dual","Sony Xperia E Dual",Android,520000
+"xperia e1","Sony Xperia E1",Android,1600000
+"xperia e1 dual","Sony Xperia E1 Dual",Android,840000
+"xperia e3","Sony Xperia E3",Android,1200000
+"xperia e3 dual","Sony Xperia E3 Dual",Android,910000
+"xperia e4","Sony Xperia E4",Android,2800000
+"xperia e4g","Sony Xperia E4g",Android,920000
+"xperia e4g dual","Sony Xperia E4g Dual",Android,140000
+"xperia j","Sony Xperia J",Android,930000
+"xperia l","Sony Xperia L",Android,1800000
+"xperia m","Sony Xperia M",Android,2700000
+"xperia m2","Sony Xperia M2",Android,4400000
+"xperia m2 aqua","Sony Xperia M2 Aqua",Android,1000000
+"xperia m4 aqua","Sony Xperia M4 Aqua",Android,5500000
+"xperia m5","Sony Xperia M5",Android,810000
+"xperia m5 dual","Sony Xperia M5 Dual",Android,320000
+"xperia mini","Sony Xperia Mini",Android,87000
+"xperia miro","Sony Xperia Miro",Android,490000
+"xperia p","Sony Xperia P",Android,440000
+"xperia s","Sony Xperia S",Android,870000
+"xperia sp","Sony Xperia SP",Android,1400000
+"xperia tipo","Sony Xperia Tipo",Android,420000
+"xperia tipo dual","Sony Xperia Tipo Dual",Android,120000
+"xperia u","Sony Xperia U",Android,350000
+"xperia ul","Sony Xperia UL",Android,140000
+"xperia z","Sony Xperia Z",Android,2700000
+"xperia z ultra","Sony Xperia Z Ultra",Android,640000
+"xperia z1","Sony Xperia Z1",Android,3800000
+"xperia z1 compact","Sony Xperia Z1 Compact",Android,1500000
+"xperia z1 f","Sony Xperia Z1 f",Android,300000
+"xperia z1s","Sony Xperia Z1s",Android,110000
+"xperia z2","Sony Xperia Z2",Android,3800000
+"xperia z2 tablet","Sony Xperia Z2 Tablet",Android,530000
+"xperia z2a","Sony Xperia Z2a",Android,37000
+"xperia z3","Sony Xperia Z3",Android,5400000
+"xperia z3 compact","Sony Xperia Z3 Compact",Android,3300000
+"xperia z3 dual","Sony Xperia Z3 Dual",Android,440000
+"xperia z3+","Sony Xperia Z3+",Android,390000
+"xperia z3v","Sony Xperia Z3v",Android,110000
+"xperia z5","Sony Xperia Z5",Android,3000000
+"xperia z5 compact","Sony Xperia Z5 Compact",Android,1800000
+"xperia z5 premium","Sony Xperia Z5 Premium",Android,950000
+"y3 ii","Huawei Y3 II",Android,3100000
+"y5 ii","Huawei Y5 II",Android,4000000
+y51l,"Vivo Y51L",Android,2500000
+y6,"Huawei Y6",Android,4900000
+"zenfone 2","Asus ZenFone 2",Android,1500000
+"zenfone 2 deluxe","Asus ZenFone 2 Deluxe",Android,3000000
+"zenfone 2 laser","Asus ZenFone 2 Laser",Android,5800000
+"zenfone 4","Asus ZenFone 4",Android,2200000
+"zenfone 5","Asus ZenFone 5",Android,7600000
+"zenfone 6","Asus ZenFone 6",Android,1100000
+"zenfone c","Asus ZenFone C",Android,4000000
+"zenfone go","Asus ZenFone Go",Android,2800000
+"zenfone go 4.5","Asus ZenFone Go 4.5",Android,3000000
+"zenfone laser 2","Asus ZenFone Laser 2",Android,20
+"zenfone max","Asus ZenFone Max",Android,2200000
+"zenfone selfie","Asus ZenFone Selfie",Android,1400000
+zte,"Zte Devices",Android,30000000

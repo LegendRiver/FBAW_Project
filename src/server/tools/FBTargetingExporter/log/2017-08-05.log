@@ -1,0 +1,2 @@
+[ERROR][2017-08-05 16:26:45][TargetingSearchUtil.php,writeExceptionLog,301][Exception Info : Connection timed out after 10005 milliseconds ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[INFO][2017-08-05 16:26:45][TargetingSearchCsvUtil.php,queryTargetingList,182][Failed to query Targeting list. ]

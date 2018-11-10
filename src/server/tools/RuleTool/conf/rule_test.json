@@ -1,0 +1,37 @@
+{
+  "mailSubject": "[亿栗科技]帐号告警通知",
+  "mailToAddress": [
+    "business@eliads.com",
+    "gina@eliads.com"
+  ],
+  "ruleInfos": [
+    {
+      "ruleKey": "kwai_03_ID",
+      "description":"快手03印尼",
+      "parentNodeType": "Campaign",
+      "parentNodeIds": [
+        "23842589465590762"
+      ],
+      "handleNodeType": "Ad",
+      "ruleList":[
+        {
+          "type": "imp_cpi",
+          "fields":[
+            "impressions",
+            "cpi"
+          ],
+          "warningThreshold": [5000, 2.5],
+          "errorThreshold": [6000, 3.5]
+        },
+        {
+          "type": "install_cpi",
+          "fields":[
+            "install",
+            "cpi"
+          ],
+          "errorThreshold": [80, 1.5]
+        }
+      ]
+    }
+  ]
+}

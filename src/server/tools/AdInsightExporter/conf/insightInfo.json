@@ -1,0 +1,357 @@
+{
+    "campaign_id": {
+        "type": "#VALUE#"
+    },
+    "campaign_name": {
+        "type": "#VALUE#"
+    },
+    "adset_id": {
+        "type": "#VALUE#"
+    },
+    "adset_name": {
+        "type": "#VALUE#"
+    },
+    "ad_id": {
+        "type": "#VALUE#"
+    },
+    "ad_name": {
+        "type": "#VALUE#"
+    },
+    "spend": {
+        "type": "#VALUE#"
+    },
+    "actions": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "mobile_app_install": "result",
+            "app_custom_event": "mobile_app_actions",
+            "app_custom_event.fb_mobile_activate_app": "mobile_app_start",
+            "post": "post_share",
+            "comment": "post_comment",
+            "post_reaction": "post_like",
+            "video_play": "clicks_to_play_video",
+            "video_view": "3_second_video_view"
+        },
+        "displayKeys": [
+            "mobile_app_install",
+            "app_custom_event",
+            "app_custom_event.fb_mobile_activate_app",
+            "page_engagement",
+            "post",
+            "comment",
+            "post_engagement",
+            "post_reaction",
+            "video_play",
+            "video_view"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "unique_actions": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "mobile_app_install": "unique_result",
+            "app_custom_event": "unique_mobile_app_actions",
+            "app_custom_event.fb_mobile_activate_app": "unique_mobile_app_start"
+        },
+        "displayKeys": [
+            "mobile_app_install",
+            "app_custom_event",
+            "app_custom_event.fb_mobile_activate_app"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "cost_per_action_type": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "mobile_app_install": "cost_per_result",
+            "app_custom_event": "cost_mobile_app_actions",
+            "app_custom_event.fb_mobile_activate_app": "cost_per_mobile_app_start"
+        },
+        "displayKeys": [
+            "mobile_app_install",
+            "app_custom_event",
+            "app_custom_event.fb_mobile_activate_app"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "impressions": {
+        "type": "#VALUE#"
+    },
+    "cpm": {
+        "type": "#VALUE#"
+    },
+    "reach": {
+        "type": "#VALUE#"
+    },
+    "inline_link_clicks": {
+        "type": "#VALUE#"
+    },
+    "cost_per_inline_link_click": {
+        "type": "#VALUE#",
+        "alias": "cpc_link"
+    },
+    "inline_link_click_ctr": {
+        "type": "#VALUE#"
+    },
+    "unique_inline_link_clicks": {
+        "type": "#VALUE#"
+    },
+    "cost_per_unique_inline_link_click": {
+        "type": "#VALUE#"
+    },
+    "unique_inline_link_click_ctr": {
+        "type": "#VALUE#"
+    },
+    "app_store_clicks": {
+        "type": "#VALUE#"
+    },
+    "call_to_action_clicks": {
+        "type": "#VALUE#",
+        "alias": "button_clicks"
+    },
+
+    "date_start": {
+        "type": "#VALUE#"
+    },
+    "date_stop": {
+        "type": "#VALUE#"
+    },
+    "request_time": {
+        "type": "#MANUAL#"
+    },
+
+    "social_impressions": {
+        "type": "#VALUE#"
+    },
+    "social_reach": {
+        "type": "#VALUE#"
+    },
+    "cost_per_10_sec_video_view": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "video_view": "cost_per_10_sec_video_view"
+        },
+        "displayKeys": [
+            "video_view"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "video_10_sec_watched_actions": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "video_view": "10_second_video_views"
+        },
+        "displayKeys": [
+            "video_view"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "video_30_sec_watched_actions": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "video_view": "30_second_video_views"
+        },
+        "displayKeys": [
+            "video_view"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "video_p25_watched_actions": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "video_view": "video_watches_at_p25"
+        },
+        "displayKeys": [
+            "video_view"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "video_p50_watched_actions": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "video_view": "video_watches_at_p50"
+        },
+        "displayKeys": [
+            "video_view"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "video_p75_watched_actions": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "video_view": "video_watches_at_p75"
+        },
+        "displayKeys": [
+            "video_view"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "video_p95_watched_actions": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "video_view": "video_watches_at_p95"
+        },
+        "displayKeys": [
+            "video_view"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "video_p100_watched_actions": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "video_view": "video_watches_at_p100"
+        },
+        "displayKeys": [
+            "video_view"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "video_avg_sec_watched_actions": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "video_view": "video_average_watch_time"
+        },
+        "displayKeys": [
+            "video_view"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "video_avg_pct_watched_actions": {
+        "type": "#NUMARRAY#",
+        "alias": {
+            "video_view": "video_average_percentage_watched"
+        },
+        "displayKeys": [
+            "video_view"
+        ],
+        "valueKey": "value",
+        "keyKey": "action_type"
+    },
+    "creative_id":{
+        "type": "#FROMENTITY#",
+        "entityName": "AdEntity",
+        "method": "getCreativeId",
+        "optionLevel": [
+            "Ad"
+        ]
+    },
+    "bid_amount":{
+        "type": "#FROMENTITY#",
+        "entityName": "AdsetEntity",
+        "method": "getBitAmount",
+        "optionLevel": [
+            "Ad",
+            "AdSet"
+        ]
+    },
+    "bill_event":{
+        "type": "#FROMENTITY#",
+        "entityName": "AdsetEntity",
+        "method": "getBillEvents",
+        "optionLevel": [
+            "Ad",
+            "AdSet"
+        ]
+    },
+    "optimization_goal":{
+        "type": "#FROMENTITY#",
+        "entityName": "AdsetEntity",
+        "method": "getOptimizationGoal",
+        "optionLevel": [
+            "Ad",
+            "AdSet"
+        ]
+    },
+    "daily_budget":{
+        "type": "#FROMENTITY#",
+        "entityName": "AdsetEntity",
+        "method": "getDailyBudget",
+        "optionLevel": [
+            "Ad",
+            "AdSet"
+        ]
+    },
+    "age_min":{
+        "type": "#FROMENTITY#",
+        "entityName": "TargetingFieldsEntity",
+        "method": "getTargetingAgeMin",
+        "optionLevel": [
+            "Ad",
+            "AdSet"
+        ]
+    },
+    "age_max":{
+        "type": "#FROMENTITY#",
+        "entityName": "TargetingFieldsEntity",
+        "method": "getTargetingAgeMax",
+        "optionLevel": [
+            "Ad",
+            "AdSet"
+        ]
+    },
+    "gender":{
+        "type": "#FROMENTITY#",
+        "entityName": "TargetingFieldsEntity",
+        "method": "getTargetingGender",
+        "optionLevel": [
+            "Ad",
+            "AdSet"
+        ]
+    },
+    "custom_audience_id":{
+        "type": "#FROMENTITY#",
+        "entityName": "TargetingFieldsEntity",
+        "method": "getTargetingCustomAudienceID",
+        "optionLevel": [
+            "Ad",
+            "AdSet"
+        ]
+    },
+    "custom_audience_name":{
+        "type": "#FROMENTITY#",
+        "entityName": "TargetingFieldsEntity",
+        "method": "getTargetingCustomAudienceName",
+        "optionLevel": [
+            "Ad",
+            "AdSet"
+        ]
+    },
+    "interest_id":{
+        "type": "#FROMENTITY#",
+        "entityName": "TargetingFieldsEntity",
+        "method": "getTargetingInterestId",
+        "optionLevel": [
+            "Ad",
+            "AdSet"
+        ]
+    },
+    "interest_name":{
+        "type": "#FROMENTITY#",
+        "entityName": "TargetingFieldsEntity",
+        "method": "getTargetingInterestName",
+        "optionLevel": [
+            "Ad",
+            "AdSet"
+        ]
+    },
+    "relevance_score": {
+        "type": "#MAPARRAY#",
+        "valueKey": "score",
+        "optionLevel": [
+            "Ad"
+        ]
+    }
+
+}

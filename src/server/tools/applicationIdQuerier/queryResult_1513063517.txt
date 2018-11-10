@@ -1,0 +1,6 @@
+https://play.google.com/store/apps/details?id=com.jollycorp.jollychic => 767085220066046
+https://play.google.com/store/apps/details?id=com.opera.browser => 538873886313500
+https://itunes.apple.com/app/id944846798 => 1443963315875466
+https://play.google.com/store/apps/details?id=com.smile.gifmaker => 257429317626902
+https://itunes.apple.com/app/id440948110 => 257429317626902
+https://play.google.com/store/apps/details?id=com.kwai.mercury => 170432773359181

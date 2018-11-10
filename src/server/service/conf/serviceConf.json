@@ -1,0 +1,27 @@
+{
+  "serviceConfig":[
+    {
+      "serviceName": "QueryAccountBalanceService",
+      "classInfo": [
+        {
+          "className": "AccountInfoManager",
+          "functionList": [
+            "queryCountryPerformance",
+            "queryActBasicInfo"
+          ]
+        }
+      ]
+    },
+    {
+      "serviceName": "QueryProductService",
+      "classInfo": [
+        {
+          "className": "ProductInfoManager",
+          "functionList": [
+            "queryProductInfo"
+          ]
+        }
+      ]
+    }
+  ]
+}

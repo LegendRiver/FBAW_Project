@@ -1,0 +1,19 @@
+{
+  "description": "印尼搜狗",
+  "parentNodeType": "Campaign",
+  "parentNodeIds": [
+    "23842570697070598",
+    "23842576248330598",
+    "23842576415680598"
+  ],
+  "handleNodeType": "Campaign",
+  "logicType": "sum",
+  "warningThreshold":{
+    "insightField": ["install"],
+    "insightValue": [500]
+  },
+  "errorThreshold":{
+    "insightField": ["install"],
+    "insightValue": [400]
+  }
+}

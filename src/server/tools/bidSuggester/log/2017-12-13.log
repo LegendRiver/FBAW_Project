@@ -1,0 +1,4 @@
+[ERROR][2017-12-13 21:11:05][AdSetManager.php,writeExceptionLog,135][Exception Info : Connection timed out after 10003 milliseconds ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[WARNING][2017-12-13 21:11:05][SuggestBidHelper.php,getAdsetById,70][Failed to get adset by adsetID : 6081448315511]
+[ERROR][2017-12-13 21:12:49][AdSetManager.php,writeExceptionLog,135][Exception Info : Operation timed out after 10000 milliseconds with 0 out of 0 bytes received ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[WARNING][2017-12-13 21:12:49][SuggestBidHelper.php,getAdsetById,70][Failed to get adset by adsetID : 6081448315511]

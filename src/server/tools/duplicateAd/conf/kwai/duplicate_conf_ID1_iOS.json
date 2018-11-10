@@ -1,0 +1,88 @@
+{
+  "configInfos":[
+    {
+      "description": "iOS_4565YNF9",
+      "fromAdsetId": "23842594530640192",
+      "fromAdId": "",
+      "materialPath": "/Users/imagol/Documents/eliads/customers/app/kuaishou/KwaiCreatives/ID/0716/account1",
+      "isShareMaterial": false
+    },
+    {
+      "description": "iOS_3544YNF9",
+      "fromAdsetId": "23842594532590192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "iOS_2534YNF9",
+      "fromAdsetId": "23842594544210192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "iOS_1824YNF9",
+      "fromAdsetId": "23842594544260192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "iOS_1317YNF9",
+      "fromAdsetId": "23842594544420192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "iOS_F_ALL",
+      "fromAdsetId": "23842594548000192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "iOS_M_ALL",
+      "fromAdsetId": "23842594548190192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "iOS_4565YNM9",
+      "fromAdsetId": "23842594549040192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "iOS_3544YNM9",
+      "fromAdsetId": "23842594549300192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "iOS_2534YNM9",
+      "fromAdsetId": "23842594549410192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "iOS_1824YNM9",
+      "fromAdsetId": "23842594549470192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    },
+    {
+      "description": "iOS_1317YNM9",
+      "fromAdsetId": "23842594549530192",
+      "fromAdId": "",
+      "materialPath": "",
+      "isShareMaterial": true
+    }
+  ]
+}

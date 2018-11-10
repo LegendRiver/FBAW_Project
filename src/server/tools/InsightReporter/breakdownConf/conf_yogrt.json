@@ -1,0 +1,25 @@
+{
+  "channelId": 108175,
+  "startDate": "2017-11-01",
+  "endDate": "2017-11-30",
+  "isByOs": false,
+
+  "productConfig": [
+    {
+      "productName": "yogrt",
+      "nodeIds":[
+        "act_816899198491907",
+        "act_906981029483723",
+        "act_816899195158574"
+      ],
+      "nodeType": "Account"
+    },
+    {
+      "productName": "yobby",
+      "nodeIds":[
+        "act_894267444088415"
+      ],
+      "nodeType": "Account"
+    }
+  ]
+}

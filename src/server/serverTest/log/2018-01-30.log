@@ -1,0 +1,3 @@
+[ERROR][2018-01-30 19:13:21][AdImageManager.php,writeExceptionLog,68][Exception Info : couldn't open file "" ; 26 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-01-30 19:15:51][AdImageManager.php,writeExceptionLog,68][Exception Info : couldn't open file "" ; 26 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-01-30 19:30:26][AdImageManager.php,writeExceptionLog,69][Exception Info : Failed to connect to graph.facebook.com port 443: Connection refused ; 7 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]

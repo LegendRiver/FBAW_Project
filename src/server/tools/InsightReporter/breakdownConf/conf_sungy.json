@@ -1,0 +1,23 @@
+{
+  "channelId": 108175,
+  "startDate": "2018-01-01",
+  "endDate": "2018-01-31",
+  "isByOs": false,
+
+  "productConfig": [
+    {
+      "productName": "FlashLight",
+      "nodeIds":[
+        "act_793769357471558"
+      ],
+      "nodeType": "Account"
+    },
+    {
+      "productName": "Hi Keyboard",
+      "nodeIds":[
+        "act_821366218045205"
+      ],
+      "nodeType": "Account"
+    }
+  ]
+}

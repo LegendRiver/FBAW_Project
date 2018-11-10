@@ -1,0 +1,93 @@
+{
+  "checkInfos":[
+    {
+      "productName": "hotday",
+      "accountList": [
+        "act_781022292079598",
+        "act_781022288746265"
+      ],
+      "reportConfig": "basicConfig_hotday.json",
+      "offset": 1
+    },
+    {
+      "productName": "yeecall",
+      "accountList": [
+        "act_820315634816930",
+        "act_820315638150263"
+      ],
+      "reportConfig": "basicConfig_yeecall.json",
+      "offset": 0
+    },
+    {
+      "productName": "360",
+      "accountList": [
+        "act_1227059300703760",
+        "act_1227059297370427",
+        "act_1393280367436701",
+        "act_1393280364103368",
+        "act_870823559766137",
+        "act_853914018123758",
+        "act_853914021457091",
+        "act_870823563099470",
+        "act_881549872026839",
+        "act_940674489447710",
+        "act_941081609406998",
+        "act_941081606073665",
+        "act_1227059294037094"
+      ],
+      "reportConfig": "basicConfig.json",
+      "offset": 0
+    },
+    {
+      "productName": "yogrt",
+      "accountList": [
+        "act_816899198491907",
+        "act_894267444088415",
+        "act_906981029483723",
+        "act_816899195158574"
+      ],
+      "reportConfig": "basicConfig_yogrt.json",
+      "offset": 0
+    },
+    {
+      "productName": "sungy",
+      "accountList": [
+        "act_793769357471558",
+        "act_821366218045205"
+      ],
+      "reportConfig": "basicConfig_sungy.json",
+      "offset": 1
+    },
+    {
+      "productName": "topbuzz",
+      "accountList": [
+        "act_1407990322632372",
+        "act_901144996733993",
+        "act_901144993400660",
+        "act_901144990067327"
+      ],
+      "reportConfig": "basicConfig_topbuzz.json",
+      "offset": 10
+    },
+    {
+      "productName": "sougou",
+      "accountList": [
+        "act_791502277698266",
+        "act_941077599407399",
+        "act_933577406824085"
+      ],
+      "reportConfig": "basicConfig_sougou.json",
+      "offset": 0
+    },
+    {
+      "productName": "jollychic",
+      "accountList": [
+        "act_907609216087571",
+        "act_907609212754238",
+        "act_908618209320005"
+      ],
+      "reportConfig": "basicConfig_jollychic.json",
+      "offset": 0
+    }
+  ]
+}

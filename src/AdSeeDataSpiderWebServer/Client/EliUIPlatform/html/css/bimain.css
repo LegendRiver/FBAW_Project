@@ -1,0 +1,634 @@
+.bi-tree-view {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    position:absolute;
+    overflow:hidden;
+    width:300px;
+    height:300px}
+.bi-tree-view-headers {
+    position:absolute;
+    overflow:hidden;
+    top:0}
+.bi-tree-view-row-headers {
+    position:absolute;
+    overflow:hidden;
+    left:0}
+.bi-tree-view-header-corner {
+    position:absolute;
+    top:0;
+    left:0;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    overflow:hidden}
+.bi-tree-view-body {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    overflow:hidden;
+    width:100%;
+    height:100%}
+.bi-tree-view-body-filler {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box}
+.bi-tree-view-body-content {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    position:absolute;
+    overflow:hidden}
+.bi-tree-view-table {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    table-layout:fixed}
+.bi-tree-view-table tr {
+    cursor:default}
+.bi-tree-view-table td {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    white-space:nowrap;
+    vertical-align:middle;
+    overflow:hidden;
+    empty-cells:show}
+.bi-tree-view-headers-table {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    table-layout:fixed}
+.bi-tree-view-headers-table td {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    white-space:nowrap;
+    vertical-align:middle;
+    overflow:hidden;
+    empty-cells:show}
+.bi-tree-view-row-headers-table {
+    table-layout:fixed}
+.bi-tree-view-row-headers-table tr {
+    cursor:default}
+.bi-tree-view-row-headers-table td {
+    white-space:nowrap;
+    vertical-align:middle;
+    overflow:hidden;
+    empty-cells:show}
+.bi-tree-view nobr {
+    width:100%;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap}
+.bi-olap-grid {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    position:absolute;
+    overflow:hidden;
+    width:300px;
+    height:300px}
+.bi-olap-grid-headers {
+    position:absolute;
+    overflow:hidden;
+    top:0}
+.bi-olap-grid-row-headers {
+    position:absolute;
+    overflow:hidden;
+    left:0}
+.bi-olap-grid-header-corner {
+    position:absolute;
+    top:0;
+    left:0;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    overflow:hidden}
+.bi-olap-grid-body {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    overflow:auto;
+    width:100%;
+    height:100%}
+.bi-olap-grid-body-filler {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box}
+.bi-olap-grid-body-content {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    position:absolute;
+    overflow:hidden}
+.bi-olap-grid-table {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    table-layout:fixed}
+.bi-olap-grid-table tr {
+    cursor:default}
+.bi-olap-grid-table td {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    white-space:nowrap;
+    vertical-align:middle;
+    overflow:hidden;
+    empty-cells:show}
+.bi-olap-grid-headers-table {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box}
+.bi-olap-grid-headers-table div,.bi-olap-grid-headers-table .filler {
+    position:absolute;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    white-space:nowrap;
+    vertical-align:middle;
+    overflow:hidden;
+    text-overflow:ellipsis}
+.bi-olap-grid-row-headers-table tr {
+    cursor:default}
+.bi-olap-grid-row-headers-table td {
+    white-space:nowrap;
+    vertical-align:middle;
+    overflow:hidden;
+    empty-cells:show}
+.bi-olap-grid nobr {
+    width:100%;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap}
+v\:* {
+    behavior:url(#default#VML)}
+* {
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box}
+body, html {
+    border:0;
+    padding:0;
+    margin:0;
+    background:#E2E2E2;
+    cursor:wait;
+    width:100%;
+    height:100%}
+html > body {
+    position:relative}
+:focus {
+    -moz-outline-offset:-1px;
+    outline-offset:-1px;
+    outline:1px dotted black}
+.bi-loading-status {
+    position:absolute;
+    visibility:hidden;
+    width:300px;
+    height:170px;
+    background:white;
+    border:1px solid black;
+    color:black;
+    overflow:hidden;
+    font:12px Roboto,微软雅黑, Tahoma, Verdana, Arial, Sans-Serif}
+.bi-loading-status-html {
+    position:absolute;
+    overflow:hidden;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0}
+.bi-loading-status-text {
+    position:absolute;
+    white-space:nowrap;
+    overflow:hidden;
+    width:280px;
+    bottom:43px;
+    left:10px;
+    text-overflow:ellipsis}
+.bi-loading-status-progress-bar {
+    position:absolute;
+    border:1px solid #E2E2E2;
+    background:#FFFFFF;
+    height:16px;
+    width:280px;
+    bottom:25px;
+    left:10px;
+    padding:1px;
+    overflow:hidden}
+.bi-loading-status-progress-bar div {
+    background:#316AC5;
+    overflow:hidden;
+    height:100%;
+    filter:Alpha(Opacity=0, FinishOpacity=100, Style=1, StartX=0, StartY=0, FinishX=100, FinishY=0)}
+.bi-component,.bi-collapsible-panel,.bi-collapsible-panel-content-panel,.bi-collapsible-panel-caption {
+    position:absolute;
+    overflow:hidden}
+.bi-component {
+    overflow:-moz-scrollbars-none}
+.bi-iframe {
+    position:absolute}
+img.bi-component {
+    -moz-box-sizing:content-box}
+.bi-label {
+    position:absolute;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    cursor:default}
+.bi-label {
+    overflow:-moz-scrollbars-none}
+.border-tl, .border-t, .border-tr,.border-l, .border-fill, .border-r,.border-bl, .border-b, .border-br {
+    position:absolute;
+    overflow:hidden}
+.bi-button, .bi-button-label {
+    position:absolute;
+    overflow:hidden}
+.bi-button, .bi-button-label {
+    overflow:-moz-scrollbars-none}
+.bi-button-label {
+    font:12px Roboto,微软雅黑, Tahoma, Verdana, Arial, Sans-Serif;
+    text-align:center;
+    border:0px;
+    background-color:transparent;
+    padding:3px 8px 4px 8px}
+.bi-button > .bi-button-label {
+    padding:4px 8px 4px 8px}
+.bi-check-box-input,.bi-radio-button-input {
+    width:13px;
+    height:13px;
+    vertical-align:middle;
+    text-align:center;
+    -moz-user-focus:ignore;
+    padding:0;
+    margin:0 auto 0 auto}
+.bi-menu,.bi-popup,.bi-tool-tip {
+    display:-moz-popup !important;
+    position:absolute;
+    overflow:hidden;
+    visibility:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    z-index:100000}
+.bi-menu-background,.bi-popup-background {
+    position:absolute;
+    overflow:hidden}
+.bi-menu {
+    filter:none}
+.bi-menu,.bi-popup,.bi-tool-tip {
+    overflow:-moz-scrollbars-none}
+.bi-text-field {
+    position:absolute;
+    overflow:hidden;
+    border:2px inset;
+    -moz-border-right-colors:#FFFFFF #E9E9E9;
+    -moz-border-left-colors:#A2A2A2 #6A6A6A;
+    -moz-border-bottom-colors:#FFFFFF #E9E9E9;
+    -moz-border-top-colors:#A2A2A2 #6A6A6A}
+.bi-text-field {
+    overflow:-moz-scrollbars-none}
+.bi-progress-bar {
+    position:absolute;
+    overflow:hidden}
+.bi-progress-bar {
+    overflow:-moz-scrollbars-none}
+.bi-progress-bar-thumb,.bi-progress-bar-reverse-thumb {
+    overflow:hidden;
+    left:0;
+    top:0;
+    height:100%}
+.bi-progress-bar-thumb,.bi-progress-bar-reverse-thumb {
+    overflow:-moz-scrollbars-none}
+.bi-ip-field {
+    position:absolute;
+    overflow:hidden}
+.bi-ip-field {
+    overflow:-moz-scrollbars-none}
+.bi-ip-field .bi-text-field {
+    border:0;
+    background-color:transparent}
+.bi-slider {
+    position:absolute;
+    overflow:hidden;
+    width:4px;
+    height:4px}
+.bi-slider {
+    overflow:-moz-scrollbars-none}
+.bi-slider-thumb {
+    position:absolute}
+.bi-slider-thumb {
+    overflow:-moz-scrollbars-none}
+.bi-slider .bi-slider-thumb {
+}
+.bi-slider-line {
+    position:absolute;
+    overflow:hidden}
+.bi-slider-line {
+    overflow:-moz-scrollbars-none}
+.bi-slider .bi-slider-line {
+    width:100%;
+    height:100%}
+.bi-spinner {
+    position:absolute;
+    overflow:hidden}
+.bi-spinner {
+    overflow:-moz-scrollbars-none}
+.bi-spinner .bi-button {
+}
+.bi-spinner .bi-text-field {
+    border:0;
+    background-color:transparent}
+.bi-list {
+    position:absolute;
+    overflow:auto}
+.bi-list-item {
+    position:relative;
+    display:block;
+    width:100%}
+.bi-combo-box {
+    position:absolute;
+    overflow:hidden}
+.bi-combo-box {
+    overflow:-moz-scrollbars-none}
+.bi-combo-box .bi-button {
+    font-size:1px;
+    padding:0}
+.bi-combo-box .bi-label {
+}
+.bi-combo-box .bi-text-field {
+    border:0;
+    background-color:transparent}
+.bi-combo-box-list {
+    position:absolute;
+    overflow:auto}
+.bi-status-bar {
+    position:absolute;
+    overflow:hidden}
+.bi-status-bar {
+    overflow:-moz-scrollbars-none}
+.bi-status-bar-panel {
+    position:absolute;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    cursor:default}
+.bi-status-bar-panel {
+    overflow:-moz-scrollbars-none}
+.bi-tool-bar {
+    position:absolute;
+    overflow:hidden}
+.bi-tool-bar {
+    overflow:-moz-scrollbars-none}
+.bi-tool-bar-button,.bi-tool-bar-menu-button {
+    position:absolute;
+    text-overflow:ellipsis}
+.bi-tool-bar-button,.bi-tool-bar-menu-button {
+    overflow:-moz-scrollbars-none}
+.bi-tool-bar-separator {
+    position:absolute}
+.bi-tool-bar .bi-tool-bar-button,.bi-tool-bar .bi-tool-bar-menu-button,.bi-tool-bar .bi-tool-bar-separator {
+    position:relative;
+    display:inline;
+    overflow:hidden}
+.bi-tool-bar-menu-button .bi-button-label {
+    padding-right:10px}
+* > .bi-tool-bar-button,* > .bi-tool-bar-menu-button,* > .bi-tool-bar-separator {
+    display:block;
+    float:left}
+.bi-tool-bar-separator-line {
+    position:absolute;
+    overflow:hidden}
+.bi-tool-bar-separator-line {
+    overflow:-moz-scrollbars-none}
+.bi-tab-bar {
+    position:absolute;
+    overflow:hidden;
+    white-space:nowrap}
+.bi-tab-bar {
+    overflow:-moz-scrollbars-none}
+.bi-tab-button {
+    position:absolute;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    vertical-align:top;
+    cursor:default}
+.bi-tab-button {
+    overflow:-moz-scrollbars-none}
+.bi-tab-pane {
+    position:absolute;
+    overflow:hidden;
+    z-index:0}
+.bi-tab-pane {
+    overflow:-moz-scrollbars-none}
+.bi-tab-page {
+    position:absolute;
+    overflow:hidden}
+.bi-tab-page {
+    overflow:-moz-scrollbars-none}
+.bi-tab-pane .bi-tab-page {
+    z-index:0}
+.bi-tab-pane .bi-tab-bar {
+    z-index:2}
+.bi-window {
+    position:absolute;
+    overflow:hidden;
+    z-index:10000}
+.bi-window {
+    overflow:-moz-scrollbars-none}
+.bi-window-caption {
+    position:absolute;
+    overflow:hidden;
+    cursor:default}
+.bi-window-caption {
+    overflow:-moz-scrollbars-none}
+.bi-window-content-pane {
+    position:absolute;
+    overflow:hidden;
+    cursor:default}
+.bi-window-content-pane {
+    overflow:-moz-scrollbars-none}
+.bi-window-caption .bi-label {
+}
+.bi-window .bi-window-caption .bi-button {
+    overflow:hidden;
+    cursor:default !important}
+.bi-window .bi-window-caption .bi-button {
+    overflow:-moz-scrollbars-none}
+.bi-window .bi-window-caption .bi-button span {
+    position:relative;
+    cursor:default !important}
+.bi-glass-pane {
+    position:absolute;
+    overflow:hidden;
+    cursor:default;
+    background-image:url("../images/blank.gif")}
+.bi-glass-pane {
+    overflow:-moz-scrollbars-none}
+.bi-resize-handle {
+    position:absolute;
+    overflow:hidden;
+    cursor:se-resize;
+    width:12px;
+    height:12px}
+.bi-resize-handle {
+    overflow:-moz-scrollbars-none}
+.bi-resize-image {
+    background-image:url("../images/resizehandle_xp.gif")}
+.bi-tree {
+    position:absolute;
+    overflow:hidden}
+.bi-tree {
+    overflow:-moz-scrollbars-none}
+.bi-tree-body {
+    overflow:auto;
+    width:100%;
+    height:100%}
+.bi-tree-row {
+    display:block;
+    white-space:nowrap;
+    overflow-y:hidden}
+.bi-tree-cell {
+    overflow:-moz-scrollbars-none;
+    -moz-user-select:none;
+    -moz-box-orient:vertical;
+    float:left;
+    display:block;
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    cursor:default}
+.bi-tree-cell div {
+    overflow:hidden;
+    padding-right:5px;
+    padding-left:5px}
+.bi-tree-cell span {
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    cursor:default;
+    display:inline-block;
+    width:100%}
+.bi-tree .tree-row-selected {
+    position:relative;
+    z-index:-1}
+:root .tree-node-selected {
+    position:static;
+    z-index:auto}
+.bi-tree-headers {
+    position:absolute;
+    overflow:hidden}
+.bi-tree-headers {
+    overflow:-moz-scrollbars-none}
+.bi-grid {
+    position:absolute;
+    overflow:hidden}
+.bi-grid {
+    overflow:-moz-scrollbars-none}
+.bi-grid-row-headers {
+    position:absolute;
+    overflow:hidden}
+.bi-grid-row-headers {
+    overflow:-moz-scrollbars-none}
+.bi-grid-body {
+    overflow:auto;
+    width:100%;
+    height:100%}
+.bi-grid-row {
+    display:block;
+    white-space:nowrap;
+    overflow-y:hidden}
+.bi-grid-cell {
+    overflow:-moz-scrollbars-none;
+    -moz-user-select:none;
+    -moz-box-orient:vertical;
+    float:left;
+    display:block;
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    cursor:default}
+.bi-grid-header {
+    position:absolute;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    cursor:default}
+.bi-grid-header {
+    overflow:-moz-scrollbars-none}
+.bi-grid-row-header,.bi-grid-row-header-filler {
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    height:18px;
+    width:100%;
+    cursor:default;
+    -moz-user-select:none}
+.bi-grid-row-header,.bi-grid-row-header-filler {
+    overflow:-moz-scrollbars-none}
+.bi-grid-row-header-filler {
+    height:99999px}
+.bi-inline-component {
+    position:relative;
+    overflow:hidden}
+.bi-inline-component {
+    overflow:-moz-scrollbars-none}
+.bi-calendar,.bi-calendar-caption,.bi-calendar-header-line {
+    position:absolute;
+    overflow:hidden}
+.bi-calendar,.bi-calendar-caption,.bi-calendar-header-line {
+    overflow:-moz-scrollbars-none}
+.calendar-day-label {
+    text-overflow:clip}
+.bi-scroll-bar,.bi-scroll-bar-button,.bi-scroll-bar-block-button,.bi-scroll-bar-thumb {
+    position:absolute;
+    overflow:hidden}
+.bi-scroll-bar,.bi-scroll-bar-button,.bi-scroll-bar-block-button,.bi-scroll-bar-thumb {
+    overflow:-moz-scrollbars-none}
+.bi-menu .up-arrow,.bi-menu .down-arrow,.bi-menu .accessibility-focus,.bi-menu-bar {
+    position:absolute}
+.bi-menu .accessibility-focus {
+    top:0;
+    left:0;
+    width:0;
+    height:0}
+.bi-menu-button {
+    display:-moz-inline-box;
+    position:absolute}
+.bi-desktop-pane {
+    position:absolute;
+    overflow:hidden;
+    z-index:0}
+.border-image-filler {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    table-layout:fixed;
+    border-spacing:0;
+    border-collapse:collapse;
+    padding:0;
+    margin:0;
+    width:100%;
+    height:100%}
+.bi-three-state-check-box {
+    position:absolute}
+.three-state-checkmark {
+    display:inline;
+    overflow:hidden;
+    margin-bottom:2px}
+* > .three-state-checkmark {
+    display:inline-block;
+    margin-bottom:0}
+.border-image-filler TD {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    white-space:nowrap;
+    vertical-align:middle;
+    overflow:hidden;
+    empty-cells:show;
+    position:static;
+    overflow:hidden;
+    padding:0;
+    margin:0}
+DIV.border-filler {
+    padding:0;
+    margin:0;
+    width:100%;
+    height:100%}

@@ -1,0 +1,21 @@
+{
+  "channelId": 108175,
+  "startDate": "2018-04-01",
+  "endDate": "2018-04-13",
+  "isByOs": false,
+
+  "productConfig": [
+    {
+      "productName": "kwai",
+      "nodeIds":[
+        "act_783764875138673",
+        "act_783764881805339",
+        "act_1402266089871462",
+        "act_956454514536374",
+        "act_956454517869707",
+        "act_783764878472006"
+      ],
+      "nodeType": "Account"
+    }
+  ]
+}

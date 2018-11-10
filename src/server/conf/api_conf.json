@@ -1,0 +1,51 @@
+{
+  "configList":
+  [
+    {
+      "description": "dons app",
+      "apiKey": "APP_INFO_DON",
+      "apiId": "133940790394099",
+      "accessToken": "EAAB50YU7fPMBAF8p9JEUY5N4lQcLySCRBYgN7RYd3GWLrhddGk7nQGZAhy5cZCJPgg6yGkZCZAwcnHSdpuO7iRzW7nZCW0Tu00zC9k8JDsQIKBsI0WMVWxXnvJf0YElXVRCf8wapENKjo8FhHdjDBvvqr27iiNepnMglfSot7UgZDZD",
+      "secret": "6f86c14dc3084c52ffd2a504407e02a7"
+    },
+    {
+      "description": "EliX app",
+      "apiKey": "APP_INFO_EliX",
+      "apiId": "518589421675855",
+      "accessToken": "EAAHXp4JDZAU8BAGJ4Q4HC9IauZBcxBEeRLpv1Hy8N8VUzkNOwYtmZCzsGNScEPxKOlQflImJzQY8y0u2nuaDetR7ZBmJaheAvyvSNW7IyZCOZChGYJ5gOc98Tvpls86kF18ZATAomhKu4IRC0ZCLrxLLGZAZBqJPNBWnEQW2S3cZBRwowZDZD",
+      "secret": "f39f7e8137f7ef3e30a90614f04f0f9a"
+    },
+    {
+      "description": "EliX_002 app",
+      "apiKey": "APP_INFO_EliX_002",
+      "apiId": "1464138433620483",
+      "accessToken": "EAAUzoEs86gMBAKweqFBE9uKDT8KflaP18daZAGoqZBSjq0xhrDH9Ua88zKeeUPAkvK1oWHxCZAgOHlgnIEAPnKFjhuSQk0lVkTr7vmXoXG96ZAgF31w2wq9ISatt9R0z7Fxvuu4vPNgvp5HQsH1vEhpOuq1SaVZBAmp7qznpwrZAp7sOz6ML71YmMAgmari4MZD",
+      "secret": "f732f61fd70792bbb3c0a3fe8ae36bd5"
+    },
+    {
+      "description": "EliAds_River app",
+      "apiKey": "APP_INFO_EliAds_River",
+      "apiId": "1354865157930817",
+      "accessToken": "EAATQPiB0ZC0EBAA0CQwA5QZBm1oGCQfDPdZCZCPK2cf9b7ZBz0gpFlRB59ec9fRO0dsXcbV33BjfrWAbRlDQlA9sDdSb0FvvMG9rjNrn7ZAG5FOAMT2IT7AZBRYGO0FkzL0blboBckblVOLduHDjnDVbHlEnrVFJ1Yn0nAPYFrSTZCZCUFFPI29tsruZC1kag2FoZB4pAa6z6tFQAZDZD",
+      "secret": "8011bdbfd9f2eb7b56271288ebf8f44c"
+    },
+    {
+      "description": "YT app",
+      "apiKey": "APP_INFO_YT",
+      "apiId": "1479240782162671",
+      "accessToken": "EAAVBXJVbqu8BAEIlUm0eNMAcrAMX5lKZBL32LQjRklmt974ZAkE8XUVHG8xwExU3UfLXCuieCITpANMWt5HmiuwS3O5YoJgV3Wc2qC2ZAEPzLZAF08EUAiVSODQoQSQQbZBZCypU9uNfLx9lsbxi3e3aYuFO8VcuY54vnDTrzD3ZCg6sHJa2JaZAl9mwXUPpjknLGOYkXdkZAnAZDZD",
+      "secret": "f8409e931205999514ead68df17b9434"
+    }
+  ],
+
+  "backupList":
+  [
+    {
+      "description": "Temporary app",
+      "apiKey": "APP_INFO_Temporary",
+      "apiId": "624541620938530",
+      "accessToken": "EAAI4BG12pyIBAMZAHB6t4cfJPcQKGM7ZAy6tdoONFbQx5KtKQRTW1F9hDJtTmgS2rx003lYWB9ENWfgTW2zZA5XZA6FV7JIfSGYmZAZBN2wttB2ZB5z4Lj1oXjdnTNqSSskjZAOGpwOUucbNEZBeqvb2eGuFFRmmB4Y43ztZCYxWUKQpcKnZCFm485yYBG62AmpRgAZD",
+      "secret": ""
+    }
+  ]
+}

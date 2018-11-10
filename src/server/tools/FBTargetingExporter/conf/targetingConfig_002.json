@@ -1,0 +1,36 @@
+{
+
+  "excelFilePre": "US_kwai_100_",
+
+  "estimateParam": {
+    "accountId": "act_783764878472006",
+    "appUrl": "https://play.google.com/store/apps/details?id=com.smile.gifmaker",
+    "dailyBudget" : 10000,
+    "bidAmount" : 0
+  },
+
+  "common": {
+    "com_country" : [
+      "US"
+    ],
+    "com_gender":[
+      [1,2]
+    ]
+  },
+
+  "location" : {
+  },
+
+  "basic" : {
+    "localesList": [
+    ]
+  },
+
+  "flexible" : {
+    "searchClassList" : [
+      "life_events",
+      "relationship_status",
+      "industries"
+    ]
+  }
+}

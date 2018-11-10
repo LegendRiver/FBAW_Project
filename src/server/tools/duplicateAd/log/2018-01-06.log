@@ -1,0 +1,35 @@
+[WARNING][2018-01-06 16:00:37][DuplicateHandler.php,readJsonFile,18][Parse json file failed!! : /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/conf/duplicate_conf.json]
+[INFO][2018-01-06 16:01:06][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842666953890758]
+[ERROR][2018-01-06 16:02:12][AdVideoManager.php,writeExceptionLog,61][Exception Info : Operation timed out after 60002 milliseconds with 0 bytes received ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-01-06 16:02:12][UploadMaterialManager.php,createAdVideo,66][Failed to Create video.AdVideoParam Object
+(
+    [accountId:AdVideoParam:private] => act_793769357471558
+    [videoType:AdVideoParam:private] => 1
+    [imageUrls:AdVideoParam:private] => 
+    [durationMs:AdVideoParam:private] => 1000
+    [transitionMs:AdVideoParam:private] => 200
+    [source:AdVideoParam:private] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/VGyENearth.mp4
+)
+]
+[ERROR][2018-01-06 16:03:12][AdVideoManager.php,writeExceptionLog,61][Exception Info : Operation timed out after 60003 milliseconds with 0 bytes received ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-01-06 16:03:12][UploadMaterialManager.php,createAdVideo,66][Failed to Create video.AdVideoParam Object
+(
+    [accountId:AdVideoParam:private] => act_793769357471558
+    [videoType:AdVideoParam:private] => 1
+    [imageUrls:AdVideoParam:private] => 
+    [durationMs:AdVideoParam:private] => 1000
+    [transitionMs:AdVideoParam:private] => 200
+    [source:AdVideoParam:private] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/VGyENstar.mp4
+)
+]
+[WARNING][2018-01-06 16:03:12][DuplicateHandler.php,uploadOperation,166][The videos failed to upload: Array
+(
+    [0] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/VGyENearth.mp4
+    [1] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/VGyENstar.mp4
+)
+]
+[INFO][2018-01-06 16:03:12][DuplicateHandler.php,uploadOperation,166][The upload material: Array
+(
+)
+]
+[INFO][2018-01-06 16:18:51][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842666953890758]

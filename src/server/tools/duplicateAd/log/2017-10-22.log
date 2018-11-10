@@ -1,0 +1,170 @@
+[INFO][2017-10-22 05:06:29][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842641523440570]
+[INFO][2017-10-22 05:07:02][DuplicateHandler.php,uploadOperation,166][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PanimalBabySy.jpg] => f3930a5bf33b9d2d9916e28f2a0a95a6
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PballSy.jpg] => 956c8f5b56dae29692d4a55528b1ef5d
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PBlackCatMx.jpg] => e5ec2b7f4f5db6b0edf9a84edd21c5c6
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PCatDogHomeSy.jpg] => 4af4c25e5942633e9b7a067746822b8d
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PCatMx.jpg] => b808c5db0e5d2376ce79b65d4da301bc
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PChildMx.jpg] => 7a601e5ca1004e52182c9c393c255596
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PCoversMx.jpg] => 33d4ddecef4cba74401762fbd1645985
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PdinosaurMx.jpg] => 98e4a8c06189dd4ec253147b0d7b673d
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PdogGirlSy.jpg] => c433d8759b3a481de9f624cbc0b76ad2
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PFrightenedMx.jpg] => 13548414d276e6654d63c3a6d26b74b2
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PGameSy.jpg] => ab6451c418592e1867ecf84b25fd93bd
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PHighJumpMx.jpg] => 4736e29ffdefb4ebbd74a9c34441f6ed
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PrunGirlsSy.jpg] => 6b339f03d935ab16acca7ba2c2dc9a83
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PskateboardChildMx.jpg] => 577a2927dc3cef9a908ff851fdfb480d
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PtigerCatSy.jpg] => 4a31a02b9ff7bac6bea79695f250d789
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PTigerMx.jpg] => adf088aa032077434806bbf5756eff8c
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/PtwoMotorcyclesSy.jpg] => 3f866db50fef7720858de60bb27458dc
+)
+]
+[INFO][2017-10-22 05:07:19][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641638350570 by material: f3930a5bf33b9d2d9916e28f2a0a95a6]
+[INFO][2017-10-22 05:07:30][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641638590570 by material: 956c8f5b56dae29692d4a55528b1ef5d]
+[INFO][2017-10-22 05:07:39][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641638810570 by material: e5ec2b7f4f5db6b0edf9a84edd21c5c6]
+[INFO][2017-10-22 05:07:49][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641639040570 by material: 4af4c25e5942633e9b7a067746822b8d]
+[INFO][2017-10-22 05:08:00][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641639260570 by material: b808c5db0e5d2376ce79b65d4da301bc]
+[INFO][2017-10-22 05:08:09][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641639490570 by material: 7a601e5ca1004e52182c9c393c255596]
+[INFO][2017-10-22 05:08:20][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641639750570 by material: 33d4ddecef4cba74401762fbd1645985]
+[INFO][2017-10-22 05:08:30][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641639980570 by material: 98e4a8c06189dd4ec253147b0d7b673d]
+[INFO][2017-10-22 05:08:39][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641640200570 by material: c433d8759b3a481de9f624cbc0b76ad2]
+[INFO][2017-10-22 05:08:49][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641640450570 by material: 13548414d276e6654d63c3a6d26b74b2]
+[INFO][2017-10-22 05:08:59][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641640680570 by material: ab6451c418592e1867ecf84b25fd93bd]
+[INFO][2017-10-22 05:09:10][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641640900570 by material: 4736e29ffdefb4ebbd74a9c34441f6ed]
+[INFO][2017-10-22 05:09:19][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641641150570 by material: 6b339f03d935ab16acca7ba2c2dc9a83]
+[INFO][2017-10-22 05:09:28][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641641470570 by material: 577a2927dc3cef9a908ff851fdfb480d]
+[INFO][2017-10-22 05:09:38][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641641700570 by material: 4a31a02b9ff7bac6bea79695f250d789]
+[INFO][2017-10-22 05:09:47][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641641940570 by material: adf088aa032077434806bbf5756eff8c]
+[INFO][2017-10-22 05:09:58][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641642170570 by material: 3f866db50fef7720858de60bb27458dc]
+[INFO][2017-10-22 05:10:00][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842641523870570]
+[INFO][2017-10-22 05:10:09][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641642430570 by material: f3930a5bf33b9d2d9916e28f2a0a95a6]
+[INFO][2017-10-22 05:10:20][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641642670570 by material: 956c8f5b56dae29692d4a55528b1ef5d]
+[INFO][2017-10-22 05:10:31][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641642900570 by material: e5ec2b7f4f5db6b0edf9a84edd21c5c6]
+[INFO][2017-10-22 05:10:42][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641643160570 by material: 4af4c25e5942633e9b7a067746822b8d]
+[INFO][2017-10-22 05:10:52][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641643380570 by material: b808c5db0e5d2376ce79b65d4da301bc]
+[INFO][2017-10-22 05:11:02][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641643610570 by material: 7a601e5ca1004e52182c9c393c255596]
+[INFO][2017-10-22 05:11:12][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641643850570 by material: 33d4ddecef4cba74401762fbd1645985]
+[INFO][2017-10-22 05:11:22][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641644100570 by material: 98e4a8c06189dd4ec253147b0d7b673d]
+[INFO][2017-10-22 05:11:31][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641644330570 by material: c433d8759b3a481de9f624cbc0b76ad2]
+[INFO][2017-10-22 05:11:40][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641644550570 by material: 13548414d276e6654d63c3a6d26b74b2]
+[INFO][2017-10-22 05:11:49][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641644770570 by material: ab6451c418592e1867ecf84b25fd93bd]
+[INFO][2017-10-22 05:11:58][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641645020570 by material: 4736e29ffdefb4ebbd74a9c34441f6ed]
+[INFO][2017-10-22 05:12:07][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641645250570 by material: 6b339f03d935ab16acca7ba2c2dc9a83]
+[INFO][2017-10-22 05:12:17][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641645470570 by material: 577a2927dc3cef9a908ff851fdfb480d]
+[INFO][2017-10-22 05:12:27][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641645700570 by material: 4a31a02b9ff7bac6bea79695f250d789]
+[INFO][2017-10-22 05:12:38][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641645940570 by material: adf088aa032077434806bbf5756eff8c]
+[INFO][2017-10-22 05:12:48][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641646200570 by material: 3f866db50fef7720858de60bb27458dc]
+[INFO][2017-10-22 05:12:51][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842641526600570]
+[INFO][2017-10-22 05:12:59][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641646440570 by material: f3930a5bf33b9d2d9916e28f2a0a95a6]
+[INFO][2017-10-22 05:13:09][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641646670570 by material: 956c8f5b56dae29692d4a55528b1ef5d]
+[INFO][2017-10-22 05:13:18][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641646900570 by material: e5ec2b7f4f5db6b0edf9a84edd21c5c6]
+[INFO][2017-10-22 05:13:27][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641647130570 by material: 4af4c25e5942633e9b7a067746822b8d]
+[INFO][2017-10-22 05:13:36][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641647370570 by material: b808c5db0e5d2376ce79b65d4da301bc]
+[INFO][2017-10-22 05:13:45][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641647630570 by material: 7a601e5ca1004e52182c9c393c255596]
+[INFO][2017-10-22 05:13:54][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641647870570 by material: 33d4ddecef4cba74401762fbd1645985]
+[INFO][2017-10-22 05:14:04][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641648100570 by material: 98e4a8c06189dd4ec253147b0d7b673d]
+[INFO][2017-10-22 05:14:13][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641648330570 by material: c433d8759b3a481de9f624cbc0b76ad2]
+[INFO][2017-10-22 05:14:23][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641648560570 by material: 13548414d276e6654d63c3a6d26b74b2]
+[INFO][2017-10-22 05:14:32][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641648790570 by material: ab6451c418592e1867ecf84b25fd93bd]
+[INFO][2017-10-22 05:14:41][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641649030570 by material: 4736e29ffdefb4ebbd74a9c34441f6ed]
+[INFO][2017-10-22 05:14:49][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641649270570 by material: 6b339f03d935ab16acca7ba2c2dc9a83]
+[INFO][2017-10-22 05:14:59][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641649770570 by material: 577a2927dc3cef9a908ff851fdfb480d]
+[INFO][2017-10-22 05:15:08][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641650010570 by material: 4a31a02b9ff7bac6bea79695f250d789]
+[INFO][2017-10-22 05:15:18][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641650250570 by material: adf088aa032077434806bbf5756eff8c]
+[INFO][2017-10-22 05:15:28][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641650470570 by material: 3f866db50fef7720858de60bb27458dc]
+[INFO][2017-10-22 05:19:46][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842641521260570]
+[ERROR][2017-10-22 05:21:42][AdVideoManager.php,writeExceptionLog,61][Exception Info : Operation timed out after 60002 milliseconds with 0 bytes received ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2017-10-22 05:21:42][UploadMaterialManager.php,createAdVideo,66][Failed to Create video.AdVideoParam Object
+(
+    [accountId:AdVideoParam:private] => act_1407990322632372
+    [videoType:AdVideoParam:private] => 1
+    [imageUrls:AdVideoParam:private] => 
+    [durationMs:AdVideoParam:private] => 1000
+    [transitionMs:AdVideoParam:private] => 200
+    [source:AdVideoParam:private] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VballSy.mp4
+)
+]
+[ERROR][2017-10-22 05:23:24][AdVideoManager.php,writeExceptionLog,61][Exception Info : Operation timed out after 60002 milliseconds with 0 bytes received ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2017-10-22 05:23:24][UploadMaterialManager.php,createAdVideo,66][Failed to Create video.AdVideoParam Object
+(
+    [accountId:AdVideoParam:private] => act_1407990322632372
+    [videoType:AdVideoParam:private] => 1
+    [imageUrls:AdVideoParam:private] => 
+    [durationMs:AdVideoParam:private] => 1000
+    [transitionMs:AdVideoParam:private] => 200
+    [source:AdVideoParam:private] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VCatDogHomeSy.mp4
+)
+]
+[WARNING][2017-10-22 05:26:35][DuplicateHandler.php,uploadOperation,166][The videos failed to upload: Array
+(
+    [0] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VballSy.mp4
+    [1] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VCatDogHomeSy.mp4
+)
+]
+[INFO][2017-10-22 05:26:35][DuplicateHandler.php,uploadOperation,166][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VanimalBabySy.mp4] => 225468957992226
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VBlackCatMx.mp4] => 225469641325491
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VCatMx.mp4] => 225470037992118
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VChildMx.mp4] => 225470117992110
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VCoversMx.mp4] => 225470301325425
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VdinosaurMx.mp4] => 225470534658735
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VdogGirlSy.mp4] => 225470851325370
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VFrightenedMx.mp4] => 225470977992024
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VGameSy.mp4] => 225471204658668
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VHighJumpMx.mp4] => 225471404658648
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VrunGirlsSy.mp4] => 225471841325271
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VskateboardChildMx.mp4] => 225471877991934
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VtigerCatSy.mp4] => 225472274658561
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VTigerMx.mp4] => 225472347991887
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/1021/VtwoMotorcyclesSy.mp4] => 225472741325181
+)
+]
+[INFO][2017-10-22 05:28:48][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641652030570 by material: 225468957992226]
+[INFO][2017-10-22 05:29:02][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641652280570 by material: 225469641325491]
+[INFO][2017-10-22 05:29:17][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641652570570 by material: 225470037992118]
+[INFO][2017-10-22 05:29:32][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641652830570 by material: 225470117992110]
+[INFO][2017-10-22 05:29:47][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641653090570 by material: 225470301325425]
+[INFO][2017-10-22 05:30:02][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641653600570 by material: 225470534658735]
+[INFO][2017-10-22 05:30:19][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641653860570 by material: 225470851325370]
+[INFO][2017-10-22 05:30:34][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641654120570 by material: 225470977992024]
+[INFO][2017-10-22 05:30:49][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641654370570 by material: 225471204658668]
+[INFO][2017-10-22 05:31:05][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641654640570 by material: 225471404658648]
+[INFO][2017-10-22 05:31:21][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641654900570 by material: 225471841325271]
+[INFO][2017-10-22 05:31:35][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641655170570 by material: 225471877991934]
+[INFO][2017-10-22 05:31:51][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641655440570 by material: 225472274658561]
+[INFO][2017-10-22 05:32:06][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641656300570 by material: 225472347991887]
+[INFO][2017-10-22 05:32:23][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641656590570 by material: 225472741325181]
+[INFO][2017-10-22 05:32:26][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842641522650570]
+[INFO][2017-10-22 05:32:39][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641656810570 by material: 225468957992226]
+[INFO][2017-10-22 05:32:53][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641657040570 by material: 225469641325491]
+[INFO][2017-10-22 05:33:06][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641657270570 by material: 225470037992118]
+[INFO][2017-10-22 05:33:21][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641657510570 by material: 225470117992110]
+[INFO][2017-10-22 05:33:35][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641657730570 by material: 225470301325425]
+[INFO][2017-10-22 05:33:50][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641657970570 by material: 225470534658735]
+[INFO][2017-10-22 05:34:04][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641658190570 by material: 225470851325370]
+[INFO][2017-10-22 05:34:18][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641658410570 by material: 225470977992024]
+[INFO][2017-10-22 05:34:32][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641658650570 by material: 225471204658668]
+[INFO][2017-10-22 05:34:47][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641658880570 by material: 225471404658648]
+[INFO][2017-10-22 05:35:00][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641659120570 by material: 225471841325271]
+[INFO][2017-10-22 05:35:14][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641659350570 by material: 225471877991934]
+[INFO][2017-10-22 05:35:29][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641659590570 by material: 225472274658561]
+[INFO][2017-10-22 05:35:44][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641659810570 by material: 225472347991887]
+[INFO][2017-10-22 05:35:58][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641660040570 by material: 225472741325181]
+[INFO][2017-10-22 05:36:01][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842641523020570]
+[INFO][2017-10-22 05:36:14][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641660280570 by material: 225468957992226]
+[INFO][2017-10-22 05:36:28][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641660510570 by material: 225469641325491]
+[INFO][2017-10-22 05:36:42][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641660750570 by material: 225470037992118]
+[INFO][2017-10-22 05:36:55][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641661120570 by material: 225470117992110]
+[INFO][2017-10-22 05:37:10][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641661380570 by material: 225470301325425]
+[INFO][2017-10-22 05:37:26][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641661610570 by material: 225470534658735]
+[INFO][2017-10-22 05:37:40][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641661830570 by material: 225470851325370]
+[INFO][2017-10-22 05:37:54][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641662060570 by material: 225470977992024]
+[INFO][2017-10-22 05:38:09][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641662290570 by material: 225471204658668]
+[INFO][2017-10-22 05:38:24][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641662510570 by material: 225471404658648]
+[INFO][2017-10-22 05:38:38][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641662770570 by material: 225471841325271]
+[INFO][2017-10-22 05:38:51][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641663020570 by material: 225471877991934]
+[INFO][2017-10-22 05:39:07][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641663450570 by material: 225472274658561]
+[INFO][2017-10-22 05:39:21][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641663690570 by material: 225472347991887]
+[INFO][2017-10-22 05:39:35][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842641664040570 by material: 225472741325181]

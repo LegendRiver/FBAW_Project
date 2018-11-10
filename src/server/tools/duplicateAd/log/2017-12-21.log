@@ -1,0 +1,62 @@
+[INFO][2017-12-21 11:55:22][duplicate_carousel_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842727633850070]
+[ERROR][2017-12-21 11:55:25][duplicate_carousel_run.php,duplicateAd,12][The adtype is not right]
+[INFO][2017-12-21 11:55:25][duplicate_carousel_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842727643310070]
+[ERROR][2017-12-21 11:55:27][duplicate_carousel_run.php,duplicateAd,12][The adtype is not right]
+[INFO][2017-12-21 12:33:52][duplicate_carousel_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842727633850070]
+[ERROR][2017-12-21 12:33:55][duplicate_carousel_run.php,duplicateAd,12][The adtype is not right]
+[INFO][2017-12-21 12:33:55][duplicate_carousel_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842727643310070]
+[ERROR][2017-12-21 12:33:57][duplicate_carousel_run.php,duplicateAd,12][The adtype is not right]
+[INFO][2017-12-21 12:54:39][duplicate_carousel_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842727633850070]
+[INFO][2017-12-21 12:59:26][duplicate_carousel_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842727907240070]
+[INFO][2017-12-21 12:59:38][CarouselHandler.php,uploadOperation,18][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/DressMx/PDressMx.jpg] => e828cb827091f17310caa81e87bec0a3
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/DressMx/PGreenMx.jpg] => 565dfa2c368e00b4ad58aed81bdee628
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/DressMx/PRedMx.jpg] => 83ebf698a81991720c296466ada86502
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/DressMx/PShirtMx.jpg] => a632fd9675760607930d3abefcb1d425
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/DressMx/PSkirtMx.jpg] => 79ada19bcd27f2c1ab8a800370b65e02
+)
+]
+[INFO][2017-12-21 12:59:43][CarouselHandler.php,uploadOperation,18][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PantsSY/P[SY]800x800(2).jpg] => 4f49f387b177cf3fe02595373b9b320f
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PantsSY/P[SY]800x800(3).jpg] => b63aed4cff5ce8a7f54ce4fbf3dace67
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PantsSY/P[SY]800x800(4).jpg] => 57128a265406aa4360342385c3668a87
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PantsSY/P[SY]800x800.jpg] => 81ae115bc8008bb458a297f6ea78fed0
+)
+]
+[INFO][2017-12-21 12:59:51][CarouselHandler.php,uploadOperation,18][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/Plaid shirtSY/P[SY]800x800(2).jpg] => a4144c000f968e65b33b3b1c5815f38b
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/Plaid shirtSY/P[SY]800x800(3).jpg] => 9978839cee69363033874b65011498eb
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/Plaid shirtSY/P[SY]800x800(4).jpg] => 9bc850d6fc9dc49548cef01d3b647ad2
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/Plaid shirtSY/P[SY]800x800(5).jpg] => 74f411d5e3e9d5eeb71f112bf3e6cd8d
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/Plaid shirtSY/P[SY]800x800.jpg] => 3f5428ab938541c309463915ebb0834b
+)
+]
+[INFO][2017-12-21 12:59:58][CarouselHandler.php,uploadOperation,18][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/WindbreakerMx/PBlackMx.jpg] => edd7f2a7a4ce9c75d263ee7dae7648f4
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/WindbreakerMx/PBlueMx.jpg] => bd020ea1dd0a532b788cf87ed09994ae
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/WindbreakerMx/PBronwMx.jpg] => 0262df43b96dda32929f79e57ef2f572
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/WindbreakerMx/PJeansMx.jpg] => 66bc16a9a2ff271d2346b4841b60c8be
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/WindbreakerMx/PWindbreakerMx.jpg] => c8426375bd1de2b33998ead29e4c9a07
+)
+]
+[INFO][2017-12-21 13:00:10][CopyFBHelper.php,replaceAttachments,270][attachments count: 10; material count: 5]
+[INFO][2017-12-21 13:00:17][CopyFBHelper.php,createAdByCreative,238][#copy# Succeed to create creative: 23842728339660070 by material: 20171221_DressMx]
+[INFO][2017-12-21 13:00:22][CopyFBHelper.php,replaceAttachments,270][attachments count: 10; material count: 4]
+[INFO][2017-12-21 13:00:27][CopyFBHelper.php,createAdByCreative,238][#copy# Succeed to create creative: 23842728339910070 by material: 20171221_PantsSY]
+[INFO][2017-12-21 13:00:32][CopyFBHelper.php,replaceAttachments,270][attachments count: 10; material count: 5]
+[INFO][2017-12-21 13:00:38][CopyFBHelper.php,createAdByCreative,238][#copy# Succeed to create creative: 23842728340130070 by material: 20171221_Plaid shirtSY]
+[INFO][2017-12-21 13:00:43][CopyFBHelper.php,replaceAttachments,270][attachments count: 10; material count: 5]
+[INFO][2017-12-21 13:00:50][CopyFBHelper.php,createAdByCreative,238][#copy# Succeed to create creative: 23842728340350070 by material: 20171221_WindbreakerMx]
+[INFO][2017-12-21 13:00:52][duplicate_carousel_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842727217950070]
+[INFO][2017-12-21 13:00:58][CopyFBHelper.php,replaceAttachments,270][attachments count: 10; material count: 5]
+[INFO][2017-12-21 13:01:07][CopyFBHelper.php,createAdByCreative,238][#copy# Succeed to create creative: 23842728340600070 by material: 20171221_DressMx]
+[INFO][2017-12-21 13:01:13][CopyFBHelper.php,replaceAttachments,270][attachments count: 10; material count: 4]
+[INFO][2017-12-21 13:01:17][CopyFBHelper.php,createAdByCreative,238][#copy# Succeed to create creative: 23842728340800070 by material: 20171221_PantsSY]
+[INFO][2017-12-21 13:01:23][CopyFBHelper.php,replaceAttachments,270][attachments count: 10; material count: 5]
+[INFO][2017-12-21 13:01:28][CopyFBHelper.php,createAdByCreative,238][#copy# Succeed to create creative: 23842728341020070 by material: 20171221_Plaid shirtSY]
+[INFO][2017-12-21 13:01:33][CopyFBHelper.php,replaceAttachments,270][attachments count: 10; material count: 5]
+[INFO][2017-12-21 13:01:37][CopyFBHelper.php,createAdByCreative,238][#copy# Succeed to create creative: 23842728341230070 by material: 20171221_WindbreakerMx]

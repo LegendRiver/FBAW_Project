@@ -1,0 +1,21 @@
+[
+  {
+    "desc": "sougou_id",
+    "nodeId": [
+      "23842570697070598",
+      "23842576248330598",
+      "23842576415680598"
+    ],
+    "nodeType": "Campaign",
+    "activeTime": "0:00",
+    "inactiveTime": ""
+  },
+  {
+    "nodeId": [
+      "23842728373390616"
+    ],
+    "nodeType": "Campaign",
+    "activeTime": "8:00",
+    "inactiveTime": ""
+  }
+]

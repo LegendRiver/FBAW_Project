@@ -1,0 +1,119 @@
+[INFO][2018-01-12 19:38:48][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746782180398]
+[ERROR][2018-01-12 19:38:50][AdSetManager.php,writeExceptionLog,151][Exception Info : (#100) Tried accessing nonexisting field (use_new_app_click) on node type (AdCampaignGroup) ; 100 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 144 ;  ;  ; ]
+[WARNING][2018-01-12 19:38:50][CopyFBHelper.php,getAllFieldAdsetById,34][Failed to get all field adset by adsetID : 23842746782180398]
+[ERROR][2018-01-12 19:38:54][AdImageManager.php,writeExceptionLog,68][Exception Info : (#803) Some of the aliases you requested do not exist: act_ ; 803 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 144 ;  ;  ; ]
+[ERROR][2018-01-12 19:38:54][UploadMaterialManager.php,createImage,113][Failed to Create Image./Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PMxENTecnoDBlue.jpg]
+[ERROR][2018-01-12 19:38:56][AdImageManager.php,writeExceptionLog,68][Exception Info : (#803) Some of the aliases you requested do not exist: act_ ; 803 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 144 ;  ;  ; ]
+[ERROR][2018-01-12 19:38:56][UploadMaterialManager.php,createImage,113][Failed to Create Image./Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PSyENtecnoDyellow.jpg]
+[ERROR][2018-01-12 19:39:02][AdImageManager.php,writeExceptionLog,68][Exception Info : (#803) Some of the aliases you requested do not exist: act_ ; 803 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 144 ;  ;  ; ]
+[ERROR][2018-01-12 19:39:02][UploadMaterialManager.php,createImage,113][Failed to Create Image./Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PSyIDBlueBackgroundTecnoDownload .jpg]
+[ERROR][2018-01-12 19:39:05][AdImageManager.php,writeExceptionLog,68][Exception Info : (#803) Some of the aliases you requested do not exist: act_ ; 803 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 144 ;  ;  ; ]
+[ERROR][2018-01-12 19:39:05][UploadMaterialManager.php,createImage,113][Failed to Create Image./Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PtecnoGrayNGSy.jpg]
+[ERROR][2018-01-12 19:39:07][AdImageManager.php,writeExceptionLog,68][Exception Info : (#803) Some of the aliases you requested do not exist: act_ ; 803 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 144 ;  ;  ; ]
+[ERROR][2018-01-12 19:39:07][UploadMaterialManager.php,createImage,113][Failed to Create Image./Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/VMxENTencoDBlue.jpg]
+[WARNING][2018-01-12 19:39:07][DuplicateHandler.php,uploadOperation,166][The images failed to upload: Array
+(
+    [0] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PMxENTecnoDBlue.jpg
+    [1] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PSyENtecnoDyellow.jpg
+    [2] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PSyIDBlueBackgroundTecnoDownload .jpg
+    [3] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PtecnoGrayNGSy.jpg
+    [4] => /Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/VMxENTencoDBlue.jpg
+)
+]
+[INFO][2018-01-12 19:39:07][DuplicateHandler.php,uploadOperation,166][The upload material: Array
+(
+)
+]
+[INFO][2018-01-12 19:39:07][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746777070398]
+[INFO][2018-01-12 19:39:10][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746765110398]
+[INFO][2018-01-12 19:39:13][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746211900398]
+[INFO][2018-01-12 19:39:40][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746782180398]
+[ERROR][2018-01-12 19:39:47][AdSetManager.php,writeExceptionLog,151][Exception Info : (#100) Tried accessing nonexisting field (use_new_app_click) on node type (AdCampaignGroup) ; 100 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 144 ;  ;  ; ]
+[WARNING][2018-01-12 19:39:47][CopyFBHelper.php,getAllFieldAdsetById,34][Failed to get all field adset by adsetID : 23842746782180398]
+[INFO][2018-01-12 19:44:09][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746782180398]
+[ERROR][2018-01-12 19:44:20][AdManager.php,writeExceptionLog,162][Exception Info : Resolving timed out after 10545 milliseconds ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-01-12 19:44:20][DuplicateHandler.php,getTemplateAdId,57][#duplicate#Failed to get ad by adset: 23842746782180398]
+[ERROR][2018-01-12 19:44:20][duplicate_run.php,duplicateAd,12][Failed to get ad Id.]
+[INFO][2018-01-12 19:44:20][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746777070398]
+[ERROR][2018-01-12 19:44:31][AdManager.php,writeExceptionLog,162][Exception Info : Resolving timed out after 10545 milliseconds ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-01-12 19:44:31][DuplicateHandler.php,getTemplateAdId,57][#duplicate#Failed to get ad by adset: 23842746777070398]
+[ERROR][2018-01-12 19:44:31][duplicate_run.php,duplicateAd,12][Failed to get ad Id.]
+[INFO][2018-01-12 19:44:31][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746765110398]
+[ERROR][2018-01-12 19:44:41][AdManager.php,writeExceptionLog,162][Exception Info : Resolving timed out after 10554 milliseconds ; 28 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Adapter/CurlAdapter.php ; 196]
+[ERROR][2018-01-12 19:44:41][DuplicateHandler.php,getTemplateAdId,57][#duplicate#Failed to get ad by adset: 23842746765110398]
+[ERROR][2018-01-12 19:44:41][duplicate_run.php,duplicateAd,12][Failed to get ad Id.]
+[INFO][2018-01-12 19:44:41][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746211900398]
+[INFO][2018-01-12 19:45:07][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746782180398]
+[ERROR][2018-01-12 19:45:11][AdSetManager.php,writeExceptionLog,151][Exception Info : (#100) Tried accessing nonexisting field (destination_type) on node type (AdCampaignGroup) ; 100 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 144 ;  ;  ; ]
+[WARNING][2018-01-12 19:45:11][CopyFBHelper.php,getAllFieldAdsetById,34][Failed to get all field adset by adsetID : 23842746782180398]
+[INFO][2018-01-12 19:45:58][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746782180398]
+[ERROR][2018-01-12 19:46:02][AdSetManager.php,writeExceptionLog,151][Exception Info : (#100) Tried accessing nonexisting field (recurring_budget_semantics) on node type (AdCampaignGroup) ; 100 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 144 ;  ;  ; ]
+[WARNING][2018-01-12 19:46:02][CopyFBHelper.php,getAllFieldAdsetById,34][Failed to get all field adset by adsetID : 23842746782180398]
+[INFO][2018-01-12 19:46:46][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746782180398]
+[ERROR][2018-01-12 19:46:51][AdSetManager.php,writeExceptionLog,151][Exception Info : (#100) Tried accessing nonexisting field (optimization_goal) on node type (AdCampaignGroup) ; 100 ; /Users/yuanyuan/Eli/EliPHPProject/sdk/facebook/vendor/facebook/php-ads-sdk/src/FacebookAds/Http/Exception/RequestException.php ; 144 ;  ;  ; ]
+[WARNING][2018-01-12 19:46:51][CopyFBHelper.php,getAllFieldAdsetById,34][Failed to get all field adset by adsetID : 23842746782180398]
+[INFO][2018-01-12 19:48:17][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746777070398]
+[INFO][2018-01-12 19:49:00][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746777070398]
+[INFO][2018-01-12 19:53:21][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842747072280398]
+[INFO][2018-01-12 19:53:37][DuplicateHandler.php,uploadOperation,166][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PMxENTecnoDBlue.jpg] => e582d62f67cbe6b169516fa6e5dabd7c
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PSyENtecnoDyellow.jpg] => 3cdfe8a6a06593c3e2c496fc67291e24
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PSyIDBlueBackgroundTecnoDownload .jpg] => b4d143c3dd07a30995ceff126018bd7c
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PtecnoGrayNGSy.jpg] => d97f27717c1ee2dfbdfbc1b59d65a00b
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/VMxENTencoDBlue.jpg] => 99cb064f7d4199c0bdc29ce4c622f21d
+)
+]
+[INFO][2018-01-12 20:49:41][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842682326680598]
+[INFO][2018-01-12 20:50:02][DuplicateHandler.php,uploadOperation,166][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PMxENTecnoDBlue.jpg] => e582d62f67cbe6b169516fa6e5dabd7c
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PSyENtecnoDyellow.jpg] => 3cdfe8a6a06593c3e2c496fc67291e24
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PSyIDBlueBackgroundTecnoDownload .jpg] => b4d143c3dd07a30995ceff126018bd7c
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PtecnoGrayNGSy.jpg] => d97f27717c1ee2dfbdfbc1b59d65a00b
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/VMxENTencoDBlue.jpg] => 99cb064f7d4199c0bdc29ce4c622f21d
+)
+]
+[INFO][2018-01-12 20:50:47][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842694143380598 by material: e582d62f67cbe6b169516fa6e5dabd7c]
+[INFO][2018-01-12 20:51:11][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842694144090598 by material: 3cdfe8a6a06593c3e2c496fc67291e24]
+[INFO][2018-01-12 20:56:30][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842747072280398]
+[INFO][2018-01-12 20:56:35][DuplicateHandler.php,uploadOperation,166][The upload material: Array
+(
+)
+]
+[INFO][2018-01-12 20:56:35][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746777070398]
+[INFO][2018-01-12 20:56:42][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746765110398]
+[INFO][2018-01-12 20:56:45][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746211900398]
+[INFO][2018-01-12 20:57:08][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842747072280398]
+[INFO][2018-01-12 20:57:28][DuplicateHandler.php,uploadOperation,166][The upload material: Array
+(
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PMxENTecnoDBlue.jpg] => e582d62f67cbe6b169516fa6e5dabd7c
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PSyENtecnoDyellow.jpg] => 3cdfe8a6a06593c3e2c496fc67291e24
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PSyIDBlueBackgroundTecnoDownload .jpg] => b4d143c3dd07a30995ceff126018bd7c
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/PtecnoGrayNGSy.jpg] => d97f27717c1ee2dfbdfbc1b59d65a00b
+    [/Users/yuanyuan/Eli/EliPHPProject/src/server/tools/duplicateAd/material/VMxENTencoDBlue.jpg] => 99cb064f7d4199c0bdc29ce4c622f21d
+)
+]
+[INFO][2018-01-12 20:57:48][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747093190398 by material: e582d62f67cbe6b169516fa6e5dabd7c]
+[INFO][2018-01-12 20:57:58][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747093390398 by material: 3cdfe8a6a06593c3e2c496fc67291e24]
+[INFO][2018-01-12 20:58:07][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747093640398 by material: b4d143c3dd07a30995ceff126018bd7c]
+[INFO][2018-01-12 20:58:18][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747093920398 by material: d97f27717c1ee2dfbdfbc1b59d65a00b]
+[INFO][2018-01-12 20:58:28][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747094130398 by material: 99cb064f7d4199c0bdc29ce4c622f21d]
+[INFO][2018-01-12 20:58:30][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746777070398]
+[INFO][2018-01-12 20:58:52][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747094380398 by material: e582d62f67cbe6b169516fa6e5dabd7c]
+[INFO][2018-01-12 20:59:03][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747094600398 by material: 3cdfe8a6a06593c3e2c496fc67291e24]
+[INFO][2018-01-12 20:59:12][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747094830398 by material: b4d143c3dd07a30995ceff126018bd7c]
+[INFO][2018-01-12 20:59:21][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747095160398 by material: d97f27717c1ee2dfbdfbc1b59d65a00b]
+[INFO][2018-01-12 20:59:30][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747095420398 by material: 99cb064f7d4199c0bdc29ce4c622f21d]
+[INFO][2018-01-12 20:59:32][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746765110398]
+[INFO][2018-01-12 20:59:56][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747095660398 by material: e582d62f67cbe6b169516fa6e5dabd7c]
+[INFO][2018-01-12 21:00:05][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747095870398 by material: 3cdfe8a6a06593c3e2c496fc67291e24]
+[INFO][2018-01-12 21:00:14][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747096080398 by material: b4d143c3dd07a30995ceff126018bd7c]
+[INFO][2018-01-12 21:00:24][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747096300398 by material: d97f27717c1ee2dfbdfbc1b59d65a00b]
+[INFO][2018-01-12 21:00:33][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747096720398 by material: 99cb064f7d4199c0bdc29ce4c622f21d]
+[INFO][2018-01-12 21:00:36][duplicate_run.php,duplicateAd,12][#duplicate ad# Now adsetId: 23842746211900398]
+[INFO][2018-01-12 21:00:45][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747097290398 by material: e582d62f67cbe6b169516fa6e5dabd7c]
+[INFO][2018-01-12 21:00:55][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747097650398 by material: 3cdfe8a6a06593c3e2c496fc67291e24]
+[INFO][2018-01-12 21:01:06][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747098020398 by material: b4d143c3dd07a30995ceff126018bd7c]
+[INFO][2018-01-12 21:01:16][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747098430398 by material: d97f27717c1ee2dfbdfbc1b59d65a00b]
+[INFO][2018-01-12 21:01:25][CopyFBHelper.php,createAdByCreative,390][#copy# Succeed to create creative: 23842747098700398 by material: 99cb064f7d4199c0bdc29ce4c622f21d]

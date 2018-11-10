@@ -1,0 +1,330 @@
+Path_0,Path_1,Path_2,Name,ID,AudienceSize
+"Shopping and fashion",Beauty,Cosmetics,Cosmetics,6002839660079,606030110
+"Business and industry",Science,,Science,6002866718622,322980350
+"Shopping and fashion",Beauty,,Beauty,6002867432822,887989990
+"Hobbies and activities",Travel,"Adventure travel","Adventure travel",6002868021822,238475953
+"Food and drink",Food,"Organic food","Organic food",6002868910910,166814774
+"Business and industry","Small business",,"Small business",6002884511422,54078145
+"Business and industry",Design,"Interior design","Interior design",6002920953955,283347510
+"Hobbies and activities","Arts and music",Acting,Acting,6002925538921,97768510
+"Hobbies and activities",Travel,Vacations,Vacations,6002926108721,176239678
+"Sports and outdoors",Sports,Volleyball,Volleyball,6002929380259,201382150
+"Food and drink",Beverages,"Soft drinks","Soft drinks",6002936693259,194906200
+Entertainment,Music,"Classical music","Classical music",6002951587955,160828654
+Entertainment,"Live events",Theatre,Theatre,6002957026250,227198750
+Technology,Computers,"Tablet computers","Tablet computers",6002960574320,291453260
+"Business and industry",Aviation,,Aviation,6002963523717,114795680
+"Food and drink",Cuisine,"Mexican cuisine","Mexican cuisine",6002964239317,51521052
+Entertainment,Games,"Word games","Word games",6002964500317,45711930
+Entertainment,"Live events",Concerts,Concerts,6002970406974,238788080
+Technology,"Consumer electronics","Mobile phones","Mobile phones",6002971085794,994071090
+Entertainment,Games,"Action games","Action games",6002971095994,270909060
+"Sports and outdoors","Outdoor recreation",Fishing,Fishing,6002979499920,92164149
+"Sports and outdoors","Outdoor recreation",Surfing,Surfing,6002984573619,104901538
+"Sports and outdoors","Outdoor recreation",,"Outdoor recreation",6002985584323,405466480
+Entertainment,Reading,"Mystery fiction","Mystery fiction",6002986104968,70833260
+"Family and relationships",Motherhood,,Motherhood,6002991239659,387961250
+Entertainment,Reading,,Reading,6002991736368,1007625580
+"Hobbies and activities","Arts and music",Singing,Singing,6002997799844,232090520
+"Hobbies and activities","Politics and social issues",Military,Military,6002998078382,135774290
+"Food and drink",Cuisine,"Japanese cuisine","Japanese cuisine",6002998123892,89549217
+Technology,"Consumer electronics",Camcorders,Camcorders,6002998517244,22876055
+"Fitness and wellness",Meditation,,Meditation,6003012185129,177990917
+Entertainment,Games,Gambling,Gambling,6003012317397,226100270
+"Food and drink","Alcoholic beverages",Beer,Beer,6003012461997,224221610
+Entertainment,Music,,Music,6003020834693,1148773220
+"Shopping and fashion",Beauty,Tattoos,Tattoos,6003025268985,289170225
+"Hobbies and activities","Arts and music",,"Arts and music",6003029869785,934961910
+"Food and drink",Cuisine,"Chinese cuisine","Chinese cuisine",6003030029655,78016196
+Entertainment,Games,"Online poker","Online poker",6003030519207,78246299
+"Hobbies and activities","Politics and social issues","Community issues","Community issues",6003049202156,361137040
+"Hobbies and activities","Home and garden",Gardening,Gardening,6003053056644,310701380
+"Shopping and fashion",Shopping,Coupons,Coupons,6003054884732,436629246
+"Hobbies and activities",Travel,Ecotourism,Ecotourism,6003059385128,187587428
+Entertainment,Games,"First-person shooter games","First-person shooter games",6003059733932,345262940
+"Business and industry",Banking,"Retail banking","Retail banking",6003062205328,20095150
+"Business and industry",Banking,"Investment banking","Investment banking",6003063638807,20970590
+"Hobbies and activities",Travel,Mountains,Mountains,6003064649070,288492028
+"Shopping and fashion",Toys,,Toys,6003070122382,286242854
+Entertainment,Games,,Games,6003070856229,999571580
+Entertainment,Music,"Gospel music","Gospel music",6003071094715,194792670
+Entertainment,Reading,E-books,E-books,6003074487739,333863160
+"Business and industry",Sales,,Sales,6003074954515,603050750
+"Business and industry",Online,"Email marketing","Email marketing",6003076016339,8269946
+Entertainment,Reading,Manga,Manga,6003083357650,140495407
+"Sports and outdoors",Sports,Baseball,Baseball,6003087413192,269667300
+"Shopping and fashion",Beauty,"Beauty salons","Beauty salons",6003088846792,439697441
+"Hobbies and activities",Travel,"Car rentals","Car rentals",6003090714101,176880248
+"Sports and outdoors","Outdoor recreation","Mountain biking","Mountain biking",6003092330156,99065647
+"Hobbies and activities",Vehicles,Trucks,Trucks,6003092882217,117243070
+"Business and industry",Design,"Graphic design","Graphic design",6003096002658,135285460
+"Family and relationships",Fatherhood,,Fatherhood,6003101323797,220678560
+"Food and drink",Cuisine,"Italian cuisine","Italian cuisine",6003102729234,109393337
+"Food and drink",Cuisine,"Latin American cuisine","Latin American cuisine",6003102988840,59305028
+"Shopping and fashion",Shopping,Boutiques,Boutiques,6003103108917,364401205
+"Hobbies and activities","Arts and music",Crafts,Crafts,6003105618835,132136290
+"Sports and outdoors","Outdoor recreation",Hunting,Hunting,6003106813190,115348810
+Entertainment,Music,"Soul music","Soul music",6003107699532,366701080
+"Sports and outdoors",Sports,"Association football (Soccer)","Association football (Soccer)",6003107902433,759925220
+"Hobbies and activities",Pets,Rabbits,Rabbits,6003108411433,40299680
+"Food and drink",Cuisine,"Spanish cuisine","Spanish cuisine",6003108649035,34967889
+Entertainment,"Live events","Music festivals","Music festivals",6003108826384,164378635
+Technology,Computers,"Desktop computers","Desktop computers",6003115804542,82767086
+Technology,Computers,"Computer monitors","Computer monitors",6003116038942,96075980
+"Food and drink",Restaurants,Coffeehouses,Coffeehouses,6003120620858,279421240
+"Sports and outdoors","Outdoor recreation",Boating,Boating,6003122958658,58534338
+"Hobbies and activities",Vehicles,"Electric vehicle","Electric vehicle",6003125064949,20250566
+"Food and drink",Food,Desserts,Desserts,6003125948045,288587219
+Entertainment,Reading,Comics,Comics,6003126215349,156808980
+Entertainment,TV,"TV game shows","TV game shows",6003126358188,103650120
+"Business and industry",Online,"Digital marketing","Digital marketing",6003127206524,38594822
+Entertainment,Movies,"Animated movies","Animated movies",6003129926917,233288379
+"Hobbies and activities","Home and garden",Furniture,Furniture,6003132926214,280106640
+"Hobbies and activities",Vehicles,,Vehicles,6003133486214,747611830
+"Food and drink",Food,Chocolate,Chocolate,6003133978408,278705003
+"Food and drink",Cooking,Baking,Baking,6003134986700,207967278
+"Hobbies and activities","Politics and social issues",Volunteering,Volunteering,6003137105590,48815800
+Entertainment,Movies,,Movies,6003139266461,992532810
+"Business and industry","Personal finance","Mortgage loans","Mortgage loans",6003141785766,58319670
+Technology,Computers,"Computer processors","Computer processors",6003142705949,86555810
+"Hobbies and activities","Arts and music",Painting,Painting,6003142974961,188535020
+"Business and industry","Personal finance",,"Personal finance",6003143720966,438567260
+Entertainment,Music,"Jazz music","Jazz music",6003146442552,251142440
+"Sports and outdoors",Sports,"Auto racing","Auto racing",6003146718552,220672330
+"Food and drink","Alcoholic beverages","Distilled beverage","Distilled beverage",6003146729229,148659600
+Entertainment,"Live events",Parties,Parties,6003147868152,242669940
+"Food and drink","Alcoholic beverages",Wine,Wine,6003148544265,207450335
+Technology,Computers,"Computer servers","Computer servers",6003151951349,149663280
+Entertainment,Games,"Online games","Online games",6003153672865,341356770
+"Hobbies and activities","Arts and music","Performing arts","Performing arts",6003154043305,114891030
+"Food and drink",Food,Vegetarianism,Vegetarianism,6003155333705,126399382
+Entertainment,"Live events",Bars,Bars,6003156321008,192499270
+Entertainment,Movies,"Bollywood movies","Bollywood movies",6003157824284,268356330
+"Hobbies and activities",Pets,Cats,Cats,6003159378782,207141400
+"Hobbies and activities",Pets,Fish,Fish,6003159413034,139068140
+Entertainment,Movies,"Comedy movies","Comedy movies",6003161475030,359877480
+"Sports and outdoors",Sports,"College football","College football",6003162931434,133813469
+"Sports and outdoors",Sports,Swimming,Swimming,6003166397215,145210662
+"Shopping and fashion",,,"Shopping and fashion",6003167425934,1285473150
+"Hobbies and activities","Politics and social issues",Sustainability,Sustainability,6003172273055,91138320
+Entertainment,TV,"TV talkshows","TV talkshows",6003172448161,84134773
+Entertainment,TV,,TV,6003172932634,724064570
+Entertainment,Games,"Massively multiplayer online games","Massively multiplayer online games",6003176101552,122515930
+"Hobbies and activities",Vehicles,Automobiles,Automobiles,6003176678152,704948920
+Entertainment,Movies,"Fantasy movies","Fantasy movies",6003178374133,152863639
+Entertainment,Music,"Dance music","Dance music",6003179515414,189731511
+"Food and drink",Restaurants,Coffeehouses,Coffeehouses,6003120620858,279421240
+"Shopping and fashion","Fashion accessories",Dresses,Dresses,6003188355978,437425544
+"Hobbies and activities","Arts and music","Fine art","Fine art",6003194056672,59482755
+Entertainment,Music,"Rhythm and blues music","Rhythm and blues music",6003195554098,429955460
+"Food and drink",Cuisine,,Cuisine,6003195797498,318777110
+Entertainment,Games,"Massively multiplayer online role-playing games","Massively multiplayer online role-playing games",6003198370967,136233056
+"Shopping and fashion","Fashion accessories",Handbags,Handbags,6003198476967,344353545
+"Family and relationships",Dating,,Dating,6003198851865,191857860
+"Food and drink",Cuisine,"Middle Eastern cuisine","Middle Eastern cuisine",6003200340482,76338764
+Entertainment,Reading,Magazines,Magazines,6003206216430,327169210
+Entertainment,Movies,"Science fiction movies","Science fiction movies",6003206308286,138374310
+"Hobbies and activities",Vehicles,Minivans,Minivans,6003207605030,25849565
+Entertainment,Reading,"Romance novels","Romance novels",6003210799924,62856946
+"Hobbies and activities",Travel,"Air travel","Air travel",6003211401886,266751440
+"Business and industry","Personal finance",Insurance,Insurance,6003217093576,181072140
+"Shopping and fashion",Shopping,"Discount stores","Discount stores",6003220634758,262790683
+Technology,"Consumer electronics",Televisions,Televisions,6003224441249,788806060
+Entertainment,Movies,"Thriller movies","Thriller movies",6003225325061,263170860
+Entertainment,Music,"Hip hop music","Hip hop music",6003225556345,417917900
+"Hobbies and activities",Travel,Cruises,Cruises,6003225930699,219469064
+"Family and relationships",Parenting,,Parenting,6003232518610,196319252
+"Hobbies and activities","Home and garden","Home improvement","Home improvement",6003234413249,101048062
+"Food and drink",Food,Seafood,Seafood,6003240742699,130541726
+"Food and drink",Restaurants,Diners,Diners,6003243058188,102110005
+Entertainment,Movies,"Action movies","Action movies",6003243604899,320659700
+Entertainment,Games,"Simulation games","Simulation games",6003246168013,118877720
+Entertainment,"Live events",Ballet,Ballet,6003247127613,53270315
+Entertainment,Reading,Literature,Literature,6003247790075,168268810
+Entertainment,"Live events",Dancehalls,Dancehalls,6003247890613,49286458
+Entertainment,Games,"Casino games","Casino games",6003248338072,49910822
+"Business and industry",Engineering,,Engineering,6003252179711,148518370
+"Shopping and fashion",Beauty,Spas,Spas,6003254590688,406173065
+"Shopping and fashion","Fashion accessories",Sunglasses,Sunglasses,6003255640088,292996679
+Entertainment,Music,"Blues music","Blues music",6003257757682,254007670
+"Shopping and fashion",Shopping,,Shopping,6003263791114,1099520070
+"Food and drink",Food,,Food,6003266061909,972479460
+"Shopping and fashion","Fashion accessories",Jewelry,Jewelry,6003266225248,443619750
+"Business and industry",Design,"Fashion design","Fashion design",6003266266843,156118920
+Entertainment,TV,"TV reality shows","TV reality shows",6003268182136,236104750
+"Sports and outdoors",Sports,,Sports,6003269553527,1117845070
+"Business and industry","Higher education",,"Higher education",6003270811593,406290840
+Entertainment,Reading,"Fiction books","Fiction books",6003274262708,144669690
+"Fitness and wellness","Physical fitness",,"Physical fitness",6003277229371,359343180
+"Business and industry",Marketing,,Marketing,6003279598823,384168310
+Technology,"Consumer electronics","GPS devices","GPS devices",6003280676501,16116334
+"Hobbies and activities","Politics and social issues",Veterans,Veterans,6003280740901,27674060
+"Food and drink",Cuisine,"Thai cuisine","Thai cuisine",6003283801502,50269709
+"Hobbies and activities",Pets,Birds,Birds,6003286289697,147427910
+Technology,"Consumer electronics",Projectors,Projectors,6003288647527,14480173
+Technology,"Consumer electronics",Smartphones,Smartphones,6003289911338,632795240
+"Business and industry",Online,"Web development","Web development",6003290005325,15870730
+"Hobbies and activities","Current events",,"Current events",6003290811111,574410360
+"Business and industry",Banking,,Banking,6003297396138,244329790
+"Food and drink",Beverages,,Beverages,6003299204611,659072330
+"Hobbies and activities","Arts and music",Guitar,Guitar,6003302121228,67522190
+"Hobbies and activities",Vehicles,SUVs,SUVs,6003304473660,69472300
+Entertainment,TV,"TV comedies","TV comedies",6003305361460,60422189
+"Fitness and wellness",Yoga,,Yoga,6003306084421,229789535
+"Food and drink",Cuisine,"Greek cuisine","Greek cuisine",6003306415421,36867763
+"Sports and outdoors",Sports,Skiing,Skiing,6003324287371,141962240
+"Fitness and wellness",Nutrition,,Nutrition,6003324917336,304655380
+Technology,"Consumer electronics",Cameras,Cameras,6003325186571,217496910
+"Fitness and wellness",Dieting,,Dieting,6003327856180,183038770
+"Hobbies and activities",Pets,Dogs,Dogs,6003332344237,264382120
+Entertainment,Music,"Music videos","Music videos",6003332483177,532749750
+Entertainment,Music,"Pop music","Pop music",6003341579196,597705550
+Entertainment,Games,"Board games","Board games",6003342470823,58468748
+"Food and drink",Cuisine,"Korean cuisine","Korean cuisine",6003343485089,52851197
+"Hobbies and activities","Home and garden","Home Appliances","Home Appliances",6003343997689,147724870
+"Food and drink",Cuisine,"Vietnamese cuisine","Vietnamese cuisine",6003346311730,45383139
+"Shopping and fashion",Shopping,"Online shopping","Online shopping",6003346592981,852795040
+"Shopping and fashion",Clothing,Shoes,Shoes,6003348453981,620064970
+"Shopping and fashion","Fashion accessories",,"Fashion accessories",6003348604581,767690070
+"Sports and outdoors","Outdoor recreation",Camping,Camping,6003348662930,99006791
+Technology,Computers,"Computer memory","Computer memory",6003349175527,16179453
+Entertainment,,,Entertainment,6003349442621,1413939530
+Entertainment,Movies,"Musical theatre","Musical theatre",6003351312828,75652990
+"Sports and outdoors",Sports,Triathlons,Triathlons,6003351764757,51200271
+"Hobbies and activities",Vehicles,Motorcycles,Motorcycles,6003353550130,196104970
+"Fitness and wellness",Gyms,,Gyms,6003355530237,226570464
+"Hobbies and activities",Travel,Nature,Nature,6003359996821,535016920
+Entertainment,"Live events",Nightclubs,Nightclubs,6003361714600,253507540
+"Sports and outdoors",Sports,Basketball,Basketball,6003369240775,393798520
+"Fitness and wellness",Zumba,,Zumba,6003369521274,137085776
+"Business and industry","Personal finance","Credit cards","Credit cards",6003369782940,224314170
+"Business and industry",Online,"Search engine optimization","Search engine optimization",6003370636074,40520200
+"Business and industry",Entrepreneurship,,Entrepreneurship,6003371567474,177778010
+"Food and drink",Restaurants,"Fast food restaurants","Fast food restaurants",6003372667195,93497402
+Entertainment,Movies,"Documentary movies","Documentary movies",6003373175581,163776680
+Entertainment,Movies,"Drama movies","Drama movies",6003375422677,169592264
+"Sports and outdoors",Sports,"American football","American football",6003376089674,221520580
+Entertainment,Games,"Role-playing games","Role-playing games",6003380576181,94149083
+Technology,"Consumer electronics","Portable media players","Portable media players",6003381994165,12214880
+"Hobbies and activities",Pets,Reptiles,Reptiles,6003382151137,19912522
+"Fitness and wellness",,,"Fitness and wellness",6003384248805,797104420
+Entertainment,Games,"Racing games","Racing games",6003385141743,92338070
+"Food and drink",Cooking,Recipes,Recipes,6003385609165,308450540
+"Business and industry",Online,"Web hosting","Web hosting",6003387418453,15298400
+"Hobbies and activities","Arts and music",Drums,Drums,6003387633593,32957737
+"Business and industry","Personal finance",Investment,Investment,6003388314512,167395410
+"Business and industry",Online,"Social media marketing","Social media marketing",6003389760112,20373120
+"Shopping and fashion",Shopping,"Shopping malls","Shopping malls",6003390752144,418851180
+"Food and drink",Beverages,"Energy drinks","Energy drinks",6003392512725,55408630
+"Hobbies and activities",Vehicles,RVs,RVs,6003394580331,22449134
+"Hobbies and activities","Politics and social issues",Religion,Religion,6003395353671,320016610
+"Business and industry",Construction,,Construction,6003395414271,214005790
+"Sports and outdoors",Sports,Tennis,Tennis,6003397425735,207910760
+"Fitness and wellness",Running,,Running,6003397496347,194986042
+"Food and drink",Restaurants,"Fast casual restaurants","Fast casual restaurants",6003398056603,62594186
+"Business and industry",Business,,Business,6003402305839,705037310
+"Business and industry",Online,"Web design","Web design",6003402518839,21032470
+Technology,Computers,,Computers,6003404634364,1107889970
+"Food and drink","Alcoholic beverages",,"Alcoholic beverages",6003409043877,393563440
+"Family and relationships",Weddings,,Weddings,6003409392877,191186900
+"Shopping and fashion",Clothing,"Children's clothing","Children's clothing",6003415393053,231069206
+"Hobbies and activities",Pets,Horses,Horses,6003416777039,128254130
+Entertainment,"Live events",Plays,Plays,6003417378239,157787620
+"Food and drink",Cuisine,"French cuisine","French cuisine",6003420024431,73661084
+Entertainment,Reading,"Non-fiction books","Non-fiction books",6003420644631,18937997
+"Hobbies and activities","Politics and social issues","Charity and causes","Charity and causes",6003422719241,55871530
+"Hobbies and activities","Arts and music",Dance,Dance,6003423342191,387586280
+Technology,Computers,"Free software","Free software",6003423416540,536987110
+"Sports and outdoors",Sports,Marathons,Marathons,6003424404140,108434728
+"Hobbies and activities",Travel,Lakes,Lakes,6003430600057,171406856
+"Hobbies and activities",Travel,Tourism,Tourism,6003430696269,451742050
+"Hobbies and activities",Travel,Beaches,Beaches,6003431201869,272270596
+Entertainment,Games,"Browser games","Browser games",6003434373937,61337960
+"Food and drink",Food,Barbecue,Barbecue,6003435096731,142741951
+"Food and drink",Restaurants,,Restaurants,6003436950375,512461120
+"Shopping and fashion",Beauty,Fragrances,Fragrances,6003443805331,242428882
+"Family and relationships",Marriage,,Marriage,6003445506042,196899980
+"Hobbies and activities",Vehicles,Scooters,Scooters,6003446055283,31265270
+"Shopping and fashion",Beauty,"Hair products","Hair products",6003456330903,352371408
+"Shopping and fashion",Clothing,,Clothing,6003456388203,915164050
+"Hobbies and activities",Pets,"Pet food","Pet food",6003461162225,31721818
+Entertainment,Reading,Books,Books,6003462707303,513386440
+"Business and industry","Health care",,"Health care",6003464109203,145473930
+"Business and industry",Banking,"Online banking","Online banking",6003466585319,49423300
+"Hobbies and activities","Home and garden","Do it yourself (DIY)","Do it yourself (DIY)",6003470511564,143378600
+Entertainment,Games,"Shooter games","Shooter games",6003471508663,112960710
+"Fitness and wellness","Weight training",,"Weight training",6003473077165,153451746
+"Family and relationships",Family,,Family,6003476182657,788072890
+"Business and industry",Online,"Display advertising","Display advertising",6003481391264,6037964
+"Food and drink",Beverages,Tea,Tea,6003491283786,364610670
+Entertainment,Music,"Country music","Country music",6003493980595,296878680
+"Food and drink",Cuisine,"Indian cuisine","Indian cuisine",6003494675627,49876185
+"Sports and outdoors","Outdoor recreation",Hiking,Hiking,6003509171264,94441934
+"Sports and outdoors",Sports,Golf,Golf,6003510075864,137289519
+"Sports and outdoors",Sports,Snowboarding,Snowboarding,6003512053894,127592333
+"Business and industry",Online,"Online advertising","Online advertising",6003526234370,76765100
+Entertainment,Games,"Sports games","Sports games",6003540150873,123793940
+"Hobbies and activities",Travel,Hotels,Hotels,6003572379887,287400965
+"Business and industry","Real estate",,"Real estate",6003578086487,221477590
+Entertainment,Games,"Strategy games","Strategy games",6003582500438,71200433
+Entertainment,Music,"Rock music","Rock music",6003582732907,574265740
+"Business and industry",Advertising,,Advertising,6003584163107,211516440
+"Hobbies and activities","Arts and music",Writing,Writing,6003586608473,174004240
+Entertainment,Movies,"Anime movies","Anime movies",6003605717820,165730966
+"Food and drink",Beverages,Coffee,Coffee,6003626773307,381186820
+Technology,Computers,"Hard drives","Hard drives",6003629266583,38614670
+Entertainment,Music,"Heavy metal music","Heavy metal music",6003633122583,261727350
+"Food and drink",Food,Veganism,Veganism,6003641846820,114205477
+Entertainment,Games,"Card games","Card games",6003647522546,112812820
+"Fitness and wellness",Bodybuilding,,Bodybuilding,6003648059946,141891226
+"Business and industry",Design,,Design,6003649983713,808693170
+"Hobbies and activities","Politics and social issues",Politics,Politics,6003654559478,207576060
+"Business and industry",Nursing,,Nursing,6003656063078,68794340
+"Business and industry",Economics,,Economics,6003656112304,179306550
+Technology,Computers,"Network storage","Network storage",6003656296104,29372470
+Entertainment,Movies,"Horror movies","Horror movies",6003656922020,199780613
+"Food and drink",Cooking,,Cooking,6003659420716,497926430
+"Food and drink",Food,Pizza,Pizza,6003668857118,230775840
+Entertainment,Games,"Puzzle video games","Puzzle video games",6003668975718,222468890
+"Hobbies and activities","Politics and social issues",Law,Law,6003703762913,257035830
+"Food and drink",Beverages,Juice,Juice,6003703931713,110724350
+Technology,"Consumer electronics",,"Consumer electronics",6003716669862,1251621870
+"Hobbies and activities","Arts and music",Sculpture,Sculpture,6003717247746,75663320
+"Hobbies and activities",Vehicles,Hybrids,Hybrids,6003717914546,16472447
+Technology,"Consumer electronics","Audio equipment","Audio equipment",6003729124262,17104346
+"Business and industry",Retail,,Retail,6003778400853,336562590
+"Sports and outdoors","Outdoor recreation","Horseback riding","Horseback riding",6003779859852,51683752
+"Business and industry",Online,,Online,6003780008652,675596680
+"Hobbies and activities","Arts and music",Drawing,Drawing,6003780025252,95733950
+"Business and industry",Agriculture,,Agriculture,6003840140052,248684520
+"Hobbies and activities","Arts and music",Photography,Photography,6003899195666,654066380
+Entertainment,Music,"Electronic music","Electronic music",6003902397066,414205930
+"Hobbies and activities",Travel,"Theme parks","Theme parks",6003902462066,190877843
+Entertainment,Games,"Video games","Video games",6003940339466,793111810
+Technology,"Consumer electronics","Game consoles","Game consoles",6003943667466,284208200
+"Hobbies and activities","Politics and social issues",Environmentalism,Environmentalism,6003970975896,38031700
+Technology,,,Technology,6003985771306,1373576010
+"Business and industry",Online,"Social media","Social media",6004030160948,161758460
+"Hobbies and activities",Vehicles,Boats,Boats,6004037107009,54072630
+"Food and drink",Food,"Fast food","Fast food",6004037400009,238544060
+"Hobbies and activities",Pets,,Pets,6004037726009,530217040
+"Business and industry",Management,,Management,6004037932409,176618210
+Entertainment,Reading,Newspapers,Newspapers,6004043913548,491757010
+"Food and drink",Cuisine,"German cuisine","German cuisine",6004094205989,31779888
+"Family and relationships",Friendship,,Friendship,6004100985609,692485380
+"Fitness and wellness","Physical exercise",,"Physical exercise",6004115167424,305499520
+"Business and industry",Architecture,,Architecture,6004140335706,376066020
+"Hobbies and activities",Travel,,Travel,6004160395895,955772490
+Technology,Computers,Software,Software,6005609368513,552050390
+"Shopping and fashion",Shopping,"Luxury goods","Luxury goods",6007828099136,456073388
+"Business and industry",,,"Business and industry",6008740787350,1243540060
+"Sports and outdoors",,,"Sports and outdoors",6008803895164,1137715710
+Technology,"Consumer electronics","E-book readers","E-book readers",6008832464480,15145139
+"Food and drink",,,"Food and drink",6009248606271,1085117420
+"Hobbies and activities","Home and garden",,"Home and garden",6009422452499,514149250
+Entertainment,"Live events",,"Live events",6010924093432,671530320
+"Shopping and fashion",Clothing,"Women's clothing","Women's clothing",6011366104268,490002570
+"Hobbies and activities","Politics and social issues",,"Politics and social issues",6011515350975,692140850
+"Shopping and fashion",Clothing,"Men's clothing","Men's clothing",6011994253127,403050670
+"Hobbies and activities",,,"Hobbies and activities",6012547807252,1302322350
+"Family and relationships",,,"Family and relationships",6012684376438,1019524230

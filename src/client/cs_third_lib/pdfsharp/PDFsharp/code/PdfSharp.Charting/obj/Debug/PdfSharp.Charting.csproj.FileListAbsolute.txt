@@ -1,0 +1,14 @@
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.Charting.dll
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.dll
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.pdb
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\bin\Debug\PdfSharp.xml
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.csprojResolveAssemblyReference.cache
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.Resources.Messages.resources
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.Resources.Messages.de.resources
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.csproj.GenerateResource.Cache
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\obj\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.dll
+C:\Users\zengtao\work\eli_svn\src\client\cs_third_lib\pdfsharp\PDFsharp\code\PdfSharp.Charting\obj\Debug\PdfSharp.Charting.pdb

@@ -1,0 +1,31 @@
+{
+  "config_list":[
+    {
+      "accountId": "492-992-9778",
+      "campaignName": "uac_api_003",
+      "appId": "com.ss.android.article.topbuzzvideo",
+      "startDate":"20180101",
+      "endDate": "20180630",
+      "budgetId": "",
+      "budgetAmount": "100",
+      "bidAmount": "0.2",
+      "countryCodes":[
+        "US",
+        "NG"
+      ],
+      "languages":[
+        "English"
+      ],
+      "descTexts":[
+        "api001",
+        "api002",
+        "api003",
+        "api004"
+      ],
+      "imageIds": [
+        "3043399396"
+      ],
+      "imagePath": ""
+    }
+  ]
+}
